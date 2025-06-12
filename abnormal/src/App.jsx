@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./Common/navbar";
 import Hero from "./Home/Hero";
 import Services from "./Home/Services";
 import About from "./About/about";
@@ -10,11 +9,13 @@ import BestCompanies from "./Home/BestCompanies";
 import AllCompanies from "./Home/Allcompanies";
 import PopularJobs from "./Home/PopularJobs";
 import AllJobsPage from "./Home/AllJobsPage";
+import Navbar from "./Common/Navbar";
+
 
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Navbar/>
       
       <div className="pt-20">
         <Routes>
