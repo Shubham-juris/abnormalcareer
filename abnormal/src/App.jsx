@@ -1,4 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+import Navbar from "./Common/Navbar";
+
 import Hero from "./Home/Hero";
 import Services from "./Home/Services";
 import About from "./About/About";
@@ -9,7 +12,7 @@ import BestCompanies from "./Home/BestCompanies";
 import AllCompanies from "./Home/Allcompanies";
 import PopularJobs from "./Home/PopularJobs";
 import AllJobsPage from "./Home/AllJobsPage";
-import Navbar from "./Common/Navbar";
+
 
 
 function App() {
@@ -40,7 +43,7 @@ function App() {
           {/* Optional route for future */}
           <Route path="*" element={<div>404 - Not Found</div>} />
         </Routes>
-        <Footer />
+        <Footer/>
       </div>
     </Router>
   );
