@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { HiMenu, HiX } from "react-icons/hi";
 import { FaMoon, FaSun } from "react-icons/fa";
-import logo from "../assets/logo.webp"; // ✅ update this to correct relative path
+import logo from "../assets/logo.png" // ✅ update this to correct relative path
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -49,10 +49,11 @@ const Navbar = () => {
         <div className="flex items-center gap-3">
           <Link to="/">
             <img
-              src={logo}
-              alt="Aboriginal Career Logo"
-              className="h-10 w-auto"
-            />
+  src={logo}
+  alt="Aboriginal Career Logo"
+  className="h-19 w-auto max-w-[250px]"
+/>
+
           </Link>
         </div>
 

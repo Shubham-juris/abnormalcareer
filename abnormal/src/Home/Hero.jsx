@@ -1,5 +1,5 @@
 import React from "react";
-import bgImage from "../assets/background.webp"; // adjust path if needed
+import bgImage from "../assets/background.webp"; // ✅ ensure the path is correct
 
 const Hero = () => {
   const styles = {
@@ -58,13 +58,11 @@ const Hero = () => {
       <div style={styles.overlay}></div>
       <div style={styles.box}>
         <h1 style={styles.heading}>
-          The Job Seeker Portal for{" "}
-          <span style={styles.highlight}>Canadian</span>
-          <br />
-          Indigenous <span style={styles.highlight}>Peoples</span>
+          Empowering <span style={styles.highlight}>Indigenous Talent</span><br />
+          Across <span style={styles.highlight}>Canada</span>
         </h1>
         <p style={styles.subtext}>
-          With a few clicks, you can access thousands of Indigenous job openings across Canada.
+          Discover meaningful career opportunities designed to support Indigenous communities and help you thrive professionally.
         </p>
       </div>
     </div>
