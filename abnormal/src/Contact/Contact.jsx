@@ -75,7 +75,7 @@ const Contact = () => {
         <p style={styles.paragraph}>
           If you would like to contact us and receive support, we recommend sending us an email. One of our representatives will reply to you within 24 hours.
         </p>
-        <p style={styles.contactInfo}>admin@aboriginalcareer.ca</p>
+        <p style={styles.contactInfo}>admin@careerjobs.ca</p>
       </div>
     </div>
   );

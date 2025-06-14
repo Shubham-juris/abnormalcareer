@@ -1,6 +1,5 @@
-
 import React, { useEffect } from "react";
-import aboutImg from "../assets/about.webp"; // Add your image here
+import aboutImg from "../assets/about.webp"; // Make sure the path is correct
 
 const About = () => {
   useEffect(() => {
@@ -13,24 +12,22 @@ const About = () => {
         
         {/* Left Image */}
         <div>
-          <img src={aboutImg} alt="About Aboriginal Career" className="rounded-lg shadow-lg" />
+          <img src={aboutImg} alt="About Us" className="rounded-lg shadow-lg" />
         </div>
 
         {/* Right Content */}
         <div>
           <h2 className="text-4xl font-bold text-gray-800 dark:text-white mb-6">
-            About us at <span className="text-indigo-700 dark:text-indigo-400">Aboriginal Career</span>
+            Your Path to a <span className="text-indigo-700 dark:text-indigo-400">Better Career</span> Starts Here
           </h2>
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed space-y-4">
-            AboriginalCareer.ca is a job portal website designed to connect Aboriginal people in Canada with employment opportunities that match their skills and interests. Our platform offers a wide range of job postings, from entry-level positions to senior management roles, in various industries across Canada.
+            We are committed to connecting job seekers with the right opportunities that align with their skills, goals, and ambitions. Our platform serves as a bridge between talented individuals and companies that are actively hiring across various industries.
             <br /><br />
-            Our goal is to bridge the gap between employers and job seekers in the Aboriginal community, by providing a platform where employers can find highly skilled and qualified candidates and job seekers can explore job opportunities that align with their career aspirations.
+            Whether you're looking for your first job, planning a career change, or aiming for your next leadership role, our goal is to make your job search easier, faster, and more successful.
             <br /><br />
-            At AboriginalCareer.ca, we understand the unique challenges that Aboriginal people face when entering the workforce. That's why we offer a range of resources and support services to help job seekers navigate the job search process, including career advice, resume writing tips, interview preparation, and job search strategies.
+            With a wide range of job listings, resume-building tools, and interview guidance, we’re here to help you every step of the way. We also partner with inclusive employers who value diversity, innovation, and professional growth.
             <br /><br />
-            We also work closely with employers to create a diverse and inclusive workplace, where Aboriginal people are valued and provided with equal employment opportunities. Our team of dedicated professionals is committed to ensuring that Aboriginal people have access to meaningful employment opportunities and can achieve their career goals.
-            <br /><br />
-            Whether you are a recent graduate, an experienced professional, or seeking a career change, AboriginalCareer.ca is the perfect platform to find your dream job. Join our community of Aboriginal job seekers today and take the first step towards a rewarding career.
+            Our mission is to support your journey toward meaningful employment and long-term career success. Take control of your future — discover your potential, explore new opportunities, and build a career you’re proud of.
           </p>
         </div>
       </div>
