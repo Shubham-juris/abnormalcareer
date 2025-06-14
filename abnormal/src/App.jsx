@@ -1,10 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./Common/navbar";
+import Navbar from "./Common/Navbar";
 import Hero from "./Home/Hero";
 import Services from "./Home/Services";
 import About from "./About/about";
 import Contact from "./Contact/Contact";
-import Footer from "./Common/footer";
+import Footer from "./Common/Footer";
 import Register from "./Register/Register";
 import BestCompanies from "./Home/BestCompanies";
 import AllCompanies from "./Home/Allcompanies";
