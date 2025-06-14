@@ -14,7 +14,7 @@ import AllJobsPage from "./Home/AllJobsPage";
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Navbar/>
       
       <div className="pt-20">
         <Routes>
@@ -39,7 +39,7 @@ function App() {
           {/* Optional route for future */}
           <Route path="*" element={<div>404 - Not Found</div>} />
         </Routes>
-        <Footer />
+        <Footer/>
       </div>
     </Router>
   );
