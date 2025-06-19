@@ -1,21 +1,62 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
-const dummyJobs = Array.from({ length: 50 }, (_, i) => ({
-  title: `Job Position ${i + 1}`,
-  type: "Full Time",
-  posted: `${Math.floor(Math.random() * 24)} hours ago`,
-}));
+// Use real timestamps for sorting
+const dummyJobs = [
+  {
+    id: "cashier",
+    title: "Cashier",
+    type: "Full Time",
+    posted: new Date("2025-06-19T07:00:00Z"), // 2 hours ago
+  },
+  {
+    id: "warehouse-supervisor",
+    title: "Warehouse Supervisor (12013)",
+    type: "Full Time",
+    posted: new Date("2025-06-19T04:00:00Z"), // 5 hours ago
+  },
+  {
+    id: "office-admin",
+    title: "Office Administrative Assistant (13110)",
+    type: "Full Time",
+    posted: new Date("2025-06-18T23:00:00Z"), // 10 hours ago
+  },
+  {
+    id: "delivery-driver",
+    title: "Delivery Truck Driver (NOC 75201)",
+    type: "Full Time",
+    posted: new Date("2025-06-18T21:00:00Z"), // 12 hours ago
+  },
+  {
+    id: "sales-supervisor",
+    title: "Sales Supervisor - Retail (NOC 62010)",
+    type: "Full Time",
+    posted: new Date("2025-06-18T18:00:00Z"), // 15 hours ago
+  },
+  {
+    id: "construction-labourer",
+    title: "Construction Labourer - CLP Services Ltd.",
+    type: "Full Time",
+    posted: new Date("2025-06-18T08:00:00Z"), // 1 day ago
+  },
+];
 
 const AllJobsPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
-  const [category, setCategory] = useState("");
   const [jobs, setJobs] = useState(dummyJobs);
 
-  const handleSort = () => {
-    const sorted = [...jobs].sort((a, b) =>
-      parseInt(a.posted) - parseInt(b.posted)
-    );
+  const handleSortByDate = () => {
+    const sorted = [...jobs].sort((a, b) => b.posted - a.posted);
     setJobs(sorted);
+  };
+
+  const formatTimeAgo = (date) => {
+    const now = new Date();
+    const diff = Math.floor((now - date) / (1000 * 60)); // difference in minutes
+
+    if (diff < 60) return `${diff} minutes ago`;
+    if (diff < 1440) return `${Math.floor(diff / 60)} hours ago`;
+    return `${Math.floor(diff / 1440)} days ago`;
   };
 
   const filteredJobs = jobs.filter((job) =>
@@ -30,34 +71,25 @@ const AllJobsPage = () => {
         Read reviews on over 30000+ companies worldwide.
       </p>
 
-      <div className="flex flex-col sm:flex-row gap-4 items-center mb-6">
+      <div className="flex flex-col sm:flex-row items-center gap-4 mb-6">
         <input
           type="text"
-          placeholder="Job title, NOC, ..."
+          placeholder="Search jobs..."
           className="border rounded-md p-2 w-full sm:w-1/2"
           onChange={(e) => setSearchTerm(e.target.value)}
         />
-        <select
-          className="border rounded-md p-2 w-full sm:w-1/4"
-          onChange={(e) => setCategory(e.target.value)}
-        >
-          <option value="">Category</option>
-          <option value="admin">Admin</option>
-          <option value="driver">Driver</option>
-          <option value="retail">Retail</option>
-        </select>
         <button
-          onClick={handleSort}
-          className="bg-gray-500 text-white px-4 py-2 rounded-md shadow"
+          onClick={handleSortByDate}
+          className="bg-gray-700 text-white px-4 py-2 rounded-md"
         >
           Sort by Date
         </button>
       </div>
 
       <div className="space-y-4">
-        {filteredJobs.map((job, i) => (
+        {filteredJobs.map((job) => (
           <div
-            key={i}
+            key={job.id}
             className="bg-white rounded-lg shadow p-4 flex justify-between items-center"
           >
             <div>
@@ -65,10 +97,12 @@ const AllJobsPage = () => {
               <p className="text-sm text-gray-600">{job.type}</p>
             </div>
             <div className="text-right">
-              <p className="text-sm text-gray-400 mb-2">{job.posted}</p>
-              <button className="bg-gray-700 text-white px-4 py-1 rounded-md">
-                Apply
-              </button>
+              <p className="text-sm text-gray-400 mb-2">{formatTimeAgo(job.posted)}</p>
+              <Link to={`/job/${job.id}`}>
+                <button className="bg-gray-700 text-white px-4 py-1 rounded-md">
+                  Apply
+                </button>
+              </Link>
             </div>
           </div>
         ))}
