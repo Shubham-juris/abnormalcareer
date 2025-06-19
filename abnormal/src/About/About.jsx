@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import aboutImg from "../assets/about.webp"; // Make sure the path is correct
+import aboutImg from "../assets/about.jpg"; // Make sure the path is correct
 
 const About = () => {
   useEffect(() => {

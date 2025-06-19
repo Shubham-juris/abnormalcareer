@@ -1,8 +1,8 @@
 import React from "react";
 import { FaMapMarkerAlt } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import officeImg1 from "../assets/ab03.webp"; // taller image
-import officeImg2 from "../assets/ab04.webp"; // smaller image
+import officeImg1 from "../assets/ab03.jpg"; // taller image
+import officeImg2 from "../assets/ab04.jpg"; // smaller image
 
 const companies = [
   { name: "NEO SOFT CANADA INC.", location: "Toronto, Ontario" },

@@ -1,5 +1,5 @@
 import React from "react";
-import bgImage from "../assets/background.webp"; // ✅ ensure the path is correct
+import bgImage from "../assets/background.jpg"; // ✅ ensure the path is correct
 
 const Hero = () => {
   const styles = {
