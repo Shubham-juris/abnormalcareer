@@ -20,11 +20,9 @@ const Footer = () => {
 
       <div className="border-t border-gray-300 dark:border-gray-700 text-center text-sm py-4 px-4">
         <p className="mb-2">
-          ©2025 Design & Develop with <FaHeart className="inline text-red-500 mx-1" /> by BetterPro. Vancouver. All rights reserved
+          ©2025 Career Club.  All Rights Reserved
         </p>
-        <p className="max-w-4xl mx-auto text-xs text-gray-600 dark:text-gray-400">
-          When you visit or interact with our sites, services or tools, we or our authorised service providers may use cookies for storing information to help provide you with a better, faster and safer experience and for marketing purposes.
-        </p>
+       
       </div>
     </footer>
   );

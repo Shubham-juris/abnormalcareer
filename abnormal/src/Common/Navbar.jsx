@@ -8,13 +8,13 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
 
-  useEffect(() => {
-    if (darkMode) {
-      document.documentElement.classList.add("dark");
-    } else {
-      document.documentElement.classList.remove("dark");
-    }
-  }, [darkMode]);
+  // useEffect(() => {
+  //   if (darkMode) {
+  //     document.documentElement.classList.add("dark");
+  //   } else {
+  //     document.documentElement.classList.remove("dark");
+  //   }
+  // }, [darkMode]);
 
   const navLinks = (
     <>

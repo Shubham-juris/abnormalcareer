@@ -12,6 +12,8 @@ import BestCompanies from "./Home/BestCompanies";
 import AllCompanies from "./Home/Allcompanies";
 import PopularJobs from "./Home/PopularJobs";
 import AllJobsPage from "./Home/AllJobsPage";
+import Sign from "./Signin/Sign";
+import JobDetailPage from "./Home/JobDetailPage";
 
 
 
@@ -36,10 +38,12 @@ function App() {
             }
           />
            <Route path="/jobs" element={<AllJobsPage />} />
+           <Route path="/job/:jobId" element={<JobDetailPage/>} />
           <Route path="/companies" element={<AllCompanies />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/register" element={<Register />} />
+          <Route path="/signin" element={<Sign/>} />
           {/* Optional route for future */}
           <Route path="*" element={<div>404 - Not Found</div>} />
         </Routes>
