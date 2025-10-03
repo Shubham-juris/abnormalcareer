@@ -1,108 +1,91 @@
-import React, { useState } from "react";
-import { Link } from "react-router-dom";
-
-// Use real timestamps for sorting
-const dummyJobs = [
-  {
-    id: "cashier",
-    title: "Cashier",
-    type: "Full Time",
-    posted: new Date("2025-06-19T07:00:00Z"), // 2 hours ago
-  },
-  {
-    id: "warehouse-supervisor",
-    title: "Warehouse Supervisor (12013)",
-    type: "Full Time",
-    posted: new Date("2025-06-19T04:00:00Z"), // 5 hours ago
-  },
-  {
-    id: "office-admin",
-    title: "Office Administrative Assistant (13110)",
-    type: "Full Time",
-    posted: new Date("2025-06-18T23:00:00Z"), // 10 hours ago
-  },
-  {
-    id: "delivery-driver",
-    title: "Delivery Truck Driver (NOC 75201)",
-    type: "Full Time",
-    posted: new Date("2025-06-18T21:00:00Z"), // 12 hours ago
-  },
-  {
-    id: "sales-supervisor",
-    title: "Sales Supervisor - Retail (NOC 62010)",
-    type: "Full Time",
-    posted: new Date("2025-06-18T18:00:00Z"), // 15 hours ago
-  },
-  {
-    id: "construction-labourer",
-    title: "Construction Labourer - CLP Services Ltd.",
-    type: "Full Time",
-    posted: new Date("2025-06-18T08:00:00Z"), // 1 day ago
-  },
-];
+import React, { useState, useEffect } from "react";
+import jobsData from "../data/Jobs.json";
 
 const AllJobsPage = () => {
-  const [searchTerm, setSearchTerm] = useState("");
-  const [jobs, setJobs] = useState(dummyJobs);
+  const [jobs, setJobs] = useState([]);
 
-  const handleSortByDate = () => {
-    const sorted = [...jobs].sort((a, b) => b.posted - a.posted);
-    setJobs(sorted);
-  };
+  useEffect(() => {
+    const formattedJobs = jobsData.map(job => ({
+      ...job,
+      posted: new Date(job.posted),
+    }));
+    setJobs(formattedJobs);
+  }, []);
 
-  const formatTimeAgo = (date) => {
-    const now = new Date();
-    const diff = Math.floor((now - date) / (1000 * 60)); // difference in minutes
-
-    if (diff < 60) return `${diff} minutes ago`;
-    if (diff < 1440) return `${Math.floor(diff / 60)} hours ago`;
-    return `${Math.floor(diff / 1440)} days ago`;
-  };
-
-  const filteredJobs = jobs.filter((job) =>
-    job.title.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  if (jobs.length === 0) return <p className="text-center mt-10">Loading...</p>;
 
   return (
-    <section className="p-8 max-w-5xl mx-auto">
-      <h2 className="text-3xl font-bold text-center mb-2">Popular Jobs</h2>
-      <p className="text-center text-gray-500 mb-6">
-        Search all the open positions on the web. Get your own personalized salary estimate. <br />
-        Read reviews on over 30000+ companies worldwide.
-      </p>
+    <section className="p-8 max-w-7xl mx-auto">
+      <h1 className="text-center text-2xl font-bold mb-6">WE ARE HIRING!</h1>
 
-      <div className="flex flex-col sm:flex-row items-center gap-4 mb-6">
-        <input
-          type="text"
-          placeholder="Search jobs..."
-          className="border rounded-md p-2 w-full sm:w-1/2"
-          onChange={(e) => setSearchTerm(e.target.value)}
-        />
-        <button
-          onClick={handleSortByDate}
-          className="bg-gray-700 text-white px-4 py-2 rounded-md"
-        >
-          Sort by Date
-        </button>
-      </div>
-
-      <div className="space-y-4">
-        {filteredJobs.map((job) => (
-          <div
-            key={job.id}
-            className="bg-white rounded-lg shadow p-4 flex justify-between items-center"
-          >
+      <div className="flex flex-col gap-16">
+        {jobs.map((job) => (
+          <div key={job.id} className="grid md:grid-cols-2 gap-10 border-b pb-10">
+            {/* LEFT SIDE - Job Information */}
             <div>
-              <h3 className="font-semibold text-lg">{job.title}</h3>
-              <p className="text-sm text-gray-600">{job.type}</p>
+              <h2 className="text-3xl font-bold text-blue-700 mb-2">{job.title}</h2>
+              <p className="text-gray-600 mb-4">NextLevel Management</p>
+
+              <h3 className="font-semibold text-lg">Job Details</h3>
+              <ul className="list-disc list-inside mb-4 text-gray-700">
+                <li>Job type: {job.type}</li>
+                <li>Location: Calgary, Alberta</li>
+                <li>Posted: {job.posted.toLocaleDateString()}</li>
+                <li>Pay: $37.00 per hour</li>
+                <li>Hours: 40 per week</li>
+              </ul>
+
+              <h3 className="font-semibold text-lg">Full Job Description</h3>
+              <p className="mb-4">{job.description}</p>
+
+              <h3 className="font-semibold text-lg">Qualifications</h3>
+              <ul className="list-disc list-inside mb-4 text-gray-700">
+                <li>Bachelor's degree</li>
+                <li>3-5 years experience</li>
+              </ul>
+
+              <h3 className="font-semibold text-lg">Responsibilities</h3>
+              <ul className="list-disc list-inside mb-4 text-gray-700">
+                <li>Supervise staff</li>
+                <li>Oversee operations</li>
+                <li>Implement company policies</li>
+                <li>Manage budgets</li>
+                <li>Prepare reports</li>
+                <li>Resolve issues</li>
+              </ul>
             </div>
-            <div className="text-right">
-              <p className="text-sm text-gray-400 mb-2">{formatTimeAgo(job.posted)}</p>
-              <Link to={`/job/${job.id}`}>
-                <button className="bg-gray-700 text-white px-4 py-1 rounded-md">
-                  Apply
+
+            {/* RIGHT SIDE - Apply Form */}
+            <div className="bg-gray-50 border rounded-xl p-6 shadow">
+              <h3 className="text-lg font-semibold mb-4">APPLY NOW</h3>
+              <form className="flex flex-col gap-4">
+                <input
+                  type="text"
+                  placeholder="Name"
+                  className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                />
+                <input
+                  type="text"
+                  placeholder="Phone"
+                  className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                />
+                <input
+                  type="email"
+                  placeholder="Email*"
+                  className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                />
+                <textarea
+                  placeholder="Cover letter"
+                  rows="5"
+                  className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                ></textarea>
+                <button
+                  type="submit"
+                  className="bg-blue-600 hover:bg-blue-700 transition text-white py-2 rounded-full text-sm"
+                >
+                  SUBMIT APPLICATION
                 </button>
-              </Link>
+              </form>
             </div>
           </div>
         ))}

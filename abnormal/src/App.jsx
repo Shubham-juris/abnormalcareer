@@ -14,6 +14,7 @@ import PopularJobs from "./Home/PopularJobs";
 import AllJobsPage from "./Home/AllJobsPage";
 import Sign from "./Signin/Sign";
 import JobDetailPage from "./Home/JobDetailPage";
+import ApplyPage from "./Home/ApplyPage";
 
 
 
@@ -38,7 +39,7 @@ function App() {
             }
           />
            <Route path="/jobs" element={<AllJobsPage />} />
-           <Route path="/job/:jobId" element={<JobDetailPage/>} />
+           <Route path="/job/:id/apply" element={<ApplyPage/>} />
           <Route path="/companies" element={<AllCompanies />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
