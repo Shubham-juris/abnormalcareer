@@ -1,5 +1,140 @@
 [
   {
+    "id": "journeyman_parts_technician",
+    "title": "Journeyman Parts Technician - Heavy Duty",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Prepare and maintain sales orders, customer lists, and purchase orders with receipts. Provide estimates to internal and external customers.",
+    "location": "Lloydminster, AB",
+    "company": "Truck Zone"
+  },
+  {
+    "id": "service_writer",
+    "title": "Service Writer",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Utilize service information to print documents, check for recalls, and handle customer inquiries.",
+    "location": "Drumheller, AB",
+    "company": "Glover International Trucks Ltd"
+  },
+  {
+    "id": "mobile_app_developer",
+    "title": "Mobile App Developer - AI Trainer",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Train AI models by annotating data and providing feedback on app performance.",
+    "location": "Calgary, AB",
+    "company": "DataAnnotation"
+  },
+  {
+    "id": "conseiller_bancaire",
+    "title": "Conseiller bancaire",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Assist clients with banking services and resolve complex situations.",
+    "location": "Edmonton, AB",
+    "company": "National Bank of Canada"
+  },
+  {
+    "id": "carpenter",
+    "title": "Carpenter",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Measure, cut, shape, assemble, and join materials made of wood and wood substitutes.",
+    "location": "Calgary, AB",
+    "company": "Giusti Group Limited Partnership"
+  },
+  {
+    "id": "administrative_assistant",
+    "title": "Administrative Assistant",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Provide administrative support, manage schedules, and handle correspondence.",
+    "location": "Remote in Alberta",
+    "company": "Suncorp Valuations"
+  },
+  {
+    "id": "marketing_coordinator",
+    "title": "Marketing Coordinator - AI Trainer",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Research and fact-check AI responses, and assist in marketing efforts.",
+    "location": "Edmonton, AB",
+    "company": "DataAnnotation"
+  },
+  {
+    "id": "warehouse_management_trainee",
+    "title": "Warehouse Management Trainee",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Master all aspects of warehouse operations management through an 18-month training program.",
+    "location": "St. Albert, AB",
+    "company": "Uline"
+  },
+  {
+    "id": "work_at_home_customer_service",
+    "title": "Work at Home Customer Service Opportunity",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Provide customer service from home, handling inquiries and resolving issues.",
+    "location": "Remote in Edmonton, AB",
+    "company": "TP Canada"
+  },
+  {
+    "id": "banking_advisor",
+    "title": "BANKING ADVISOR",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Assist clients with banking services and financial advice.",
+    "location": "Red Deer, AB",
+    "company": "National Bank of Canada"
+  },
+  {
+    "id": "member_advisor",
+    "title": "Member Advisor",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Process a variety of cash and non-cash member service transactions.",
+    "location": "Whitecourt, AB",
+    "company": "Servus Credit Union"
+  },
+  {
+    "id": "assistant_store_manager",
+    "title": "Assistant Store Manager",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Assist and support the Store Manager with all functions related to store operations.",
+    "location": "Camrose, AB",
+    "company": "UFA Co-operative Ltd."
+  },
+  {
+    "id": "member_experience_advisor_st_paul",
+    "title": "Member Experience Advisor - St. Paul/Elk Point",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Process a variety of cash and non-cash member service transactions.",
+    "location": "St. Paul, AB",
+    "company": "Servus Credit Union"
+  },
+  {
+    "id": "member_experience_advisor_gibbons",
+    "title": "Member Experience Advisor - Gibbons/Morinville",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Process a variety of cash and non-cash member service transactions.",
+    "location": "Gibbons, AB",
+    "company": "Servus Credit Union"
+  },
+  {
+    "id": "service_writer2",
+    "title": "Service Writer",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Utilize service information to print documents, check for recalls, and handle customer inquiries.",
+    "location": "Drumheller, AB",
+    "company": "Glover International Trucks Ltd"
+  },
+  {
     "id": "cashier",
     "title": "Cashier",
     "type": "Full Time",
