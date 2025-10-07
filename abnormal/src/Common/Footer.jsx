@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/logo.png'; // Adjust the path if needed
+import logo from '../assets/logo2.png'; 
 import { FaHeart } from "react-icons/fa";
 
 const Footer = () => {
