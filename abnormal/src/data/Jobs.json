@@ -1,6 +1,112 @@
-[
-  
-  
+[ 
+  {
+    "id": "qc_manager_calgary_1001",
+    "title": "Quality Control Manager",
+    "type": "Full Time",
+    "posted": "2025-10-06T10:30:00Z",
+    "description": "Lead quality control operations in drilling tools manufacturing. Ensuring standards and inspections.",
+    "location": "Calgary, AB",
+    "company": "Western Drilling Tools Inc."
+  },
+  {
+    "id": "api_inspector_calgary_1002",
+    "title": "API Inspector",
+    "type": "Full Time",
+    "posted": "2025-10-06T09:45:00Z",
+    "description": "Perform inspections on pressure vessels, piping systems, and storage tanks per API 510/570/653.",
+    "location": "Calgary, AB",
+    "company": "Precision NDT LLC"
+  },
+  {
+    "id": "device_engineer_calgary_1003",
+    "title": "Facility Engineer",
+    "type": "Full Time",
+    "posted": "2025-10-05T13:20:00Z",
+    "description": "Manage facility operations, maintenance, and upgrades in industrial site.",
+    "location": "Calgary, AB",
+    "company": "E3 Lithium"
+  },
+  {
+    "id": "supervisor_fabricator_calgary_1004",
+    "title": "Supervisor – Fabricator (CNC Plasma Focus)",
+    "type": "Full Time",
+    "posted": "2025-10-05T11:00:00Z",
+    "description": "Supervise shop operations for CNC plasma fabrication projects.",
+    "location": "Calgary, AB",
+    "company": "NEXTreme Inc."
+  },
+  {
+    "id": "senior_electrical_designer_calgary_1005",
+    "title": "Senior Electrical Designer",
+    "type": "Full Time",
+    "posted": "2025-10-04T15:50:00Z",
+    "description": "Design electrical systems, review documentation and collaborate with project teams.",
+    "location": "Calgary, AB",
+    "company": "CANUSA EPC"
+  },
+  {
+    "id": "full_stack_dev_calgary_1006",
+    "title": "Senior Full Stack Developer",
+    "type": "Full Time",
+    "posted": "2025-10-06T08:20:00Z",
+    "description": "Develop end-to-end web applications, work on REST APIs, front-end and back-end.",
+    "location": "Calgary, AB",
+    "company": "Boardwalk"
+  },
+  {
+    "id": "qa_automation_calgary_1007",
+    "title": "QA Automation Developer",
+    "type": "Full Time",
+    "posted": "2025-10-06T09:10:00Z",
+    "description": "Develop automated tests for APIs and software, ensure quality and performance.",
+    "location": "Calgary, AB",
+    "company": "Raise"
+  },
+  {
+    "id": "mechanical_eit_calgary_1008",
+    "title": "Mechanical EIT",
+    "type": "Full Time",
+    "posted": "2025-10-06T12:00:00Z",
+    "description": "Assist mechanical engineering tasks, site inspections, quality checks in pipeline projects.",
+    "location": "Calgary, AB",
+    "company": "BBA"
+  },
+  {
+    "id": "software_dev_calgary_1009",
+    "title": "Full Stack Developer – Trading IT",
+    "type": "Full Time",
+    "posted": "2025-10-06T07:40:00Z",
+    "description": "Work on trading platform tools, implement features and integrate with APIs.",
+    "location": "Calgary, AB",
+    "company": "Trafigura"
+  },
+  {
+    "id": "api_developer_calgary_1010",
+    "title": "API / Operational Developer",
+    "type": "Full Time",
+    "posted": "2025-10-06T10:50:00Z",
+    "description": "Develop and maintain integration APIs between services and external platforms.",
+    "location": "Calgary, AB",
+    "company": "ScanSource Canada"
+  },
+  {
+    "id": "production_supervisor_calgary_1011",
+    "title": "Production Supervisor",
+    "type": "Full Time",
+    "posted": "2025-10-06T11:30:00Z",
+    "description": "Supervise manufacturing department, manage staff, ensure production targets, quality.",
+    "location": "Calgary, AB",
+    "company": "Coil Solutions Inc."
+  },
+  {
+    "id": "pipeline_integrity_calgary_1012",
+    "title": "Pipeline Integrity Engineer / Technologist",
+    "type": "Full Time",
+    "posted": "2025-10-06T09:55:00Z",
+    "description": "Manage pipeline integrity programs, inspections, data analysis, compliance.",
+    "location": "Calgary, AB",
+    "company": "TC Energy"
+  },
   {
     "id": "warehouse_supervisor_002",
     "title": "Warehouse Supervisor",
