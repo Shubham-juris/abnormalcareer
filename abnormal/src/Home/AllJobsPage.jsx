@@ -5,14 +5,15 @@ const AllJobsPage = () => {
   const [jobs, setJobs] = useState([]);
 
   useEffect(() => {
-    const formattedJobs = jobsData.map(job => ({
+    const formattedJobs = jobsData.map((job) => ({
       ...job,
       posted: new Date(job.posted),
     }));
     setJobs(formattedJobs);
   }, []);
 
-  if (jobs.length === 0) return <p className="text-center mt-10">Loading...</p>;
+  if (jobs.length === 0)
+    return <p className="text-center mt-10">Loading...</p>;
 
   return (
     <section className="p-8 max-w-7xl mx-auto">
@@ -23,13 +24,15 @@ const AllJobsPage = () => {
           <div key={job.id} className="grid md:grid-cols-2 gap-10 border-b pb-10">
             {/* LEFT SIDE - Job Information */}
             <div>
-              <h2 className="text-3xl font-bold text-blue-700 mb-2">{job.title}</h2>
-              <p className="text-gray-600 mb-4">NextLevel Management</p>
+              <h2 className="text-3xl font-bold text-blue-700 mb-2">
+                {job.title}
+              </h2>
+              <p className="text-gray-600 mb-4">{job.company}</p>
 
               <h3 className="font-semibold text-lg">Job Details</h3>
               <ul className="list-disc list-inside mb-4 text-gray-700">
                 <li>Job type: {job.type}</li>
-                <li>Location: Calgary, Alberta</li>
+                <li>Location: {job.location}</li>
                 <li>Posted: {job.posted.toLocaleDateString()}</li>
                 <li>Pay: $37.00 per hour</li>
                 <li>Hours: 40 per week</li>
@@ -40,18 +43,26 @@ const AllJobsPage = () => {
 
               <h3 className="font-semibold text-lg">Qualifications</h3>
               <ul className="list-disc list-inside mb-4 text-gray-700">
-                <li>Bachelor's degree</li>
-                <li>3-5 years experience</li>
+                <li>Bachelor's degree (Engineering or related field preferred)</li>
+                <li>3–5 years of relevant experience</li>
+                <li>Strong communication and leadership skills</li>
+                <li>Knowledge of QA/QC standards and compliance</li>
               </ul>
 
               <h3 className="font-semibold text-lg">Responsibilities</h3>
               <ul className="list-disc list-inside mb-4 text-gray-700">
-                <li>Supervise staff</li>
-                <li>Oversee operations</li>
-                <li>Implement company policies</li>
-                <li>Manage budgets</li>
-                <li>Prepare reports</li>
-                <li>Resolve issues</li>
+                <li>Supervise staff and coordinate daily operations</li>
+                <li>Oversee production and ensure quality standards are met</li>
+                <li>Implement company policies and safety protocols</li>
+                <li>Manage budgets, inventory, and reporting</li>
+                <li>Prepare detailed performance and inspection reports</li>
+                <li>Resolve operational and personnel issues efficiently</li>
+                <li>Collaborate with engineering and operations teams</li>
+                <li>Develop and maintain inspection procedures and documentation</li>
+                <li>Ensure compliance with ISO 9001 and regulatory standards</li>
+                <li>Conduct internal audits and support external inspections</li>
+                <li>Monitor metrics and identify areas for improvement</li>
+                <li>Communicate effectively with senior management and clients</li>
               </ul>
             </div>
 

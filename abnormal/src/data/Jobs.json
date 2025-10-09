@@ -6,6 +6,126 @@
     "posted": "2025-10-06T10:30:00Z",
     "description": "Lead quality control operations in drilling tools manufacturing. Ensuring standards and inspections.",
     "location": "Calgary, AB",
+    "company": "Western Drilling Tools Inc.",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "quality_manager_equinox_1002",
+    "title": "Manager, Quality",
+    "type": "Full Time",
+    "posted": "2025-10-05T09:00:00Z",
+    "description": "Oversee plant quality systems, lead audits, supplier quality and corrective actions.",
+    "location": "Calgary, AB",
+    "company": "Equinox Engineering",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "lead_quality_equinox_1003",
+    "title": "Lead, Quality",
+    "type": "Full Time",
+    "posted": "2025-10-04T12:15:00Z",
+    "description": "Lead QA/QC team for manufacturing projects; develop inspection plans and train inspectors.",
+    "location": "Calgary, AB",
+    "company": "Equinox Engineering",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "qc_compliance_edmonton_1004",
+    "title": "QC & Compliance Manager",
+    "type": "Full Time",
+    "posted": "2025-10-06T14:20:00Z",
+    "description": "Manage quality compliance and regulatory reporting across Alberta operations.",
+    "location": "Edmonton, AB",
+    "company": "Debbie Mastel & Associates",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "quality_manager_gatx_1005",
+    "title": "Quality Manager",
+    "type": "Full Time",
+    "posted": "2025-10-03T08:30:00Z",
+    "description": "Drive continuous improvement and quality programs for railcar manufacturing and maintenance.",
+    "location": "Red Deer, AB",
+    "company": "GATX",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "senior_quality_atkins_1006",
+    "title": "Senior Quality Manager",
+    "type": "Full Time",
+    "posted": "2025-10-02T11:45:00Z",
+    "description": "Senior role overseeing quality assurance for large infrastructure projects; ISO 9001 experience required.",
+    "location": "Calgary, AB",
+    "company": "AtkinsRéalis",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "quality_manager_ellisdon_1007",
+    "title": "Quality Manager",
+    "type": "Full Time",
+    "posted": "2025-10-05T16:00:00Z",
+    "description": "Construction quality management for commercial builds; manage punchlists, inspections and H&S alignment.",
+    "location": "Calgary, AB",
+    "company": "EllisDon Construction Services Inc.",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "lead_qa_qc_cdncontrols_1008",
+    "title": "Lead, QA/QC",
+    "type": "Contract",
+    "posted": "2025-10-07T07:10:00Z",
+    "description": "QA/QC lead for controls and electrical manufacturing projects (contract/term).",
+    "location": "Calgary, AB",
+    "company": "CDN Controls ULC",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "qc_supervisor_modine_1009",
+    "title": "Quality Control Supervisor",
+    "type": "Full Time",
+    "posted": "2025-10-01T13:00:00Z",
+    "description": "Supervise QC inspectors on production floor, enforce SOPs and testing protocols.",
+    "location": "Calgary, AB",
+    "company": "Modine Manufacturing",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "qc_supervisor_perfectfit_1010",
+    "title": "Quality Control Supervisor (Rubber/Plastic)",
+    "type": "Full Time",
+    "posted": "2025-10-04T10:20:00Z",
+    "description": "Quality supervision in rubber/plastic products manufacturing; visual inspection and dimensional control.",
+    "location": "Calgary, AB",
+    "company": "Perfect Fit Car Cover",
+    "source": "indeed (inspired)"
+  },
+  {
+    "id": "qc_manager_zip_1011",
+    "title": "Quality Control Manager",
+    "type": "Full Time",
+    "posted": "2025-10-06T09:40:00Z",
+    "description": "General QC Manager role (multiple openings aggregated from job board listings).",
+    "location": "Calgary, AB",
+    "company": "Various (ZipRecruiter listings)",
+    "source": "ziprecruiter (referenced via search)"
+  },
+  {
+    "id": "qc_inspector_steelhaus_1012",
+    "title": "Quality Control Inspector",
+    "type": "Full Time",
+    "posted": "2025-10-07T15:30:00Z",
+    "description": "Inspect fabricated steel components; NDT/visual inspection; report non-conformances.",
+    "location": "Calgary, AB",
+    "company": "Steelhaus Technologies",
+    "source": "job board (inspired)"
+  },
+  {
+    "id": "qc_manager_calgary_1001",
+    "title": "Quality Control Manager",
+    "type": "Full Time",
+    "posted": "2025-10-06T10:30:00Z",
+    "description": "Lead quality control operations in drilling tools manufacturing. Ensuring standards and inspections.",
+    "location": "Calgary, AB",
     "company": "Western Drilling Tools Inc."
   },
   {
