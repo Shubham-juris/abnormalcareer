@@ -1,5 +1,125 @@
 [ 
   {
+    "id": "it_manager_calgary_2001",
+    "title": "IT Infrastructure Manager",
+    "type": "Full Time",
+    "posted": "2025-10-06T12:00:00Z",
+    "description": "Lead the design, implementation and maintenance of IT infrastructure. Manage networks, servers, cloud services.",
+    "location": "Calgary, AB",
+    "company": "TechWave Solutions Inc.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "finance_analyst_calgary_2002",
+    "title": "Senior Financial Analyst",
+    "type": "Full Time",
+    "posted": "2025-10-07T09:30:00Z",
+    "description": "Analyse financial data, prepare reports, budgeting and forecasting for corporate division.",
+    "location": "Calgary, AB",
+    "company": "Maple Leaf Capital Ltd.",
+    "source": "jooble"
+  },
+  {
+    "id": "nurse_calgary_2003",
+    "title": "Registered Nurse – Emergency Department",
+    "type": "Full Time",
+    "posted": "2025-10-07T11:15:00Z",
+    "description": "Provide care to patients in emergency. Administer treatments, collaborate with healthcare team.",
+    "location": "Calgary, AB",
+    "company": "Calgary Regional Hospital",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "logistics_coordinator_calgary_2004",
+    "title": "Logistics Coordinator",
+    "type": "Full Time",
+    "posted": "2025-10-08T13:00:00Z",
+    "description": "Coordinate shipments, manage inventory, liaise with suppliers and carriers.",
+    "location": "Calgary, AB",
+    "company": "Pacific Freight Solutions",
+    "source": "jooble"
+  },
+  {
+    "id": "hr_business_partner_calgary_2005",
+    "title": "HR Business Partner",
+    "type": "Full Time",
+    "posted": "2025-10-08T15:45:00Z",
+    "description": "Support business units with HR strategy, talent acquisition, employee relations.",
+    "location": "Calgary, AB",
+    "company": "TrueNorth Enterprises",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "marketing_lead_calgary_2006",
+    "title": "Marketing Lead – Digital Campaigns",
+    "type": "Full Time",
+    "posted": "2025-10-09T08:30:00Z",
+    "description": "Plan and execute digital marketing campaigns, manage social media, drive brand awareness.",
+    "location": "Calgary, AB",
+    "company": "BrandGrowth Agency",
+    "source": "jooble"
+  },
+  {
+    "id": "software_developer_calgary_2007",
+    "title": "Software Developer – Full Stack",
+    "type": "Full Time",
+    "posted": "2025-10-09T10:15:00Z",
+    "description": "Develop web applications using front-end and back-end technologies. Collaborate with cross-functional teams.",
+    "location": "Calgary, AB",
+    "company": "CodeCraft Innovations",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "project_manager_calgary_2008",
+    "title": "Project Manager – Construction",
+    "type": "Full Time",
+    "posted": "2025-10-10T09:00:00Z",
+    "description": "Manage construction projects, schedule, budget, and ensure safety & quality standards.",
+    "location": "Calgary, AB",
+    "company": "Alpine Builders Ltd.",
+    "source": "jooble"
+  },
+  {
+    "id": "customer_service_supervisor_calgary_2009",
+    "title": "Customer Service Supervisor",
+    "type": "Full Time",
+    "posted": "2025-10-10T12:30:00Z",
+    "description": "Lead a team of customer service representatives; ensure service levels and customer satisfaction.",
+    "location": "Calgary, AB",
+    "company": "DirectHelp Support Inc.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "supply_chain_manager_calgary_2010",
+    "title": "Supply Chain Manager",
+    "type": "Full Time",
+    "posted": "2025-10-11T08:45:00Z",
+    "description": "Oversee supply chain operations, procurement, vendor management, logistics strategy.",
+    "location": "Calgary, AB",
+    "company": "Northern Goods Distribution",
+    "source": "jooble"
+  },
+  {
+    "id": "data_analyst_calgary_2011",
+    "title": "Data Analyst – Business Intelligence",
+    "type": "Full Time",
+    "posted": "2025-10-11T10:15:00Z",
+    "description": "Analyse business data, build dashboards, assist decision making.",
+    "location": "Calgary, AB",
+    "company": "Insight Analytics Co.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "sales_manager_calgary_2012",
+    "title": "Sales Manager – Retail",
+    "type": "Full Time",
+    "posted": "2025-10-11T13:00:00Z",
+    "description": "Manage retail sales operations, train staff, achieve sales targets.",
+    "location": "Calgary, AB",
+    "company": "Urban Retail Chains",
+    "source": "jooble"
+  },
+  {
     "id": "qc_manager_calgary_1001",
     "title": "Quality Control Manager",
     "type": "Full Time",

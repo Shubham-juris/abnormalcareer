@@ -33,7 +33,7 @@ const AllJobsPage = () => {
               <ul className="list-disc list-inside mb-4 text-gray-700">
                 <li>Job type: {job.type}</li>
                 <li>Location: {job.location}</li>
-                <li>Posted: {job.posted.toLocaleDateString()}</li>
+                {/* <li>Posted: {job.posted.toLocaleDateString()}</li> */}
                 <li>Pay: $37.00 per hour</li>
                 <li>Hours: 40 per week</li>
               </ul>
