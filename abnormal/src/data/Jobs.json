@@ -1,5 +1,125 @@
 [ 
   {
+    "id": "nupo_sushi_4001",
+    "title": "Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "NUPO is hiring Sushi Chef in Calgary, AB – traditional sushi and nigiri skills required.",
+    "location": "Calgary, AB",
+    "company": "NUPO",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "hot_side_cook_shokunin_4002",
+    "title": "Hot Side Cook",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Shokunin Hospitality Group is hiring Hot Side Cook in Calgary, AB. Responsibilities include station setup & maintenance.",
+    "location": "Calgary, AB",
+    "company": "Shokunin Hospitality Group",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "fusion_sushi_mckenzie_4003",
+    "title": "Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Fusion Sushi McKenzie hiring Sushi Chef – prepare sushi, sashimi and rolls.",
+    "location": "Calgary, AB",
+    "company": "Fusion Sushi MCKENZIE",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "fusion_sushi_thai_4004",
+    "title": "Kitchen Staff & Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Fusion Sushi & Thai Calgary hiring Kitchen Staff and Sushi Chef. Prepare, present and maintain sushi & food station.",
+    "location": "Calgary, AB",
+    "company": "Fusion Sushi & Thai",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "cozymeal_sushi_4005",
+    "title": "Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Cozymeal hiring Sushi Chef in Calgary for cooking classes, corporate & private events.",
+    "location": "Calgary, AB",
+    "company": "Cozymeal",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "joey_chinook_sushi_4006",
+    "title": "Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "JOEY Restaurant Group Calgary is hiring Sushi Chef. Ability to deliver precise sushi work required.",
+    "location": "Calgary, AB",
+    "company": "JOEY Restaurant Group",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "sky360_sous_chef_4007",
+    "title": "Sous Chef – Sky 360",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Sky 360 Restaurant Calgary hiring Sous Chef. Manage back of house operations, assist head chef.",
+    "location": "Calgary, AB",
+    "company": "Sky 360 Restaurant",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "kinton_ramen_linecook_4008",
+    "title": "Line Cook / Kitchen Staff",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Kinton Ramen Mission Calgary hiring Back of House Line Cook / Kitchen Staff duties.",
+    "location": "Calgary, AB",
+    "company": "Kinton Ramen Mission",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "sushi_ginza_4009",
+    "title": "Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Sushi Ginza Japanese Restaurant Calgary hiring Sushi Chef – prepare sushi & Japanese cuisine.",
+    "location": "Calgary, AB",
+    "company": "Sushi Ginza Japanese Restaurant",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "haru_sushi_4010",
+    "title": "Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Haru Sushi & Grill Calgary hiring Sushi Chef – prepare and present sushi meals.",
+    "location": "Calgary, AB",
+    "company": "Haru Sushi & Grill",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "sushi_ninja_4011",
+    "title": "Sushi Chef",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Sushi Ninja Calgary hiring Sushi Chef – Japanese cuisine & sushi preparation duties.",
+    "location": "Calgary, AB",
+    "company": "Sushi Ninja",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "sukiyaki_house_kitchen_4012",
+    "title": "Sushi Chefs & Kitchen Cooks",
+    "type": "Full Time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Sukiyaki House LTD Calgary AB hiring Sushi Chefs & Kitchen Cooks.",
+    "location": "Calgary, AB",
+    "company": "Sukiyaki House LTD",
+    "source": "indeed.ca"
+  },
+  {
     "id": "sushi_chef_calgary_3001",
     "title": "Sushi Chef",
     "type": "Full Time",
