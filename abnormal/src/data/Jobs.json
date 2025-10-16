@@ -1,4 +1,125 @@
 [ 
+ 
+  {
+    "id": "jb_002",
+    "title": "Mechanical Engineer",
+    "type": "Full-time",
+    "posted": "2025-10-11T00:00:00Z",
+    "description": "Design and evaluate mechanical components for industrial systems and energy projects.",
+    "location": "Calgary, AB",
+    "company": "EnerTech Engineering Ltd.",
+    "source": "indeed.ca"
+  },
+   {
+    "id": "jb_001",
+    "title": "Software Engineer",
+    "type": "Full-time",
+    "posted": "2025-10-10T00:00:00Z",
+    "description": "Develop and maintain web-based software systems using modern frameworks.",
+    "location": "Calgary, AB",
+    "company": "TechNova Solutions",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_003",
+    "title": "Financial Analyst",
+    "type": "Full-time",
+    "posted": "2025-10-12T00:00:00Z",
+    "description": "Analyze budgets, forecasts, and financial performance metrics for corporate reporting.",
+    "location": "Calgary, AB",
+    "company": "Alpine Financial Group",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_004",
+    "title": "Marketing Coordinator",
+    "type": "Full-time",
+    "posted": "2025-10-09T00:00:00Z",
+    "description": "Plan and execute social media campaigns and support brand strategy development.",
+    "location": "Calgary, AB",
+    "company": "BrightPath Marketing",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_005",
+    "title": "Human Resources Specialist",
+    "type": "Full-time",
+    "posted": "2025-10-08T00:00:00Z",
+    "description": "Handle employee relations, recruitment, and onboarding for corporate departments.",
+    "location": "Calgary, AB",
+    "company": "Summit HR Consulting",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_006",
+    "title": "Registered Nurse",
+    "type": "Full-time",
+    "posted": "2025-10-13T00:00:00Z",
+    "description": "Provide direct patient care and support health programs in a clinical environment.",
+    "location": "Calgary, AB",
+    "company": "Foothills Medical Centre",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_007",
+    "title": "High School Teacher",
+    "type": "Full-time",
+    "posted": "2025-10-12T00:00:00Z",
+    "description": "Teach mathematics and physics to senior students following Alberta curriculum.",
+    "location": "Calgary, AB",
+    "company": "Calgary Board of Education",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_008",
+    "title": "Construction Project Manager",
+    "type": "Full-time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Oversee commercial construction projects ensuring safety and budget compliance.",
+    "location": "Calgary, AB",
+    "company": "BuildRight Construction Inc.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_009",
+    "title": "Environmental Scientist",
+    "type": "Full-time",
+    "posted": "2025-10-10T00:00:00Z",
+    "description": "Conduct field studies and prepare environmental impact assessments.",
+    "location": "Calgary, AB",
+    "company": "EcoVision Consulting",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_010",
+    "title": "Warehouse Operations Supervisor",
+    "type": "Full-time",
+    "posted": "2025-10-11T00:00:00Z",
+    "description": "Supervise daily warehouse operations, manage logistics, and ensure quality control.",
+    "location": "Calgary, AB",
+    "company": "WestCan Logistics",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_011",
+    "title": "Sales Representative",
+    "type": "Full-time",
+    "posted": "2025-10-13T00:00:00Z",
+    "description": "Promote and sell consumer products through direct client engagement and B2B marketing.",
+    "location": "Calgary, AB",
+    "company": "Prime Retail Group",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_012",
+    "title": "Administrative Assistant",
+    "type": "Part-time",
+    "posted": "2025-10-15T00:00:00Z",
+    "description": "Provide clerical and organizational support to management and office staff.",
+    "location": "Calgary, AB",
+    "company": "Skyline Enterprises",
+    "source": "indeed.ca"
+  },
   {
     "id": "it_001",
     "title": "Software Developer (Internship)",
