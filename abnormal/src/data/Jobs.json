@@ -1,5 +1,124 @@
 [ 
- 
+  {
+    "id": "1",
+    "title": "Software Developer",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Develop and maintain web and mobile applications using modern frameworks.",
+    "location": "Toronto, ON",
+    "company": "TechNova Solutions",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "2",
+    "title": "Digital Marketing Specialist",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Plan and execute social media campaigns, manage SEO/SEM, analyze performance.",
+    "location": "Vancouver, BC",
+    "company": "BrandSpark Media",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "3",
+    "title": "Registered Nurse",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Provide patient care, monitor vital signs, collaborate with healthcare teams.",
+    "location": "Calgary, AB",
+    "company": "Alberta Health Services",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "4",
+    "title": "Human Resources Coordinator",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Assist in recruitment, onboarding, payroll, and maintaining employee records.",
+    "location": "Ottawa, ON",
+    "company": "Maple Leaf Foods",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "5",
+    "title": "Project Manager (Construction)",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Manage timelines, contractors, and budgets for commercial construction projects.",
+    "location": "Calgary, AB",
+    "company": "EllisDon Construction",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "6",
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Create digital and print visuals, collaborate with marketing teams.",
+    "location": "Montreal, QC",
+    "company": "PixelWorks Studio",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "7",
+    "title": "Financial Analyst",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Analyze financial data, prepare reports, support budgeting and forecasting.",
+    "location": "Toronto, ON",
+    "company": "RBC Financial Group",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "8",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Handle customer inquiries via phone/email, resolve complaints, process orders.",
+    "location": "Winnipeg, MB",
+    "company": "FedEx Canada",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "9",
+    "title": "Data Analyst",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Collect, process, analyze datasets to support business intelligence.",
+    "location": "Halifax, NS",
+    "company": "Deloitte Canada",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "10",
+    "title": "Sales Executive",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Identify leads, close deals, manage client relationships in B2B sector.",
+    "location": "Edmonton, AB",
+    "company": "Rogers Communications",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "11",
+    "title": "Mechanical Engineer",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Design and evaluate mechanical components for industrial systems and energy projects.",
+    "location": "Calgary, AB",
+    "company": "Westpower Equipment Ltd.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "12",
+    "title": "Teacher – Elementary School",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Deliver classroom instruction, prepare lesson plans, assess student progress.",
+    "location": "Saskatoon, SK",
+    "company": "Saskatoon Public Schools",
+    "source": "indeed.ca"
+  },
   {
     "id": "jb_002",
     "title": "Mechanical Engineer",
