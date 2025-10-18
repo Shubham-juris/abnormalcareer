@@ -1,4 +1,124 @@
-[ 
+[
+  {
+    "id": "1",
+    "title": "Hotel Cook",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Prepare meals and manage kitchen operations in a hotel environment.",
+    "location": "Calgary, AB",
+    "company": "CoolIT Systems",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "2",
+    "title": "Driver",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Transport goods and personnel safely and efficiently within city limits.",
+    "location": "Calgary, AB",
+    "company": "Pason Systems Corp",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "3",
+    "title": "Software Developer",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Develop web and mobile applications using modern technologies.",
+    "location": "Calgary, AB",
+    "company": "Recutify Inc.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "4",
+    "title": "Manager",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Oversee team operations, manage resources, and ensure targets are met.",
+    "location": "Calgary, AB",
+    "company": "Intact",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "5",
+    "title": "Housekeeper",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Maintain cleanliness and order in hotel rooms and public areas.",
+    "location": "Calgary, AB",
+    "company": "Princeton IT Services",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "6",
+    "title": "Hotel Cook",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Prepare and cook meals according to menu standards.",
+    "location": "Calgary, AB",
+    "company": "Avanade",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "7",
+    "title": "Driver",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Deliver products and packages, ensuring timely and safe transportation.",
+    "location": "Calgary, AB",
+    "company": "Infosys",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "8",
+    "title": "Software Developer",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Design and implement software solutions, collaborate with cross-functional teams.",
+    "location": "Calgary, AB",
+    "company": "iMedia Software Inc.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "9",
+    "title": "Manager",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Lead project operations and manage staff performance.",
+    "location": "Calgary, AB",
+    "company": "Canadian Cattle Identification Agency (CCIA)",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "10",
+    "title": "Housekeeper",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Clean and maintain assigned areas following hotel standards.",
+    "location": "Calgary, AB",
+    "company": "Square One Insurance Services",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "11",
+    "title": "Hotel Cook",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Assist in menu preparation and maintain kitchen hygiene.",
+    "location": "Calgary, AB",
+    "company": "Ray-Mont Logistics",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "12",
+    "title": "Driver",
+    "type": "Apprenticeship",
+    "posted": "October 17, 2025",
+    "description": "Participate in apprentice driving program, supporting logistics operations.",
+    "location": "Calgary, AB",
+    "company": "Plexxis Software",
+    "source": "indeed.ca"
+  },
   {
     "id": "1",
     "title": "Software Developer",
