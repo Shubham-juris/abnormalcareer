@@ -1,6 +1,114 @@
 [
   {
     "id": "1",
+    "title": "Hotel Kitchen Supervisor",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Prepare meals and manage kitchen operations in a hotel environment.",
+    "location": "Calgary, AB",
+    "company": "Sunrise Hospitality Group"
+  },
+  {
+    "id": "2",
+    "title": "Software Developer – Front End",
+    "type": "Full-time",
+    "posted": "October 15, 2025",
+    "description": "Design and implement front-end web applications using React and TypeScript.",
+    "location": "Toronto, ON",
+    "company": "TechNova Solutions"
+  },
+  {
+    "id": "3",
+    "title": "Registered Nurse – Emergency Department",
+    "type": "Full-time",
+    "posted": "October 14, 2025",
+    "description": "Provide patient care in a busy emergency department, collaborate with multidisciplinary team.",
+    "location": "Vancouver, BC",
+    "company": "Coastal Health Services"
+  },
+  {
+    "id": "4",
+    "title": "Sales Account Manager",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Manage key accounts and drive revenue growth in the software-as-a-service sector.",
+    "location": "Montreal, QC",
+    "company": "CloudReach Inc."
+  },
+  {
+    "id": "5",
+    "title": "Marketing Coordinator",
+    "type": "Full-time",
+    "posted": "October 13, 2025",
+    "description": "Assist in marketing campaigns, social media management, and content production.",
+    "location": "Ottawa, ON",
+    "company": "BrightWave Media"
+  },
+  {
+    "id": "6",
+    "title": "Mechanical Engineer – HVAC",
+    "type": "Full-time",
+    "posted": "October 12, 2025",
+    "description": "Design and oversee HVAC systems for commercial buildings from concept to completion.",
+    "location": "Edmonton, AB",
+    "company": "Arctic Engineering Works"
+  },
+  {
+    "id": "7",
+    "title": "Customer Service Representative – Bilingual",
+    "type": "Full-time",
+    "posted": "October 11, 2025",
+    "description": "Handle customer inquiries in English & French, provide service resolutions and support sales.",
+    "location": "Quebec City, QC",
+    "company": "MapleLeaf Call Centre"
+  },
+  {
+    "id": "8",
+    "title": "Data Analyst",
+    "type": "Full-time",
+    "posted": "October 10, 2025",
+    "description": "Analyze large datasets to derive insights and support decision-making for a retail chain.",
+    "location": "Winnipeg, MB",
+    "company": "RetailPulse Analytics"
+  },
+  {
+    "id": "9",
+    "title": "Warehouse Supervisor",
+    "type": "Full-time",
+    "posted": "October 09, 2025",
+    "description": "Oversee daily warehouse operations, lead a team, ensure safety and efficiency.",
+    "location": "Mississauga, ON",
+    "company": "Global Logistics Corp"
+  },
+  {
+    "id": "10",
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "posted": "October 08, 2025",
+    "description": "Create visual assets for brand campaigns including digital, print and web.",
+    "location": "Halifax, NS",
+    "company": "EastCoast Creative"
+  },
+  {
+    "id": "11",
+    "title": "Project Manager – Construction",
+    "type": "Full-time",
+    "posted": "October 07, 2025",
+    "description": "Lead execution of commercial construction projects, manage budgets, schedule and contractor teams.",
+    "location": "Saskatoon, SK",
+    "company": "Prairie Build Projects"
+  },
+  {
+    "id": "12",
+    "title": "Human Resources Business Partner",
+    "type": "Full-time",
+    "posted": "October 06, 2025",
+    "description": "Partner with business units to develop and execute HR strategies including talent-management and employee relations.",
+    "location": "London, ON",
+    "company": "PeopleFirst Consulting"
+  },
+  {
+    "id": "1",
     "title": "Hotel Cook",
     "type": "Full-time",
     "posted": "October 17, 2025",
