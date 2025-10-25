@@ -1,6 +1,141 @@
 [
   {
     "id": "1",
+    "title": "Kitchen Manager",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Prepare meals and manage kitchen operations in a hotel environment.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "2",
+    "title": "Sous Chef",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Assist head chef, supervise kitchen staff, ensure quality dishes are served.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "3",
+    "title": "Front Desk Executive",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Handle guest check-ins/check-outs and provide excellent customer service.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "4",
+    "title": "Housekeeping Supervisor",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Oversee housekeeping team and maintain cleanliness standards.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "5",
+    "title": "Restaurant Floor Manager",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Manage restaurant service, staff scheduling and guest satisfaction.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "6",
+    "title": "Bell Boy / Porter",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Assist guests with luggage, escort them to rooms, provide prompt service.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "7",
+    "title": "Maintenance Technician",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Perform routine maintenance and repairs in hotel premises.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "8",
+    "title": "Event Coordinator",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Plan and execute hotel events such as weddings and conferences.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "9",
+    "title": "Kitchen Helper",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Support kitchen staff in food preparation and cleaning tasks.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "10",
+    "title": "Food & Beverage Server",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Serve food and drinks, maintain dining area and ensure guest satisfaction.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "11",
+    "title": "Hotel Security Guard",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Ensure safety of hotel premises and guests; monitor CCTV and entry points.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "12",
+    "title": "Reception Night-Shift Executive",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Manage front desk operations during night hours, guest check-in/out and calls.",
+    "location": "Ludhiana, Punjab, IN",
+    "company": "ABC Hotels"
+  },
+  {
+    "id": "13",
+    "title": "Software Project Manager",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Oversee software development projects, coordinate with clients, and ensure timely delivery.",
+    "location": "Mohali, Punjab, IN",
+    "company": "Techware IT Solutions"
+  },
+  {
+    "id": "14",
+    "title": "Software Developer",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Design, develop and maintain web applications using modern technologies.",
+    "location": "Mohali, Punjab, IN",
+    "company": "Techware IT Solutions"
+  },
+  {
+    "id": "15",
+    "title": "HR Manager",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Handle recruitment, employee relations, and performance management across departments.",
+    "location": "Mohali, Punjab, IN",
+    "company": "Techware IT Solutions"
+  },
+  {
+    "id": "1",
     "title": "Hotel Kitchen Supervisor",
     "type": "Full-time",
     "posted": "October 17, 2025",
