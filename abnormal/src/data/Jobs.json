@@ -1,138 +1,138 @@
 [
   {
     "id": "1",
-    "title": "Kitchen Manager",
+    "title": "Software Engineer",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Prepare meals and manage kitchen operations in a hotel environment.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-20",
+    "description": "Design and develop web applications using JavaScript/React. 3+ years experience.",
+    "location": "Toronto, ON",
+    "company": "Maple Tech Inc."
   },
   {
     "id": "2",
-    "title": "Sous Chef",
+    "title": "Data Analyst",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Assist head chef, supervise kitchen staff, ensure quality dishes are served.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-18",
+    "description": "Analyze datasets, build dashboards in Power BI / Tableau.",
+    "location": "Mississauga, ON",
+    "company": "Insight Analytics"
   },
   {
     "id": "3",
-    "title": "Front Desk Executive",
-    "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Handle guest check-ins/check-outs and provide excellent customer service.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "title": "Customer Service Representative",
+    "type": "Part-time",
+    "posted": "2025-10-22",
+    "description": "Handle customer calls and emails. Excellent communication skills required.",
+    "location": "Vancouver, BC",
+    "company": "NorthCall Solutions"
   },
   {
     "id": "4",
-    "title": "Housekeeping Supervisor",
+    "title": "Project Manager",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Oversee housekeeping team and maintain cleanliness standards.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-15",
+    "description": "Manage cross-functional projects, PMP preferred.",
+    "location": "Calgary, AB",
+    "company": "Prairie Projects Ltd."
   },
   {
     "id": "5",
-    "title": "Restaurant Floor Manager",
+    "title": "Registered Nurse (RN)",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Manage restaurant service, staff scheduling and guest satisfaction.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-10",
+    "description": "Provide patient care in a fast-paced hospital environment. Required: RN license.",
+    "location": "Ottawa, ON",
+    "company": "Riverbend Health"
   },
   {
     "id": "6",
-    "title": "Bell Boy / Porter",
+    "title": "Accountant",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Assist guests with luggage, escort them to rooms, provide prompt service.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-12",
+    "description": "Prepare financial statements, manage accounts payable/receivable.",
+    "location": "Hamilton, ON",
+    "company": "LedgerWorks"
   },
   {
     "id": "7",
-    "title": "Maintenance Technician",
-    "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Perform routine maintenance and repairs in hotel premises.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "title": "Marketing Coordinator",
+    "type": "Contract",
+    "posted": "2025-10-21",
+    "description": "Assist with campaigns, social media, and content creation.",
+    "location": "Montreal, QC",
+    "company": "Crescendo Marketing"
   },
   {
     "id": "8",
-    "title": "Event Coordinator",
+    "title": "Warehouse Associate",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Plan and execute hotel events such as weddings and conferences.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-19",
+    "description": "Order picking, packing, forklift experience an asset.",
+    "location": "Brampton, ON",
+    "company": "LogiShip"
   },
   {
     "id": "9",
-    "title": "Kitchen Helper",
+    "title": "UX/UI Designer",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Support kitchen staff in food preparation and cleaning tasks.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-17",
+    "description": "Create wireframes/prototypes, strong portfolio required.",
+    "location": "Toronto, ON",
+    "company": "PixelCraft Studio"
   },
   {
     "id": "10",
-    "title": "Food & Beverage Server",
+    "title": "Full Stack Developer",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Serve food and drinks, maintain dining area and ensure guest satisfaction.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-09",
+    "description": "Node.js + React experience, cloud deployment knowledge.",
+    "location": "Waterloo, ON",
+    "company": "Alpha Beta Labs"
   },
   {
     "id": "11",
-    "title": "Hotel Security Guard",
+    "title": "Sales Representative",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Ensure safety of hotel premises and guests; monitor CCTV and entry points.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "posted": "2025-10-23",
+    "description": "B2B sales, target driven, travel within province.",
+    "location": "Edmonton, AB",
+    "company": "Summit Sales Co."
   },
   {
     "id": "12",
-    "title": "Reception Night-Shift Executive",
-    "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Manage front desk operations during night hours, guest check-in/out and calls.",
-    "location": "Ludhiana, Punjab, IN",
-    "company": "ABC Hotels"
+    "title": "Graphic Designer",
+    "type": "Part-time",
+    "posted": "2025-10-14",
+    "description": "Create marketing collaterals, strong Adobe CC skills.",
+    "location": "Halifax, NS",
+    "company": "Seaside Creative"
   },
   {
     "id": "13",
-    "title": "Software Project Manager",
+    "title": "Human Resources Generalist",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Oversee software development projects, coordinate with clients, and ensure timely delivery.",
-    "location": "Mohali, Punjab, IN",
-    "company": "Techware IT Solutions"
+    "posted": "2025-10-11",
+    "description": "Recruitment, employee relations, HRIS experience preferred.",
+    "location": "Saskatoon, SK",
+    "company": "Prairie HR Partners"
   },
   {
     "id": "14",
-    "title": "Software Developer",
+    "title": "IT Support Technician",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Design, develop and maintain web applications using modern technologies.",
-    "location": "Mohali, Punjab, IN",
-    "company": "Techware IT Solutions"
+    "posted": "2025-10-16",
+    "description": "Provide technical support, install/configure hardware and software.",
+    "location": "Winnipeg, MB",
+    "company": "CoreTech Services"
   },
   {
     "id": "15",
-    "title": "HR Manager",
+    "title": "Administrative Assistant",
     "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Handle recruitment, employee relations, and performance management across departments.",
-    "location": "Mohali, Punjab, IN",
-    "company": "Techware IT Solutions"
+    "posted": "2025-10-13",
+    "description": "Office administration, calendar management, MS Office skills.",
+    "location": "Kingston, ON",
+    "company": "BlueBridge Office Solutions"
   },
   {
     "id": "1",
