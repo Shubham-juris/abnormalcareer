@@ -1,6 +1,114 @@
 [
   {
     "id": "1",
+    "title": "Front Desk Receptionist",
+    "type": "Full-time",
+    "posted": "2025-10-27",
+    "description": "Looking for an experienced receptionist to manage guest check-ins, reservations, and customer service at a busy downtown hotel.",
+    "location": "Toronto, ON",
+    "company": "Maple Leaf Hotel"
+  },
+  {
+    "id": "2",
+    "title": "Housekeeping Supervisor",
+    "type": "Full-time",
+    "posted": "2025-10-26",
+    "description": "Supervise cleaning staff, inspect guest rooms, and maintain cleanliness standards in all hotel areas.",
+    "location": "Vancouver, BC",
+    "company": "BlueSky Resorts"
+  },
+  {
+    "id": "3",
+    "title": "IT Support Technician",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Provide IT support for hotel systems including Wi-Fi, POS, and guest service software troubleshooting.",
+    "location": "Calgary, AB",
+    "company": "Hospitality Tech Group"
+  },
+  {
+    "id": "4",
+    "title": "Delivery Driver - Logistics",
+    "type": "Full-time",
+    "posted": "2025-10-24",
+    "description": "Deliver hotel supplies and logistics materials across GTA. Must have a valid G-class driver’s license and clean driving record.",
+    "location": "Mississauga, ON",
+    "company": "NorthWay Logistics"
+  },
+  {
+    "id": "5",
+    "title": "Chef de Partie",
+    "type": "Full-time",
+    "posted": "2025-10-23",
+    "description": "Prepare and plate dishes in accordance with restaurant menu; ensure food quality and hygiene standards.",
+    "location": "Ottawa, ON",
+    "company": "The Grand Bistro"
+  },
+  {
+    "id": "6",
+    "title": "Software Developer - Hotel Systems",
+    "type": "Hybrid",
+    "posted": "2025-10-23",
+    "description": "Develop and maintain internal booking, POS, and CRM systems for hospitality clients.",
+    "location": "Montreal, QC",
+    "company": "InnovaSoft Technologies"
+  },
+  {
+    "id": "7",
+    "title": "Logistics Coordinator",
+    "type": "Full-time",
+    "posted": "2025-10-22",
+    "description": "Coordinate transportation, warehouse management, and driver scheduling for food and supply distribution.",
+    "location": "Edmonton, AB",
+    "company": "TransCanada Logistics"
+  },
+  {
+    "id": "8",
+    "title": "Waiter / Waitress",
+    "type": "Part-time",
+    "posted": "2025-10-21",
+    "description": "Serve guests, take food orders, and ensure an exceptional dining experience in a fine dining setup.",
+    "location": "Quebec City, QC",
+    "company": "Royal Crown Hotel"
+  },
+  {
+    "id": "9",
+    "title": "Network Administrator",
+    "type": "Full-time",
+    "posted": "2025-10-20",
+    "description": "Manage and secure hotel networks, guest Wi-Fi, and internal IT systems. Experience with Cisco preferred.",
+    "location": "Toronto, ON",
+    "company": "TechServe Canada"
+  },
+  {
+    "id": "10",
+    "title": "Truck Driver (Class 1)",
+    "type": "Full-time",
+    "posted": "2025-10-19",
+    "description": "Long-haul and local delivery for construction and hotel supply materials. Must hold Class 1 license.",
+    "location": "Regina, SK",
+    "company": "Maple Freight Lines"
+  },
+  {
+    "id": "11",
+    "title": "Hotel Maintenance Technician",
+    "type": "Full-time",
+    "posted": "2025-10-18",
+    "description": "Repair and maintain hotel equipment, HVAC, lighting, and plumbing systems.",
+    "location": "Halifax, NS",
+    "company": "ComfortStay Hotels"
+  },
+  {
+    "id": "12",
+    "title": "Forklift Operator - Warehouse",
+    "type": "Full-time",
+    "posted": "2025-10-17",
+    "description": "Operate forklift for loading/unloading logistics inventory, maintain warehouse organization and safety.",
+    "location": "Brampton, ON",
+    "company": "LogiMove Solutions"
+  },
+  {
+    "id": "1",
     "title": "Software Engineer",
     "type": "Full-time",
     "posted": "2025-10-20",
