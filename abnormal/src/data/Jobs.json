@@ -1,4 +1,113 @@
 [
+  
+  {
+    "id": "1",
+    "title": "Software Developer",
+    "type": "Full-time",
+    "posted": "2025-10-27",
+    "description": "Develop and maintain web applications using modern frameworks such as React and Node.js. Collaborate with the product team to deliver scalable solutions.",
+    "location": "Toronto, ON",
+    "company": "TechNova Solutions"
+  },
+  {
+    "id": "2",
+    "title": "Construction Site Supervisor",
+    "type": "Full-time",
+    "posted": "2025-10-26",
+    "description": "Supervise on-site construction activities, manage labor and materials, and ensure safety compliance at all stages of the project.",
+    "location": "Calgary, AB",
+    "company": "Barker International"
+  },
+  {
+    "id": "3",
+    "title": "Digital Marketing Specialist",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Plan and execute SEO, SEM, and social media campaigns to enhance brand visibility and drive traffic to client websites.",
+    "location": "Vancouver, BC",
+    "company": "TransTech World"
+  },
+  {
+    "id": "4",
+    "title": "Administrative Assistant",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Provide clerical and administrative support to ensure efficient office operations including scheduling, data entry, and correspondence handling.",
+    "location": "Edmonton, AB",
+    "company": "Global and Legal Inc."
+  },
+  {
+    "id": "5",
+    "title": "Warehouse Associate",
+    "type": "Full-time",
+    "posted": "2025-10-24",
+    "description": "Assist in daily warehouse operations including inventory management, packing, and shipment processing.",
+    "location": "Winnipeg, MB",
+    "company": "Northern Trade Supplies"
+  },
+  {
+    "id": "6",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "2025-10-23",
+    "description": "Handle customer inquiries via phone and email, resolve issues, and provide detailed information about products and services.",
+    "location": "Halifax, NS",
+    "company": "Atlantic Connect"
+  },
+  {
+    "id": "7",
+    "title": "Electrician",
+    "type": "Full-time",
+    "posted": "2025-10-22",
+    "description": "Install, maintain, and repair electrical systems in residential and commercial buildings. Ensure compliance with safety codes.",
+    "location": "Ottawa, ON",
+    "company": "Maple Power Works"
+  },
+  {
+    "id": "8",
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "posted": "2025-10-21",
+    "description": "Design marketing materials, digital creatives, and brand assets for print and web in coordination with marketing teams.",
+    "location": "Montreal, QC",
+    "company": "CreativePixel Studio"
+  },
+  {
+    "id": "9",
+    "title": "Project Coordinator",
+    "type": "Full-time",
+    "posted": "2025-10-20",
+    "description": "Coordinate project activities, monitor timelines, and communicate with stakeholders to ensure successful project delivery.",
+    "location": "Calgary, AB",
+    "company": "NorthBuild Contractors"
+  },
+  {
+    "id": "10",
+    "title": "Sales Associate",
+    "type": "Full-time",
+    "posted": "2025-10-20",
+    "description": "Assist customers in-store, manage sales transactions, and maintain visual merchandising standards.",
+    "location": "Saskatoon, SK",
+    "company": "Urban Trends Retail"
+  },
+  {
+    "id": "11",
+    "title": "Data Analyst",
+    "type": "Full-time",
+    "posted": "2025-10-19",
+    "description": "Collect, clean, and analyze datasets to provide actionable insights that support business decision-making.",
+    "location": "Toronto, ON",
+    "company": "Insight Analytics"
+  },
+  {
+    "id": "12",
+    "title": "Plumber",
+    "type": "Full-time",
+    "posted": "2025-10-18",
+    "description": "Install and repair piping systems, fixtures, and other plumbing used for water distribution and waste disposal.",
+    "location": "Regina, SK",
+    "company": "AquaFlow Services"
+  },
   {
     "id": "1",
     "title": "Front Desk Receptionist",
