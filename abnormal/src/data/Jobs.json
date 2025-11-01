@@ -1,5 +1,112 @@
 [
-  
+  {
+    "id": "1",
+    "title": "Warehouse Associate",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Responsible for packaging, loading, and organizing goods in the warehouse. Maintain stock records and assist with inventory checks.",
+    "location": "Calgary, AB",
+    "company": "Barker International"
+  },
+  {
+    "id": "2",
+    "title": "Construction Labourer",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Assist in various on-site construction activities including carrying materials, site cleaning, and helping skilled workers.",
+    "location": "Edmonton, AB",
+    "company": "Amtech Industries"
+  },
+  {
+    "id": "3",
+    "title": "Delivery Driver",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Deliver materials safely to clients across Alberta. Valid driver’s license and clean driving record required.",
+    "location": "Calgary, AB",
+    "company": "TransTech World Logistics"
+  },
+  {
+    "id": "4",
+    "title": "Store Supervisor",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Oversee daily retail operations, handle customer queries, manage staff schedules, and ensure smooth store performance.",
+    "location": "Red Deer, AB",
+    "company": "Wholesale Home Supplies"
+  },
+  {
+    "id": "5",
+    "title": "Cleaner / Janitor",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Maintain cleanliness of office and warehouse areas. Perform routine cleaning and sanitization duties as required.",
+    "location": "Calgary, AB",
+    "company": "Aboriginal Career Services"
+  },
+  {
+    "id": "6",
+    "title": "Receptionist",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Greet visitors, answer phone calls, and manage daily office communication. Must have good communication and computer skills.",
+    "location": "Slave Lake, AB",
+    "company": "Amtech Industries"
+  },
+  {
+    "id": "7",
+    "title": "Forklift Operator",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Operate forklift for loading/unloading goods and organizing warehouse stock. Must have valid forklift certification.",
+    "location": "Calgary, AB",
+    "company": "Barker International"
+  },
+  {
+    "id": "8",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Handle incoming calls, assist customers with inquiries, and process orders efficiently.",
+    "location": "Lethbridge, AB",
+    "company": "Calgary Software Developers"
+  },
+  {
+    "id": "9",
+    "title": "Security Guard",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Patrol and monitor premises to maintain safety and security standards. Valid Alberta Security License required.",
+    "location": "Calgary, AB",
+    "company": "TransTech World Security"
+  },
+  {
+    "id": "10",
+    "title": "Cook / Kitchen Helper",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Assist in food preparation, maintain cleanliness, and ensure hygienic kitchen operations. Experience in restaurant or catering preferred.",
+    "location": "Edmonton, AB",
+    "company": "Barker Hospitality"
+  },
+  {
+    "id": "11",
+    "title": "Housekeeping Attendant",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Clean rooms, change linens, and ensure hotel cleanliness. Must be punctual and detail-oriented.",
+    "location": "Calgary, AB",
+    "company": "Calgary Suites Inn"
+  },
+  {
+    "id": "12",
+    "title": "Administrative Assistant",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Support office operations including data entry, scheduling, and correspondence. Proficiency in MS Office is required.",
+    "location": "Red Deer, AB",
+    "company": "Amtech Industries"
+  },
   {
     "id": "1",
     "title": "Software Developer",
