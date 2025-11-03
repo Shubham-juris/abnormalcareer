@@ -1,6 +1,78 @@
 [
   {
     "id": "1",
+    "title": "Marketing Manager",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Lead marketing strategy & campaigns across digital and offline channels. Manage a team of 5, set KPIs, work with external agencies, optimize ROI.",
+    "location": "Toronto, ON, Canada",
+    "company": "Maple Growth Partners"
+  },
+  {
+    "id": "2",
+    "title": "Registered Nurse",
+    "type": "Full-time",
+    "posted": "2025-11-02",
+    "description": "Provide patient care in a busy hospital ward, monitor vitals, assist doctors with procedures, maintain patient records, ensure safety compliance.",
+    "location": "Vancouver, BC, Canada",
+    "company": "Pacific Health Services"
+  },
+  {
+    "id": "3",
+    "title": "High School Teacher – Mathematics",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Teach secondary school mathematics (grades 10-12), prepare lesson plans, assess student performance, collaborate with other teachers and parents.",
+    "location": "Edmonton, AB, Canada",
+    "company": "Northcrest Secondary School"
+  },
+  {
+    "id": "4",
+    "title": "Financial Analyst",
+    "type": "Full-time",
+    "posted": "2025-10-30",
+    "description": "Analyse company financials, build models, prepare reports for senior management, support budgeting & forecasting processes, identify cost-saving opportunities.",
+    "location": "Calgary, AB, Canada",
+    "company": "Alpine Capital Advisors"
+  },
+  {
+    "id": "5",
+    "title": "Operations Coordinator",
+    "type": "Full-time",
+    "posted": "2025-10-28",
+    "description": "Manage daily operations of manufacturing facility, coordinate between production, logistics and quality assurance teams, ensure compliance with safety and efficiency standards.",
+    "location": "Winnipeg, MB, Canada",
+    "company": "Prairie Manufacturing Inc."
+  },
+  {
+    "id": "6",
+    "title": "Human Resources Specialist",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Handle recruitment lifecycle, employee relations, benefits administration and training programs. Support HR manager in policy implementation and employee engagement.",
+    "location": "Ottawa, ON, Canada",
+    "company": "Capital HR Solutions"
+  },
+  {
+    "id": "7",
+    "title": "Sales Executive – Medical Devices",
+    "type": "Full-time",
+    "posted": "2025-10-22",
+    "description": "Drive sales of advanced medical devices to hospitals and clinics, meet sales targets, build relationships with key decision-makers in healthcare sector, provide product training.",
+    "location": "Montreal, QC, Canada",
+    "company": "MediTech Canada"
+  },
+  {
+    "id": "8",
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "posted": "2025-10-20",
+    "description": "Create visual concepts and designs for print and digital media, collaborate with marketing team, manage multiple projects, ensure brand consistency.",
+    "location": "Halifax, NS, Canada",
+    "company": "Creative Waves Studio"
+  },
+  {
+    "id": "1",
     "title": "Warehouse Associate",
     "type": "Full-time",
     "posted": "2025-11-01",
