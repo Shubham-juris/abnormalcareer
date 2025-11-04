@@ -1,6 +1,96 @@
 [
   {
     "id": "1",
+    "title": "Software Engineer",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Develop software applications, write clean code in Java/C#, collaborate with cross-functional teams, participate in code reviews.",
+    "location": "Toronto, ON, Canada",
+    "company": "TechNova Solutions"
+  },
+  {
+    "id": "2",
+    "title": "Digital Marketing Specialist",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Plan and execute online campaigns (SEO, SEM, social media), monitor analytics and ROI, work with content team and designers.",
+    "location": "Toronto, ON, Canada",
+    "company": "Maple Growth Partners"
+  },
+  {
+    "id": "3",
+    "title": "Registered Nurse",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Provide direct patient care, monitor vital signs, assist with treatment plans, maintain patient records and compliance with healthcare protocols.",
+    "location": "Toronto, ON, Canada",
+    "company": "Pacific Health Services"
+  },
+  {
+    "id": "4",
+    "title": "High School Mathematics Teacher",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Teach grades 10-12 mathematics, develop lesson plans, assess student learning, collaborate with fellow educators and parents.",
+    "location": "Toronto, ON, Canada",
+    "company": "Northcrest Secondary School"
+  },
+  {
+    "id": "5",
+    "title": "Financial Analyst",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Analyse financial statements, build forecasting models, support budgeting and cost control initiatives, prepare reports for senior management.",
+    "location": "Toronto, ON, Canada",
+    "company": "Alpine Capital Advisors"
+  },
+  {
+    "id": "6",
+    "title": "Operations Coordinator",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Coordinate daily operations of facility, liaise between production, logistics and QA teams, ensure operational efficiency and safety compliance.",
+    "location": "Toronto, ON, Canada",
+    "company": "Prairie Manufacturing Inc."
+  },
+  {
+    "id": "7",
+    "title": "Human Resources Specialist",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Manage recruitment process, employee relations, benefits administration and training programs, support HR manager with policy execution.",
+    "location": "Toronto, ON, Canada",
+    "company": "Capital HR Solutions"
+  },
+  {
+    "id": "8",
+    "title": "Sales Executive – Medical Devices",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Sell advanced medical devices to hospitals and clinics, build relationships with healthcare decision makers, achieve sales targets and provide product training.",
+    "location": "Toronto, ON, Canada",
+    "company": "MediTech Canada"
+  },
+  {
+    "id": "9",
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Create visual designs for print and digital media, collaborate with marketing and content teams, ensure brand consistency and creative excellence.",
+    "location": "Toronto, ON, Canada",
+    "company": "Creative Waves Studio"
+  },
+  {
+    "id": "10",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "2025-11-03",
+    "description": "Handle inbound customer enquiries, resolve issues, maintain customer satisfaction metrics, provide feedback to product teams for improvement.",
+    "location": "Toronto, ON, Canada",
+    "company": "Service First Solutions"
+  },
+  {
+    "id": "1",
     "title": "Marketing Manager",
     "type": "Full-time",
     "posted": "2025-11-03",
