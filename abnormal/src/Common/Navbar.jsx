@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import React, { useState } from "react";
+import { NavLink } from "react-router-dom";
 import { HiMenu, HiX } from "react-icons/hi";
 import { FaMoon, FaSun } from "react-icons/fa";
 import logo from "../assets/logo2.png";
@@ -8,40 +8,75 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
 
-  // useEffect(() => {
-  //   if (darkMode) {
-  //     document.documentElement.classList.add("dark");
-  //   } else {
-  //     document.documentElement.classList.remove("dark");
-  //   }
-  // }, [darkMode]);
-
   const navLinks = (
     <>
-      <Link to="/" className="hover:text-red-500 transition">
+      <NavLink
+        to="/"
+        className={({ isActive }) =>
+          `transition hover:text-blue-500 ${
+            isActive ? "text-blue-600 font-semibold" : "text-gray-700 dark:text-white"
+          }`
+        }
+      >
         Home
-      </Link>
-      <Link to="/jobs" className="hover:text-red-500 transition">
+      </NavLink>
+
+      <NavLink
+        to="/jobs"
+        className={({ isActive }) =>
+          `transition hover:text-blue-500 ${
+            isActive ? "text-blue-600 font-semibold" : "text-gray-700 dark:text-white"
+          }`
+        }
+      >
         Jobs
-      </Link>
-      <Link to="/about" className="hover:text-red-500 transition">
+      </NavLink>
+
+      <NavLink
+        to="/about"
+        className={({ isActive }) =>
+          `transition hover:text-blue-500 ${
+            isActive ? "text-blue-600 font-semibold" : "text-gray-700 dark:text-white"
+          }`
+        }
+      >
         About Us
-      </Link>
-      <Link to="/contact" className="hover:text-red-500 transition">
+      </NavLink>
+
+      <NavLink
+        to="/contact"
+        className={({ isActive }) =>
+          `transition hover:text-blue-500 ${
+            isActive ? "text-blue-600 font-semibold" : "text-gray-700 dark:text-white"
+          }`
+        }
+      >
         Contact Us
-      </Link>
-      <Link
+      </NavLink>
+
+      <NavLink
         to="/register"
-        className="uppercase font-semibold hover:text-red-500 transition"
+        className={({ isActive }) =>
+          `uppercase font-semibold transition hover:text-blue-500 ${
+            isActive ? "text-blue-600" : "text-gray-700 dark:text-white"
+          }`
+        }
       >
         Register
-      </Link>
-      <Link
+      </NavLink>
+
+      <NavLink
         to="/signin"
-        className="bg-black text-white px-4 py-1.5 rounded-md shadow hover:bg-gray-800 transition dark:bg-white dark:text-black"
+        className={({ isActive }) =>
+          `px-4 py-1.5 rounded-md shadow transition ${
+            isActive
+              ? "bg-blue-600 text-white"
+              : "bg-black text-white hover:bg-blue-700 dark:bg-white dark:text-black"
+          }`
+        }
       >
         SIGN IN
-      </Link>
+      </NavLink>
     </>
   );
 
@@ -50,17 +85,17 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}
         <div className="flex items-center gap-3">
-          <Link to="/">
+          <NavLink to="/">
             <img
               src={logo}
               alt="Aboriginal Career Logo"
               className="h-19 w-auto max-w-[250px]"
             />
-          </Link>
+          </NavLink>
         </div>
 
         {/* Desktop Menu */}
-        <div className="hidden md:flex gap-8 items-center text-gray-700 font-medium dark:text-white">
+        <div className="hidden md:flex gap-8 items-center font-medium">
           {navLinks}
           <button
             onClick={() => setDarkMode(!darkMode)}
@@ -93,9 +128,7 @@ const Navbar = () => {
           menuOpen ? "block" : "hidden"
         }`}
       >
-        <div className="flex flex-col gap-4 text-gray-700 dark:text-white font-medium">
-          {navLinks}
-        </div>
+        <div className="flex flex-col gap-4 font-medium">{navLinks}</div>
       </div>
     </nav>
   );

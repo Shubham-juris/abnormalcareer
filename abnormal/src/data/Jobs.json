@@ -1,6 +1,123 @@
 [
   {
     "id": "1",
+    "title": "Receptionist- Casual",
+    "type": "Casual",
+    "posted": "",
+    "description": "Reporting to on site Management, the Receptionist will respond to all incoming calls, greet and direct all visitors, answering inquiries in a positive and professional manner.",
+    "location": "Calgary, AB T3L 1Y6",
+    "company": "Cogir Senior Living"
+  },
+  {
+    "id": "2",
+    "title": "Supply Chain Coordinator",
+    "type": "Full-time",
+    "posted": "",
+    "description": "Overall involvement in the product movement across facilities through creating and processing Purchase Orders (POs) in alignment with project and production requirements.",
+    "location": "Calgary, AB",
+    "company": "DV8 Energy"
+  },
+  {
+    "id": "3",
+    "title": "Housekeeping Aide (Casual, Part Time)",
+    "type": "Part-time",
+    "posted": "",
+    "description": "Clean resident apartments and common areas including furniture, kitchen and washroom fixtures, walls, ceilings, lights, vents, and windows.",
+    "location": "Calgary, AB T2V 5H3",
+    "company": "Cogir Senior Living"
+  },
+  {
+    "id": "4",
+    "title": "Part-Time Receptionist",
+    "type": "Part-time, Permanent",
+    "posted": "",
+    "description": "Greet all visitors and answer incoming phone calls while maintaining a high level of professionalism.",
+    "location": "Calgary, AB",
+    "company": "Grand Touring Automobiles"
+  },
+  {
+    "id": "5",
+    "title": "GARAGE - Seasonal Sales Associate - CrossIron Mills",
+    "type": "Seasonal",
+    "posted": "",
+    "description": "Support the daily flow of the store, keeping everything organized and positive. Retail or sales experience is a bonus, but not required.",
+    "location": "Rocky View County, AB",
+    "company": "Groupe Dynamite Inc."
+  },
+  {
+    "id": "6",
+    "title": "Server (Casual Part Time)",
+    "type": "Part-time",
+    "posted": "",
+    "description": "Serve meals to residents and guests in a professional manner while complying with all provincial regulations and department policies.",
+    "location": "Calgary, AB T2Z 4A5",
+    "company": "Cogir Senior Living"
+  },
+  {
+    "id": "7",
+    "title": "Summer Student - Accounting",
+    "type": "Temporary (Summer)",
+    "posted": "",
+    "description": "Assist with vendor inquiries, payment runs, and joint venture processing. Help respond to internal and external partner inquiries.",
+    "location": "Calgary, AB T2P 1G1",
+    "company": "Whitecap Resources Inc."
+  },
+  {
+    "id": "8",
+    "title": "Warehouse Associate",
+    "type": "Full-time",
+    "posted": "",
+    "description": "Receive, inspect, and verify incoming raw materials, components, and supplies against purchase orders. Paid time off, life insurance, and casual dress included.",
+    "location": "Calgary, AB",
+    "company": "Alberta Veterinary Laboratories Ltd"
+  },
+  {
+    "id": "9",
+    "title": "Grounds Worker",
+    "type": "Full-time",
+    "posted": "",
+    "description": "Help install, repair, and maintain irrigation systems and outdoor equipment. Includes mileage reimbursement and RRSP benefits.",
+    "location": "Calgary, AB T2G 4C8",
+    "company": "Edon Management"
+  },
+  {
+    "id": "10",
+    "title": "Snow Removal – Pedestrian",
+    "type": "Seasonal",
+    "posted": "",
+    "description": "Perform snow removal duties safely with strong communication and reliability. Valid Class 5 Driver’s License required.",
+    "location": "Calgary, AB",
+    "company": "Urban Life Solutions"
+  },
+  {
+    "id": "11",
+    "title": "Dishwasher/Cook Helper",
+    "type": "Full-time",
+    "posted": "",
+    "description": "Assist in serving customers, answering phones, taking orders, and following recipes accurately while contributing to new dish development.",
+    "location": "Calgary, AB T2P 0S7",
+    "company": "Minas Brazilian Steakhouse"
+  },
+  {
+    "id": "12",
+    "title": "Lot Attendant",
+    "type": "Full-time",
+    "posted": "",
+    "description": "Maintain dealership lots, drive vehicles safely, and assist with customer vehicle organization. Must have Full G driver's license and clean abstract.",
+    "location": "Calgary, AB",
+    "company": "Grand Touring Automobiles"
+  },
+  {
+    "id": "13",
+    "title": "Laundry Attendant / Delivery Driver",
+    "type": "Full-time",
+    "posted": "",
+    "description": "Wash, dry, and fold hotel linens and towels. Drive delivery truck; must have Class 5 license and clear driver’s abstract.",
+    "location": "Calgary, AB T2P 3T5",
+    "company": "Element Calgary"
+  },
+  {
+    "id": "1",
     "title": "Software Engineer",
     "type": "Full-time",
     "posted": "2025-11-03",
