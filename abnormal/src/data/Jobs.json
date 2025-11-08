@@ -1,4 +1,125 @@
 [
+
+  {
+    "id": "1",
+    "title": "Housing Administrator",
+    "type": "Full-time",
+    "posted": "Calgary, AB",
+    "description": "Responsible for conducting annual rent reviews. Requires de-escalation training, conflict resolution, and mental health first aid.",
+    "company": "City of Calgary"
+  },
+  {
+    "id": "2",
+    "title": "Administrative Assistant",
+    "type": "Full-time",
+    "posted": "Calgary, AB",
+    "description": "Assist with scheduling, data entry, and filing. Experience in marketing, social media, or administrative background is an asset.",
+    "company": "Big Ben Cleaning Inc"
+  },
+  {
+    "id": "3",
+    "title": "Administrative & Client Experience Assistant",
+    "type": "Full-time",
+    "posted": "Calgary, AB",
+    "description": "1+ year of experience in an administrative or receptionist role. Responsible for client service, filing, and communication. Benefits include paid time off, dental care, on-site parking, casual dress, company events, and extended health care.",
+    "company": "AM Accountants CPAs"
+  },
+  {
+    "id": "4",
+    "title": "Administrative Support",
+    "type": "Full-time",
+    "posted": "Calgary, AB T3E 2H4",
+    "description": "Manage front desk responsibilities, including greeting visitors and answering multi-line phone systems. Previous experience as a dental receptionist or in similar role preferred.",
+    "company": "Total Trading Inc"
+  },
+  {
+    "id": "5",
+    "title": "Scheduling Coordinator",
+    "type": "Full-time",
+    "posted": "Calgary, AB",
+    "description": "Assist front desk operations by greeting visitors, managing inquiries, and supporting administrative tasks. Proven experience in office administration or clerical work required.",
+    "company": "K & H Home Care Services Inc."
+  },
+  {
+    "id": "6",
+    "title": "Client Intake Worker",
+    "type": "Full-time",
+    "posted": "Calgary, AB T2G 4Z6",
+    "description": "Responsible for efficient and effective implementation of LINC client intakes. Reports to the Language Training and Childcare Manager.",
+    "company": "Calgary Immigrant Women's Association"
+  },
+  {
+    "id": "7",
+    "title": "Sales Associate",
+    "type": "Part-time",
+    "posted": "Calgary, AB",
+    "description": "Processing purchases, replenishing merchandise, monitoring floor stock, and processing shipments. Education: Some High School or equivalent.",
+    "company": "Ardene"
+  },
+  {
+    "id": "8",
+    "title": "Housekeeper",
+    "type": "Full-time",
+    "posted": "Calgary, AB",
+    "description": "Maintain cleanliness standards. Must speak and write fluent English, pass background check, and work under minimal supervision. Benefits for full-time employees include commuter benefits and discounted or free food.",
+    "company": "Cowboys Casino"
+  },
+  {
+    "id": "9",
+    "title": "Cashier",
+    "type": "Part-time",
+    "posted": "Calgary, AB T2B 1N1",
+    "description": "Greet customers, process transactions, and balance cash reports. Experience with cash register systems an asset.",
+    "company": "Rona"
+  },
+  {
+    "id": "10",
+    "title": "Bookkeeper - Part Time",
+    "type": "Part-time",
+    "posted": "Calgary, AB",
+    "description": "Prepare AR time and material billing, handle payroll, A/P, and project-based billing. Benefits include paid time off, dental care, and health insurance.",
+    "company": "North Mountain Construction Ltd"
+  },
+  {
+    "id": "11",
+    "title": "Customer Experience Associate (Temporary) - MacLeod Centre",
+    "type": "Temporary, Part-time (18.75 hrs/week)",
+    "posted": "Calgary, AB T2H 3A2",
+    "description": "Provide professional, friendly service and support to clients. Proven customer service experience required.",
+    "company": "Scotiabank"
+  },
+  {
+    "id": "12",
+    "title": "Showhome Host",
+    "type": "Part-time",
+    "posted": "Calgary, AB T2H 0S9",
+    "description": "Greet and register clients, showcase home features, assist sales team with administrative tasks.",
+    "company": "Homes by Avi (Calgary) LP"
+  },
+  {
+    "id": "13",
+    "title": "Inforce Service Administrator",
+    "type": "Full-time",
+    "posted": "Calgary, AB T2H 2H8",
+    "description": "Support service operations, manage client data, and participate in training and development programs. Benefits include tuition reimbursement, paid time off, RRSP match, and extended health care.",
+    "company": "HUB International"
+  },
+  {
+    "id": "14",
+    "title": "Part-Time Sales Associate | Heritage",
+    "type": "Part-time",
+    "posted": "Calgary, AB T2H 3A7",
+    "description": "Offer friendly service and product knowledge to help customers create a space they love to call home.",
+    "company": "Urban Barn Ltd."
+  },
+  {
+    "id": "15",
+    "title": "Distribution Centre Team Associate - Voice KRAFT",
+    "type": "Full-time",
+    "posted": "Calgary, AB",
+    "description": "Operate 5090 shipping lane computers and TC70s with the MM program as part of daily activities.",
+    "company": "Walmart Canada"
+  },
   {
     "id": "1",
     "title": "Receptionist- Casual",
