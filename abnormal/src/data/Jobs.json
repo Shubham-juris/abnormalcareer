@@ -2,6 +2,126 @@
 
   {
     "id": "1",
+    "title": "Administrative Assistant",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Answer telephone and relay calls and messages. Type and proofread correspondence, forms, and other documents. Experience: 7 months to less than 1 year.",
+    "company": "Bueckert's Core Construction, Rocky View, AB"
+  },
+  {
+    "id": "2",
+    "title": "Administrative Support III",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "As an Administrative Support III, you will require advanced administrative or specialized skills and knowledge to support complex procedures, practices, and documentation.",
+    "company": "Alberta Health Services, Calgary, AB"
+  },
+  {
+    "id": "3",
+    "title": "Front Desk Agent",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "The Front Desk Agent is the first point of contact for guests, ensuring a seamless check-in and check-out process while providing exceptional customer service.",
+    "company": "Days Inn Calgary NW, Calgary, AB T3B 0M4"
+  },
+  {
+    "id": "4",
+    "title": "Cashier/Customer Service",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Provide exceptional service while assisting customers with their purchases and inquiries.",
+    "company": "Pool Time Billiards & Bar, Calgary, AB"
+  },
+  {
+    "id": "5",
+    "title": "Afterschool Nanny Needed!",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Looking for a nanny with relevant experience working with children. Class 5 driver's license preferred.",
+    "company": "Nannies On Board, Calgary, AB"
+  },
+  {
+    "id": "6",
+    "title": "Seasonal Chocolate Sales Connoisseur",
+    "type": "Seasonal",
+    "posted": "Recently",
+    "description": "Join our team for the holiday season! Enjoy tuition reimbursement, profit sharing, and referral program perks.",
+    "company": "Purdys Chocolatier, Calgary, AB T2P 4K8"
+  },
+  {
+    "id": "7",
+    "title": "Seasonal Escape Room Host",
+    "type": "Seasonal",
+    "posted": "Recently",
+    "description": "Greet guests, take payments, and provide a fun, interactive experience. Flexible schedule and casual dress.",
+    "company": "The Locked Room, Calgary, AB"
+  },
+  {
+    "id": "8",
+    "title": "Retail Sales Associate",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Keep the store tidy and safe, handle online order pickups, and assist customers in-store and by phone.",
+    "company": "FLIGHT DADDY INC, Calgary, AB"
+  },
+  {
+    "id": "9",
+    "title": "Sales Assistant (Part-time)",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Looking for a friendly, reliable part-time sales person for a specialty footwear store.",
+    "company": "SAS Comfort Shoes, Calgary, AB T2H 0K5"
+  },
+  {
+    "id": "10",
+    "title": "Administrative Support V",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Provide advanced level administrative support to the Site Director at Peter Lougheed Center.",
+    "company": "Alberta Health Services, Calgary, AB T1Y 6J4"
+  },
+  {
+    "id": "11",
+    "title": "Sterilization Assistant - Vivo Dental Currie Barracks",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Assist in sterilization processes and support dental team operations. Great opportunity for mentorship and growth.",
+    "company": "123Dentist, Calgary, AB T3E 6L1"
+  },
+  {
+    "id": "12",
+    "title": "Sales Associate",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Handle POS transactions, assist customers, and support in-store marketing efforts.",
+    "company": "Staples, Calgary, AB"
+  },
+  {
+    "id": "13",
+    "title": "Kitchen Helper",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Assist in food preparation and kitchen maintenance. Requires 2 years of experience. Free meals and parking.",
+    "company": "Eggsmart, Calgary, AB"
+  },
+  {
+    "id": "14",
+    "title": "Barista/Server",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Greet and engage customers with a positive attitude. Handle inquiries, feedback, and complaints.",
+    "company": "vitaminboba, Calgary, AB T2N 1V3"
+  },
+  {
+    "id": "15",
+    "title": "Accounts Receivable Clerk (12-month Contract)",
+    "type": "Contract",
+    "posted": "Recently",
+    "description": "Provide dynamic administrative support including client communication and record management.",
+    "company": "Landmark Cinemas, Calgary, AB T2W 4X9"
+  },
+  {
+    "id": "1",
     "title": "Housing Administrator",
     "type": "Full-time",
     "posted": "Calgary, AB",
