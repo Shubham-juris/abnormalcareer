@@ -1,5 +1,124 @@
 [
-
+  {
+    "id": "1",
+    "title": "Casual Receptionist",
+    "type": "Casual",
+    "posted": "Recently",
+    "description": "Handle filing, laundry, and maintain a clean, organized reception area. Process client billing and payments. Answer phones and manage appointment bookings.",
+    "company": "CHMT, Calgary, AB"
+  },
+  {
+    "id": "2",
+    "title": "Receptionist/Administrative Assistant",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Provide excellent customer service, answer reception phone line/inbox, and assist with general administrative support.",
+    "company": "Karen King & Associates Inc., Calgary, AB"
+  },
+  {
+    "id": "3",
+    "title": "Office & Show Home Administrator",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Support small events, walkthroughs, or community interactions within the show home environment. Familiar with Google Workspace or similar software.",
+    "company": "Brilliance Homes Balzac Inc., Calgary, AB T3K 5P3"
+  },
+  {
+    "id": "4",
+    "title": "Client Intake Worker",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Implement efficient and effective LINC client intakes under the supervision of the Language Training and Childcare Manager.",
+    "company": "Calgary Immigrant Women's Association, Calgary, AB T2G 4Z6"
+  },
+  {
+    "id": "5",
+    "title": "Receptionist and Program Assistant",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Manage daily reception duties, welcome visitors and students, answer calls, and respond to emails. High School Diploma required.",
+    "company": "SAIT, Calgary, AB"
+  },
+  {
+    "id": "6",
+    "title": "Cashier Part Time Day",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Handle cash and credit card transactions. Engage customers through friendly conversations and efficient service.",
+    "company": "Real Canadian Superstore, Calgary, AB T3H 3P8"
+  },
+  {
+    "id": "7",
+    "title": "Human Resources Coordinator",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Provide detail-oriented administrative support to the HR team and all CSEC employees across the full employee lifecycle.",
+    "company": "Calgary Flames Limited Partnership, Calgary, AB T2G 2W1"
+  },
+  {
+    "id": "8",
+    "title": "Administrative Assistant/Receptionist",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Answer phone calls, respond to emails, and prepare office documents such as memos, resumes, and correspondence.",
+    "company": "Globalhire Immigration and Placement Services, Calgary, AB"
+  },
+  {
+    "id": "9",
+    "title": "Babysitter/Nanny",
+    "type": "Flexible",
+    "posted": "Recently",
+    "description": "Support the emotional, social, and cognitive development of children. Provide high-quality childcare with a flexible schedule.",
+    "company": "Kiid, Calgary, AB"
+  },
+  {
+    "id": "10",
+    "title": "Human Resources Assistant",
+    "type": "Full-time, Permanent",
+    "posted": "Recently",
+    "description": "Assist with HR practices, training, and OHS regulations. Knowledge of employment standards is an asset.",
+    "company": "Amaranth Foods, Calgary, AB T2H 2H9"
+  },
+  {
+    "id": "11",
+    "title": "Front Desk Receptionist / MOA - Legacy Location",
+    "type": "Full-time, Part-time",
+    "posted": "Recently",
+    "description": "Provide front desk reception, administrative, and client service support. Must have valid driver’s license and reliable transportation.",
+    "company": "Revital Health, Calgary, AB"
+  },
+  {
+    "id": "12",
+    "title": "Liquor Store Clerk",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Process cash transactions, ensure accurate handling, and assist customers in locating products. On-site parking available.",
+    "company": "Liquor Mall, Calgary, AB"
+  },
+  {
+    "id": "13",
+    "title": "Cashier",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Share product knowledge, handle customer inquiries, and provide excellent customer service. Tuition reimbursement and wellness program offered.",
+    "company": "Save-On-Foods, Calgary, AB"
+  },
+  {
+    "id": "14",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Answer telephone calls, book appointments, and provide excellent customer service. Casual dress and on-site parking provided.",
+    "company": "Advanpro Ltd, Calgary, AB"
+  },
+  {
+    "id": "15",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Maintain productive relationships with internal and external customers and coordinate service activities.",
+    "company": "Cornerstone Building Brands, Calgary, AB"
+  },
   {
     "id": "1",
     "title": "Administrative Assistant",
