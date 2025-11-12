@@ -1,4 +1,101 @@
 [
+  
+  {
+    "id": "1",
+    "title": "Supply Chain & Logistics Coordinator",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "This includes coordinating procurement, logistics, inventory control, and vendor communications. Coordinate inbound and outbound shipments, working with various departments to ensure smooth operations.",
+    "company": "AURORA FURNITURE MANUFACTURING LTD, Calgary, AB T2G 3H3"
+  },
+  {
+    "id": "2",
+    "title": "Logistics Supervisor",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Supervise and mentor logistics team and drivers. Responsible for department administration for logistics activities including inventory, routing, and compliance.",
+    "company": "AGAT Laboratories, Calgary, AB T2E 7P7"
+  },
+  {
+    "id": "3",
+    "title": "Logistics Sales Executive - 3PL Industry",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Assist with carrier portfolio, developing strong relationships and operational understanding. Help match carrier preferred lanes with freight and ensure efficient logistics solutions.",
+    "company": "Fuze Logistics Services Inc, Calgary, AB T2E 8W1"
+  },
+  {
+    "id": "4",
+    "title": "Warehouse Lead Agent",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Assist Supervisor and Manager with all aspects of warehouse operations. Provide leadership to warehouse staff and ensure compliance with safety and efficiency standards.",
+    "company": "Expeditors, Calgary, AB"
+  },
+  {
+    "id": "5",
+    "title": "Customer Support Representative",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Collaborate with internal teams including sales, production, and logistics to ensure seamless operations and customer satisfaction.",
+    "company": "AURORA FURNITURE MANUFACTURING LTD, Calgary, AB T2G 3H3"
+  },
+  {
+    "id": "6",
+    "title": "Delivery Driver",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Safely drive and operate delivery vehicles. Must have a valid driver's license. Lift packages up to 49.5 lbs and ensure timely and safe delivery of parcels.",
+    "company": "Todorov Couriers Ltd., Calgary, AB T2C 5C3"
+  },
+  {
+    "id": "7",
+    "title": "Parcel Delivery Driver",
+    "type": "Contract",
+    "posted": "Recently",
+    "description": "Experienced parcel delivery drivers with own minivan, sprinter, or cargo van required. Meet delivery deadlines and maintain time windows efficiently.",
+    "company": "UNITED FEDERAL EXPRESS LTD, Calgary, AB"
+  },
+  {
+    "id": "8",
+    "title": "Pizza Delivery Driver",
+    "type": "Part-time",
+    "posted": "Recently",
+    "description": "Deliver pizzas to customers on time while maintaining safety. Perform heavy lifting and communicate effectively regarding delivery schedules.",
+    "company": "Papa John's, Calgary, AB T2M 3Y7"
+  },
+  {
+    "id": "9",
+    "title": "Cargo Van Driver",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Drive and operate Cargo Van. Coordinate with warehouse for pick up and delivery. Requires 1 year of delivery driving experience and knowledge of local routes.",
+    "company": "UniUni Logistics, Calgary, AB"
+  },
+  {
+    "id": "10",
+    "title": "Full Stack Developer",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Collaborate with other developers and contribute to technical solutions. Responsible from initial discussions to final deployment of web applications.",
+    "company": "A&A Business Consulting, Calgary, AB"
+  },
+  {
+    "id": "11",
+    "title": "Software Developer",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Write, modify, integrate, and test software code. Maintain and improve existing programs as required. Work 30 to 40 hours per week.",
+    "company": "AdvancedUAV Tech, Calgary, AB T2E 2P3"
+  },
+  {
+    "id": "12",
+    "title": "Job Developer",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Provide support for Career and Employment Services by searching for potential job placements and establishing employer relationships.",
+    "company": "Centre for Newcomers Society of Calgary, Calgary, AB T2A 6K3"
+  },
   {
     "id": "1",
     "title": "Casual Receptionist",
