@@ -1,5 +1,124 @@
 [
-  
+  {
+    "id": "1",
+    "title": "Receptionist",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Welcoming visitors by greeting them, in person or over the telephone; answering and referring inquiries. Desire to grow in the insurance industry and obtain a license.",
+    "company": "HUB International"
+  },
+  {
+    "id": "2",
+    "title": "Office Clerk/Receptionist",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Being the first contact point for customers and ensuring they are directed to the correct team member. Willingness to learn and develop new skills.",
+    "company": "Eco Medical Equipment"
+  },
+  {
+    "id": "3",
+    "title": "Front Desk Receptionist",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "As the first point of contact, you will play a key role in delivering excellent patient service and ensuring the clinic runs smoothly.",
+    "company": "Urgent Care Chiropractic"
+  },
+  {
+    "id": "4",
+    "title": "Receptionist / Account Payable Clerk",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Pull invoices for monthly payments and assist in preparing authorization forms. Provide essential support to the accounting and reception team.",
+    "company": "Professional Excavators"
+  },
+  {
+    "id": "5",
+    "title": "Administrative Assistant",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Conduct pre-screening phone calls and schedule interviews. Assist in creating, scheduling, and managing posts across company social media accounts.",
+    "company": "Vanguard Inc."
+  },
+  {
+    "id": "6",
+    "title": "Spa Receptionist - Call Center",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Answer incoming calls and respond to guest inquiries in a professional, friendly manner. Handle incoming calls and assist with bookings and guest needs.",
+    "company": "SKA Thermal Spa"
+  },
+  {
+    "id": "7",
+    "title": "Administrator (Office/Warehouse)",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Assist with miscellaneous administrative tasks, greet and assist visitors, and maintain a clean driver’s abstract with a full Alberta license.",
+    "company": "CCE Medical Equipment"
+  },
+  {
+    "id": "8",
+    "title": "File Clerk",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Organize and maintain both physical and electronic filing systems. Experience in filing, scanning, or administrative support preferred.",
+    "company": "Kaizen Automotive Group"
+  },
+  {
+    "id": "9",
+    "title": "Executive Assistant to SVP, Growth",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Research and compile data, liaise with individuals inside or outside the company on behalf of the executive, and provide administrative assistance.",
+    "company": "TransAlta Corporation"
+  },
+  {
+    "id": "10",
+    "title": "Administrative Support - AP/AR/Data Entry",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Match purchase orders, packing slips, and invoices for payment processing. Perform accurate and timely data entry of invoices and financial records.",
+    "company": "Environmental 360 Solutions"
+  },
+  {
+    "id": "11",
+    "title": "Customer Experience Representative - Seasonal Peak Payment",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Engage and connect with customers on the floor. Provide self-development and continuous feedback to colleagues and leadership team.",
+    "company": "Indigo Books & Music"
+  },
+  {
+    "id": "12",
+    "title": "Clinical Administrative Assistant",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Maintain an up-to-date filing system and archival of files as required in support of faculty members' teaching and research.",
+    "company": "The University of Calgary"
+  },
+  {
+    "id": "13",
+    "title": "Personal Shopper",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Share product knowledge with customers. Handle customer service inquiries and provide a positive customer experience.",
+    "company": "Save-On-Foods"
+  },
+  {
+    "id": "14",
+    "title": "Barista/Customer Service",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Handle cash transactions accurately while adhering to cash handling policies. Provide excellent customer service and maintain store cleanliness.",
+    "company": "Second Cup — SAIT Campus"
+  },
+  {
+    "id": "15",
+    "title": "Administrative Specialist - Medical",
+    "type": "Full-time",
+    "posted": "Recently",
+    "description": "Open and distribute incoming mail and other materials. Complete insurance and other claim forms. Requires 2 to 3 years of experience.",
+    "company": "D. Nandi Professional Corporation O/A Mission"
+  },
   {
     "id": "1",
     "title": "Supply Chain & Logistics Coordinator",
