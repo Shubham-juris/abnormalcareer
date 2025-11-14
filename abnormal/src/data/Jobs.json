@@ -1,4 +1,125 @@
 [
+  
+  {
+    "id": 1,
+    "title": "Client Care Specialist",
+    "company": "Litco Law",
+    "location": "Calgary, AB",
+    "benefits": "Employee assistance program, Paid vacation",
+    "description": "Provide outstanding client care, ensuring regular contact (every 30 days or less) with the client to answer questions and keep them informed."
+  },
+  {
+    "id": 2,
+    "title": "Cashier/Customer Service (Weekends Only)",
+    "company": "Sunterra Market",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assisting customers during checkout, performing cash register functions, bagging groceries, and following all cleaning procedures."
+  },
+  {
+    "id": 3,
+    "title": "Server",
+    "company": "Alvins Jazz Club",
+    "location": "Calgary, AB T2R 1J4",
+    "benefits": "",
+    "description": "Must have Pro-serve certification, be at least 18 years old, and possess strong menu knowledge to assist guests."
+  },
+  {
+    "id": 4,
+    "title": "Customer Service Associate",
+    "company": "WHSmith North America",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off, Vision care, Dental care, Life insurance, Disability insurance",
+    "description": "Maintain store cleanliness, organize merchandise, and stay knowledgeable of store products."
+  },
+  {
+    "id": 5,
+    "title": "Barista - Fleetwood Group",
+    "company": "Fleetwood Restaurant",
+    "location": "Calgary, AB T2H 2A6",
+    "benefits": "",
+    "description": "Interact with customers, ensure they feel valued, and contribute to building a loyal customer base."
+  },
+  {
+    "id": 6,
+    "title": "Host",
+    "company": "Pur and Simple Newport Village",
+    "location": "Calgary, AB T2J 0P5",
+    "benefits": "",
+    "description": "Hiring hosts for a vibrant breakfast restaurant; greet and serve customers."
+  },
+  {
+    "id": 7,
+    "title": "Mental Health Support Worker (2025-0615)",
+    "company": "Carewest",
+    "location": "Calgary, AB T2W 1S7",
+    "benefits": "",
+    "description": "Diploma/degree in health or disability field required. Observe, monitor, and report client status."
+  },
+  {
+    "id": 8,
+    "title": "PT Barista",
+    "company": "Alforno - 707 5th Ave",
+    "location": "Calgary, AB T2G 2G8",
+    "benefits": "Vision care, Dental care, Discounted or free food, Wellness program, Flexible schedule",
+    "description": "Valid Food Safety Certificate required. Provide quality service and maintain food safety standards."
+  },
+  {
+    "id": 9,
+    "title": "SERVER",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "ProServe certification required. Assist guests with drink selection and provide high-quality service."
+  },
+  {
+    "id": 10,
+    "title": "Cashier",
+    "company": "Tim Horton’s (Tim Hortons A)",
+    "location": "Calgary, AB T2E 6W5",
+    "benefits": "Tuition reimbursement, Paid time off, Vision care, Dental care, Life insurance, Employee assistance program",
+    "description": "Operate cash register, process payments accurately, and assist customers."
+  },
+  {
+    "id": 11,
+    "title": "Bartender's Assistant",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "Serve it Right certification required. Assist bartender and ensure smooth bar operations."
+  },
+  {
+    "id": 12,
+    "title": "Dishwasher",
+    "company": "Fleetwood Restaurant",
+    "location": "Calgary, AB T2H 2A6",
+    "benefits": "",
+    "description": "Follow hygiene policies. Ability to lift up to 70 pounds. Maintain cleanliness of kitchen items."
+  },
+  {
+    "id": 13,
+    "title": "Dishwasher",
+    "company": "Alvins Jazz Club",
+    "location": "Calgary, AB T2R 1J4",
+    "benefits": "",
+    "description": "Communicate with kitchen and service staff. Clean plates, pots, pans, and utensils."
+  },
+  {
+    "id": 14,
+    "title": "Food Runner / Busser",
+    "company": "Vintage Chophouse and Tavern",
+    "location": "Calgary, AB T2R 1J4",
+    "benefits": "",
+    "description": "Support servers and kitchen staff, communicate with guests, assist with service needs."
+  },
+  {
+    "id": 15,
+    "title": "Part Time Style Advisor",
+    "company": "The Latest Scoop",
+    "location": "Calgary, AB",
+    "benefits": "Flexible schedule",
+    "description": "Assist customers, assess needs, provide product information, and help with styling."
+  },
   {
     "id": "1",
     "title": "Receptionist",
