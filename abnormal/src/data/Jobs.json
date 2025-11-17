@@ -1,6 +1,126 @@
 [
   {
     "id": 1,
+    "title": "Administrative Assistant",
+    "company": "Altalink Immigration Services Inc.",
+    "location": "Calgary, AB T2E 7A9",
+    "benefits": "",
+    "description": "Secondary school certificate required. Establish and implement policies and procedures. Answer and relay telephone calls and messages."
+  },
+  {
+    "id": 2,
+    "title": "School Secretary / Office Assistant",
+    "company": "Calgary Board of Education",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support Administrative Secretary with emails, announcements, overseeing the door, and managing counter operations. Requires strong problem-solving skills."
+  },
+  {
+    "id": 3,
+    "title": "Associate, Office Administration",
+    "company": "Acera Insurance Services Ltd.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Provide reception and administrative support. Manage incoming calls and perform coordination duties in a visible administrative role."
+  },
+  {
+    "id": 4,
+    "title": "Administrative Assistant",
+    "company": "NEXUS FREIGHTLINES",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "7 months to 1 year of experience. Secondary school certificate required. Coordinate HR department activities and ensure targets are met."
+  },
+  {
+    "id": 5,
+    "title": "Office Coordinator",
+    "company": "Redstone Family Medical Clinic",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "1 to 7 months of experience. Review and evaluate new administrative procedures. Secondary school certificate required."
+  },
+  {
+    "id": 6,
+    "title": "Guest Services",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "Greet guests, manage coat-check, merchandise counter, cash floats, and contribute to memorable guest experiences."
+  },
+  {
+    "id": 7,
+    "title": "Office Assistant",
+    "company": "Di Leone Group",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Seeking professional talents with experience or legal knowledge for case analysis and preparation."
+  },
+  {
+    "id": 8,
+    "title": "Medical Office Assistant",
+    "company": "Saddleridge Medical Clinic Inc.",
+    "location": "Calgary, AB T3J 5M1",
+    "benefits": "",
+    "description": "7 months to 1 year of experience. Secondary school certificate required. Answer and relay telephone calls and messages."
+  },
+  {
+    "id": 9,
+    "title": "Administrative Officer",
+    "company": "Crown Construction YYC Ltd.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Secondary school certificate required. Review administrative procedures, set work priorities, and ensure guidelines are followed."
+  },
+  {
+    "id": 10,
+    "title": "Flight Dispatcher (February 2026)",
+    "company": "WestJet",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Ensure safety with adherence to alcohol and drug policies. Responsible for supporting safe and efficient flight operations."
+  },
+  {
+    "id": 11,
+    "title": "Office Administrative Assistant",
+    "company": "Sunup Drywall Ltd.",
+    "location": "Calgary, AB T3J 2S3",
+    "benefits": "",
+    "description": "1 to 2 years of experience. Plan and control budget and expenditures. Secondary school certificate required."
+  },
+  {
+    "id": 12,
+    "title": "Administrative Assistant",
+    "company": "Gill Plumbing & Heating Ltd.",
+    "location": "Calgary, AB T3J 3R5",
+    "benefits": "",
+    "description": "1 to 7 months of experience. Arrange and coordinate seminars, conferences, and other meetings."
+  },
+  {
+    "id": 13,
+    "title": "Librarian",
+    "company": "Prairie Land School Division",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Organize, maintain, and distribute learning resources using an automated library management system."
+  },
+  {
+    "id": 14,
+    "title": "Test Administrator",
+    "company": "Pearson",
+    "location": "Calgary, AB T2R 1R7",
+    "benefits": "Paid sick leave",
+    "description": "Starting pay $18.50/hour plus accrued paid sick time. Responsible for secure exam delivery at testing centers."
+  },
+  {
+    "id": 15,
+    "title": "Property Administrator",
+    "company": "Equium Realty Inc.",
+    "location": "Calgary, AB T2P 0M9",
+    "benefits": "Dental care, Extended health care",
+    "description": "Secondary school certificate required. Hire and supervise support staff handling operational, clerical, or maintenance duties."
+  },
+  {
+    "id": 1,
     "title": "Client Experience Coordinator (Full-Time and Part-Time)",
     "company": "Nose Creek Sport Physiotherapy",
     "location": "Calgary, AB",
