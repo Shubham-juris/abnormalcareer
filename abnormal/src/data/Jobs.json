@@ -1,5 +1,124 @@
 [
-  
+  {
+    "id": 1,
+    "title": "Client Experience Coordinator (Full-Time and Part-Time)",
+    "company": "Nose Creek Sport Physiotherapy",
+    "location": "Calgary, AB",
+    "benefits": "Dental care",
+    "description": "High School Diploma or Grade 11 students welcome to apply. Competitive salary starting at $16/hour probationary, increasing to $17/hour upon successful completion."
+  },
+  {
+    "id": 2,
+    "title": "Customer Service Associate",
+    "company": "WHSmith North America",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off, Vision care, Dental care, Life insurance, Disability insurance",
+    "description": "Assist with store cleanliness and merchandise upkeep. Maintain knowledge of store products and current promotions."
+  },
+  {
+    "id": 3,
+    "title": "Barista - Fleetwood Group",
+    "company": "Fleetwood Restaurant",
+    "location": "Calgary, AB T2H 2A6",
+    "benefits": "",
+    "description": "Ensure guests feel valued and welcome during each visit. Interact with customers to build a loyal customer base."
+  },
+  {
+    "id": 4,
+    "title": "Server",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "Must have valid ProServe certification or be willing to obtain. Educate guests on drink selections and provide excellent service."
+  },
+  {
+    "id": 5,
+    "title": "Host",
+    "company": "Pur and Simple Newport Village",
+    "location": "Calgary, AB T2J 0P5",
+    "benefits": "",
+    "description": "Join a vibrant breakfast restaurant as a host. Greet and serve customers, ensuring a positive dining experience."
+  },
+  {
+    "id": 6,
+    "title": "Cashier - Tim Hortons",
+    "company": "Tim Horton's",
+    "location": "Calgary, AB T2E 6W5",
+    "benefits": "Tuition reimbursement, Paid time off, Vision care, Dental care, Life insurance, Employee assistance program",
+    "description": "Operate cash register, handle cash and credit transactions, provide accurate change, and follow service standards."
+  },
+  {
+    "id": 7,
+    "title": "PT Barista",
+    "company": "Alforno - 707 5th Ave",
+    "location": "Calgary, AB T2G 2G8",
+    "benefits": "Vision care, Dental care, Discounted or free food, Wellness program, Flexible schedule",
+    "description": "Requires valid Food Safety Certificate. Includes corporate partnership discounts and wellness programs."
+  },
+  {
+    "id": 8,
+    "title": "Bartender's Assistant",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "Valid Serve It Right certification required. Support bartender operations and ensure smooth bar service."
+  },
+  {
+    "id": 9,
+    "title": "Dishwasher",
+    "company": "Fleetwood Restaurant",
+    "location": "Calgary, AB T2H 2A6",
+    "benefits": "",
+    "description": "Maintain grooming and hygiene standards. Ability to lift up to 70 pounds while ensuring cleanliness of kitchen items."
+  },
+  {
+    "id": 10,
+    "title": "Dishwasher",
+    "company": "Alvins Jazz Club",
+    "location": "Calgary, AB T2R 1J4",
+    "benefits": "",
+    "description": "Communicate effectively with kitchen and service staff. Ensure all dishes and utensils are clean. Full-time position."
+  },
+  {
+    "id": 11,
+    "title": "Food Runner / Busser",
+    "company": "Vintage Chophouse and Tavern",
+    "location": "Calgary, AB T2R 1J4",
+    "benefits": "",
+    "description": "Communicate with guests and support servers and kitchen staff. Respond to guest needs. Full-time or part-time."
+  },
+  {
+    "id": 12,
+    "title": "Expo / Food Runner",
+    "company": "The Nash Restaurant Company Ltd",
+    "location": "Calgary, AB T2G 0R4",
+    "benefits": "",
+    "description": "Engage in friendly communication with customers and team members. Support guest dining experience."
+  },
+  {
+    "id": 13,
+    "title": "Host/Hostess",
+    "company": "Una Pizzeria Banff Inc.",
+    "location": "Calgary, AB T2S 0B4",
+    "benefits": "Discounted or free food, Company events, Casual dress, Extended health care",
+    "description": "Seeking individuals eager to learn and grow within the company while providing excellent customer service."
+  },
+  {
+    "id": 14,
+    "title": "Server",
+    "company": "Pur and Simple Newport Village",
+    "location": "Calgary, AB T2J 0P5",
+    "benefits": "",
+    "description": "Hiring experienced servers for a growing franchise. Provide exceptional customer service."
+  },
+  {
+    "id": 15,
+    "title": "Respite Specialist",
+    "company": "Responsive Children Supports",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Provide behavioural, emotional, personal care, and home support based on individual needs."
+  },
   {
     "id": 1,
     "title": "Client Care Specialist",
