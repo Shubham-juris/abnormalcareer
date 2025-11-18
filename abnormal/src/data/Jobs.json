@@ -1,6 +1,126 @@
 [
   {
     "id": 1,
+    "title": "Early Childhood Educator (ECE) Assistant",
+    "company": "KIDSWISH",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist early childhood educators in carrying out programs that promote the physical, cognitive, emotional and social development of children."
+  },
+  {
+    "id": 2,
+    "title": "Family Child Care Provider",
+    "company": "Tan's Family",
+    "location": "Calgary, AB T2W 3S7",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development. Discipline children according to the methods requested by the parents."
+  },
+  {
+    "id": 3,
+    "title": "Nanny",
+    "company": "Harmanjot Kaur Kaler",
+    "location": "Calgary, AB T3J 5K4",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development. Discipline children according to the methods requested by the parents."
+  },
+  {
+    "id": 4,
+    "title": "Busser",
+    "company": "Olive Garden",
+    "location": "Calgary, AB T2A 7R4",
+    "benefits": "",
+    "description": "Discounts on cellphones, travel, electronics and more. Ongoing training to build critical skills for current and future roles."
+  },
+  {
+    "id": 5,
+    "title": "Sales Clerk",
+    "company": "HMP Custom Cabinets Ltd",
+    "location": "Calgary, AB T2E 7A7",
+    "benefits": "",
+    "description": "Greet customers and discuss type, quality and quantity of merchandise. Assist in display of merchandise."
+  },
+  {
+    "id": 6,
+    "title": "Office Supervisor",
+    "company": "Willow Smile Family Dental",
+    "location": "Calgary, AB T2J 7E4",
+    "benefits": "",
+    "description": "Manage difficult situations with customers. Co-ordinate, assign and review work. Train workers in duties and policies. Experience: 2 years to less than 3 years."
+  },
+  {
+    "id": 7,
+    "title": "Administrative Supervisor",
+    "company": "Calgary Custom Kitchen Cabinets Ltd.",
+    "location": "Calgary, AB T2E 8T2",
+    "benefits": "",
+    "description": "Arrange for maintenance and repair work. Co-ordinate, assign and review work. Train workers in duties and policies. Experience: 3 years to less than 5 years."
+  },
+  {
+    "id": 8,
+    "title": "Performer, Special Events",
+    "company": "Wilder Institute/Calgary Zoo",
+    "location": "Calgary, AB T2E 7V6",
+    "benefits": "",
+    "description": "Converse with people of all ages and integrate storytelling about the zoo during programmed events."
+  },
+  {
+    "id": 9,
+    "title": "Office Manager",
+    "company": "Mumzmoon Day Care",
+    "location": "Calgary, AB T3J 4C5",
+    "benefits": "",
+    "description": "Provide awareness training to employees to create a welcoming work environment for persons with disabilities. Support for persons with disabilities."
+  },
+  {
+    "id": 10,
+    "title": "Medical Office Assistant (MOA) - Part Time",
+    "company": "Group23 Sports Medicine Inc",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Create a welcoming office environment; greet patients and guests in person and on the phone. Handle incoming phone calls and emails."
+  },
+  {
+    "id": 11,
+    "title": "Home Child Care Provider",
+    "company": "Arshdeep Singh",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development. Discipline children according to parent instructions. Hours: 40 hours per week."
+  },
+  {
+    "id": 12,
+    "title": "Office Manager",
+    "company": "Nolan Hill Physiotherapy and Massage",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Review and evaluate new administrative procedures. Perform administrative activities. Assist in preparation of operating budgets."
+  },
+  {
+    "id": 13,
+    "title": "Store Management",
+    "company": "Spirit Halloween",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Responsible for shrink, merchandising, inventory control, staffing, setup, pack-up and teardown of a seasonal store."
+  },
+  {
+    "id": 14,
+    "title": "Employment Specialist",
+    "company": "Prospect Human Services",
+    "location": "Calgary, AB T2A 6T2",
+    "benefits": "",
+    "description": "Requires valid driver’s license and reliable vehicle. Experience in employment placement, career development, customer relations or sales."
+  },
+  {
+    "id": 15,
+    "title": "Home Child Care Provider",
+    "company": "Xiaohua Chen",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development. Organize activities such as games and outings. Supervise and care for children."
+  },
+  {
+    "id": 1,
     "title": "Administrative Assistant",
     "company": "Altalink Immigration Services Inc.",
     "location": "Calgary, AB T2E 7A9",
