@@ -1,6 +1,126 @@
 [
   {
     "id": 1,
+    "title": "Part Time Cashier",
+    "company": "Michael Kors",
+    "location": "Rocky View, AB T4A 0G3",
+    "benefits": "",
+    "description": "Participate in all relevant training and development seminars, programs and meetings as directed by store management."
+  },
+  {
+    "id": 2,
+    "title": "Leasing Professional",
+    "company": "Hines",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Develop marketing plans to sustain occupancy and stay informed about the current market. Ability to lift up to 25 lbs."
+  },
+  {
+    "id": 3,
+    "title": "Volunteer - Childcare Attendant",
+    "company": "MNP Community & Sport Centre",
+    "location": "Calgary, AB T2G 5B6",
+    "benefits": "",
+    "description": "Provide supervision and care for children aged 3 months to 4 years. Assist with hands-on play and activities."
+  },
+  {
+    "id": 4,
+    "title": "Events Staff",
+    "company": "Rendesvouz",
+    "location": "Calgary, AB T2R 0C6",
+    "benefits": "",
+    "description": "Requires ProServe certification and minimum age of 18. Must have extensive knowledge of the menu and assist guests during events."
+  },
+  {
+    "id": 5,
+    "title": "Service Assistant",
+    "company": "Red Lobster",
+    "location": "Calgary, AB T2A 6S7",
+    "benefits": "Vision care, Dental care, Life insurance, Disability insurance, Discounted meals",
+    "description": "Provide assistance to guests and team members. Reasonable accommodations available for individuals with disabilities."
+  },
+  {
+    "id": 6,
+    "title": "Office Manager",
+    "company": "Calgary Wholesale Cash and Carry",
+    "location": "Calgary, AB T1Y 5R8",
+    "benefits": "",
+    "description": "Review administrative procedures, manage office activities, and assist in preparing the operating budget."
+  },
+  {
+    "id": 7,
+    "title": "Office Manager",
+    "company": "Stance Physiotherapy, Chiro and Massage",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Review administrative procedures, carry out office operations, and assist in preparing budgets and reports."
+  },
+  {
+    "id": 8,
+    "title": "Education Assistant",
+    "company": "Providence Child Development Society",
+    "location": "Calgary, AB T2V 0Z4",
+    "benefits": "Vision care, Dental care",
+    "description": "Assist in implementing children's individual program plans and support child development. Vaccination required."
+  },
+  {
+    "id": 9,
+    "title": "Nanny (FTN-9874CA)",
+    "company": "Nannies on Call",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Care for children before and after school, including dressing, packing snacks, and driving to and from school."
+  },
+  {
+    "id": 10,
+    "title": "Home Support Worker",
+    "company": "Aruga Home Care Inc.",
+    "location": "Calgary, AB T2X 1P1",
+    "benefits": "",
+    "description": "Assist clients with bathing, hygiene, meal preparation, and laundry of clothing and household linens."
+  },
+  {
+    "id": 11,
+    "title": "Children’s Support Specialist",
+    "company": "Responsive Childrens Supports",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Provide behavioural, emotional, and personal care support based on client needs."
+  },
+  {
+    "id": 12,
+    "title": "Office Manager",
+    "company": "Aqualem Bathroom Canada Inc.",
+    "location": "Calgary, AB T2E 6S9",
+    "benefits": "",
+    "description": "Administer policies and procedures, manage records, and handle access to information and privacy legislation matters."
+  },
+  {
+    "id": 13,
+    "title": "Lifestyle Adjuster – Auto Claims",
+    "company": "Aviva",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Requires a post-secondary diploma or degree. Accommodations available for employees with disabilities."
+  },
+  {
+    "id": 14,
+    "title": "Store Sales Associate - Part Time",
+    "company": "The Pittsburgh Paints Canada Company LTD",
+    "location": "Calgary, AB T2E 6N1",
+    "benefits": "",
+    "description": "Greet and assist customers with paint and supply needs in the retail store."
+  },
+  {
+    "id": 15,
+    "title": "Early Childhood Educator (ECE) Assistant",
+    "company": "KIDSWISH",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist educators in promoting physical, cognitive, emotional, and social development of children."
+  },
+  {
+    "id": 1,
     "title": "Early Childhood Educator (ECE) Assistant",
     "company": "KIDSWISH",
     "location": "Calgary, AB",
