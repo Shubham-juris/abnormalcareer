@@ -6,37 +6,53 @@ const AllJobsPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
-    // ✅ Ensure posted date is formatted properly
-    const formattedJobs = jobsData.map((job) => ({
-      ...job,
-      posted: job.posted ? new Date(job.posted) : new Date(),
-    }));
-    setJobs(formattedJobs);
+    // CLEAN DATA
+    const clean = (v) =>
+      v ? v.toString().toLowerCase().trim().replace(/\s+/g, " ") : "";
+
+    const cleanedJobs = jobsData.map((job) => {
+      const bestTitle =
+        job.title ||
+        job.job_title ||
+        job.position ||
+        job.role ||
+        job.designation ||
+        "";
+
+      return {
+        ...job,
+
+        // DISPLAY FIELDS
+        displayTitle: bestTitle,
+        displayCompany: job.company || "",
+        displayLocation: job.location || "",
+        displayDescription: job.description || "",
+
+        // SEARCHABLE FIELDS
+        searchTitle: clean(bestTitle),
+      };
+    });
+
+    setJobs(cleanedJobs);
   }, []);
 
-  // ✅ Safe filter using optional chaining
+  // ONLY SEARCH BY TITLE
   const filteredJobs = jobs.filter((job) => {
-    const title = job.title || job.job_title || job.position || "";
-    const company = job.company || "";
-    const location = job.location || "";
-    const search = searchTerm.toLowerCase();
+    const s = searchTerm.toLowerCase().trim();
+    if (s === "") return true; // show all when search empty
 
-    return (
-      title.toLowerCase().includes(search) ||
-      company.toLowerCase().includes(search) ||
-      location.toLowerCase().includes(search)
-    );
+    return job.searchTitle.includes(s); // ❗ONLY TITLE MATCH
   });
 
   return (
     <section className="p-8 max-w-7xl mx-auto">
       <h1 className="text-center text-2xl font-bold mb-6">WE ARE HIRING!</h1>
 
-      {/* 🔍 Search Bar */}
+      {/* Search Bar */}
       <div className="flex justify-center mb-10">
         <input
           type="text"
-          placeholder="Search job title, company or location..."
+          placeholder="Search job title..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className="w-full md:w-1/2 border rounded-full px-4 py-2 shadow focus:ring-2 focus:ring-blue-500 outline-none"
@@ -48,69 +64,79 @@ const AllJobsPage = () => {
         {filteredJobs.length > 0 ? (
           filteredJobs.map((job, index) => (
             <div
-              key={`${job.id || job.title || job.position}_${index}`}
+              key={`${job.id || job.displayTitle}_${index}`}
               className="grid md:grid-cols-2 gap-10 border-b pb-10"
             >
               {/* LEFT SIDE */}
               <div>
                 <h2 className="text-3xl font-bold text-blue-700 mb-2">
-                  {job.title || job.job_title || job.position}
+                  {job.displayTitle}
                 </h2>
-                <p className="text-gray-600 mb-4">{job.company}</p>
+
+                <p className="text-gray-600 mb-4">{job.displayCompany}</p>
 
                 <h3 className="font-semibold text-lg">Job Details</h3>
                 <ul className="list-disc list-inside mb-4 text-gray-700">
-                  <li>Job type: {job.type || job.job_type}</li>
-                  <li>Location: {job.location}</li>
+                  <li>Location: {job.displayLocation}</li>
+                  <li>Job type: {job.type || job.job_type || "Full-time"}</li>
                   <li>Pay: {job.salary || "$37.00 per hour"}</li>
                   <li>Hours: {job.hours || "40 per week"}</li>
                 </ul>
 
                 <h3 className="font-semibold text-lg">Full Job Description</h3>
-                <p className="mb-4">{job.description}</p>
+                <p className="mb-4">{job.displayDescription}</p>
 
                 <h3 className="font-semibold text-lg">Qualifications</h3>
                 <ul className="list-disc list-inside mb-4 text-gray-700">
                   <li>Bachelor's degree (preferred)</li>
                   <li>3–5 years of experience</li>
-                  <li>Strong communication and leadership skills</li>
+                  <li>Strong communication skills</li>
                 </ul>
 
                 <h3 className="font-semibold text-lg">Responsibilities</h3>
                 <ul className="list-disc list-inside mb-4 text-gray-700">
-                  <li>Supervise staff and coordinate operations</li>
-                  <li>Ensure quality and safety standards</li>
-                  <li>Prepare reports and documentation</li>
+                  <li>Supervise staff and daily operations</li>
+                  <li>Maintain quality standards and ensure compliance</li>
+                  <li>Prepare weekly and monthly performance reports</li>
+                  <li>Coordinate with team members for task planning</li>
+                  <li>Communicate with clients and resolve issues</li>
+                  <li>Manage workflow to meet deadlines</li>
+                  <li>Provide training and guidance to new employees</li>
+                  <li>Ensure workplace safety and procedures are followed</li>
+                  <li>Monitor progress and suggest improvements</li>
+                  <li>
+                    Assist management in planning and execution of projects
+                  </li>
                 </ul>
               </div>
 
-              {/* RIGHT SIDE - APPLY FORM */}
+              {/* RIGHT SIDE FORM */}
               <div className="bg-gray-50 border rounded-xl p-6 shadow">
                 <h3 className="text-lg font-semibold mb-4">APPLY NOW</h3>
                 <form className="flex flex-col gap-4">
                   <input
                     type="text"
                     placeholder="Name"
-                    className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                    className="border rounded-lg p-2"
                   />
                   <input
                     type="text"
                     placeholder="Phone"
-                    className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                    className="border rounded-lg p-2"
                   />
                   <input
                     type="email"
                     placeholder="Email*"
-                    className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                    className="border rounded-lg p-2"
                   />
                   <textarea
                     placeholder="Cover letter"
                     rows="5"
-                    className="border rounded-lg p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                    className="border rounded-lg p-2"
                   ></textarea>
                   <button
                     type="submit"
-                    className="bg-blue-600 hover:bg-blue-700 transition text-white py-2 rounded-full text-sm"
+                    className="bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-full text-sm"
                   >
                     SUBMIT APPLICATION
                   </button>
