@@ -1,6 +1,126 @@
 [
   {
     "id": 1,
+    "title": "Airport Dispatch Coordinator",
+    "company": "Unifi Aviation",
+    "location": "YYC",
+    "benefits": "",
+    "description": "Monitor future flights, identify potential issues, and develop solutions with focus on delayed inbound and outbound baggage."
+  },
+  {
+    "id": 2,
+    "title": "PT Package Handler - Twilight Shift",
+    "company": "UPS",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Responsible for loading, unloading, shipping, receiving, scanning, sorting, and stocking packages. Must be able to lift up to 70 lbs."
+  },
+  {
+    "id": 3,
+    "title": "Fan Experience Team Member",
+    "company": "Sports & Entertainment Corporation",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Assist guest arrival, ticket checking, security screening, and provide support by understanding venue operations."
+  },
+  {
+    "id": 4,
+    "title": "Medical Office Assistant",
+    "company": "Signature Medical Centre",
+    "location": "Calgary",
+    "benefits": "First Aid coverage",
+    "description": "Assist in administrative tasks, support medical staff, and provide patient assistance. Part-time/full-time available."
+  },
+  {
+    "id": 5,
+    "title": "Barista",
+    "company": "Coffee Roasters",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Anticipate customer needs, maintain store environment, and prepare beverages while ensuring excellent customer service."
+  },
+  {
+    "id": 6,
+    "title": "Lifestyle Adjuster – Auto Claims",
+    "company": "Insurance Company",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Review auto claims, customer assistance, documentation, and settlement processing. Post-secondary diploma preferred."
+  },
+  {
+    "id": 7,
+    "title": "Claims Advisor - Auto",
+    "company": "Peace Hills Insurance",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Calculate entitlements, issue payments, and support customer claims. CIP/FCIP considered an asset."
+  },
+  {
+    "id": 8,
+    "title": "Office Manager",
+    "company": "Delicate Glass Ltd.",
+    "location": "Rocky View",
+    "benefits": "",
+    "description": "Review administrative procedures and manage day-to-day office activities. High school diploma required."
+  },
+  {
+    "id": 9,
+    "title": "Office Manager",
+    "company": "G Square Builders Ltd.",
+    "location": "Rocky View",
+    "benefits": "",
+    "description": "Administer policies and handle release of records. Manage company administrative operations."
+  },
+  {
+    "id": 10,
+    "title": "Part-Time Stock Associate",
+    "company": "Michael Kors",
+    "location": "Rocky View",
+    "benefits": "",
+    "description": "Organize stockroom, maintain cleanliness, support inventory management, and attend training sessions."
+  },
+  {
+    "id": 11,
+    "title": "Office Supervisor",
+    "company": "Family Dental",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Supervise office staff, manage customer situations, and maintain administrative workflow. Diploma required."
+  },
+  {
+    "id": 12,
+    "title": "Customer Service Representative",
+    "company": "Pest Control",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Handle incoming calls, greet customers, provide information, and assist with booking services."
+  },
+  {
+    "id": 13,
+    "title": "Flight Dispatcher",
+    "company": "WestJet",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Ensure safe flight operations by monitoring flight plans and coordinating with crew. Must follow safety policies."
+  },
+  {
+    "id": 14,
+    "title": "Educational Assistant",
+    "company": "School Division",
+    "location": "Calgary",
+    "benefits": "",
+    "description": "Assist children in learning, support classroom activities, and manage student needs."
+  },
+  {
+    "id": 15,
+    "title": "Education Assistant",
+    "company": "Child Development Society",
+    "location": "Calgary",
+    "benefits": "Vision care, Dental care",
+    "description": "Assist children’s program plans, support development activities, and follow health requirements."
+  },
+  {
+    "id": 1,
     "title": "Part Time Cashier",
     "company": "Michael Kors",
     "location": "Rocky View, AB T4A 0G3",
