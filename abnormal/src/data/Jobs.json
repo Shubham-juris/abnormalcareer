@@ -1,6 +1,110 @@
 [
   {
     "id": 1,
+    "title": "Receptionist",
+    "company": "The Brenda Strafford Foundation Ltd.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Process outgoing mail, courier delivery, and perform general receptionist duties."
+  },
+  {
+    "id": 2,
+    "title": "Administrative Staff",
+    "company": "Speed Force Transport",
+    "location": "Mississauga, ON L5T 1V2",
+    "benefits": "Competitive salary packages and benefits; pay negotiable based on experience.",
+    "description": "General administrative and office support based on experience and area of expertise."
+  },
+  {
+    "id": 3,
+    "title": "Casual Administrative Assistant",
+    "company": "Anglophone South School District",
+    "location": "Saint John, NB E2K 5N3",
+    "benefits": "",
+    "description": "Reception duties, answering phones, greeting visitors, and providing typing and administrative support."
+  },
+  {
+    "id": 4,
+    "title": "Casual Administrative Assistant",
+    "company": "Good Spirit School Division #204",
+    "location": "Yorkton, SK S3N 3Z4",
+    "benefits": "",
+    "description": "Support school operations ensuring positive and safe learning environment for students."
+  },
+  {
+    "id": 5,
+    "title": "Clerical - Casual/on call",
+    "company": "School District #22 (Vernon)",
+    "location": "Vernon, BC V1T 8S8",
+    "benefits": "",
+    "description": "General clerical duties including data entry, word processing, and maintaining various files and records."
+  },
+  {
+    "id": 6,
+    "title": "Substitute Clerical",
+    "company": "Medicine Hat Public School Division",
+    "location": "Medicine Hat, AB T1A 4Y7",
+    "benefits": "",
+    "description": "Operate switchboard, direct inquiries, and support office administration tasks."
+  },
+  {
+    "id": 7,
+    "title": "Client Care Coordinators",
+    "company": "Dearest Home Senior Care",
+    "location": "Brampton, ON",
+    "benefits": "",
+    "description": "Evaluate, plan, guide, monitor and approve care services for clients."
+  },
+  {
+    "id": 8,
+    "title": "Production Department Assistant",
+    "company": "Window Mart Windows & Doors",
+    "location": "Edmonton, AB",
+    "benefits": "",
+    "description": "Fulfill orders, prepare documentation, coordinate with sales team, and respond to product/service inquiries."
+  },
+  {
+    "id": 9,
+    "title": "General Store Team Member",
+    "company": "Westview Co-op",
+    "location": "Mountain View County, AB",
+    "benefits": "",
+    "description": "Clean vehicle windows, handle cash and liquor sales, and work flexible day/weekend shifts."
+  },
+  {
+    "id": 10,
+    "title": "Current Job Postings",
+    "company": "Lazy Gourmet",
+    "location": "Vancouver, BC V6J 1N5",
+    "benefits": "",
+    "description": "Various openings including delivery drivers, dispatchers, and kitchen roles."
+  },
+  {
+    "id": 11,
+    "title": "Concierge",
+    "company": "Hearthstone Retirement Condominiums",
+    "location": "Etobicoke, ON M8V 3Z5",
+    "benefits": "",
+    "description": "Receive, sort, and distribute incoming/outgoing mail and parcels; must have valid Security/Guard License."
+  },
+  {
+    "id": 12,
+    "title": "Casual Student Attendant",
+    "company": "Anglophone South School District",
+    "location": "Saint John, NB E2K 5N3",
+    "benefits": "",
+    "description": "Assist students with transport, community visits, and work locations; role requires direct student support."
+  },
+  {
+    "id": 13,
+    "title": "Part Time Floor Supervisor - Market Mall",
+    "company": "The Latest Scoop",
+    "location": "Calgary, AB",
+    "benefits": "Flexible schedule.",
+    "description": "Create excellent customer experiences and support store operations."
+  },
+  {
+    "id": 1,
     "title": "Airport Dispatch Coordinator",
     "company": "Unifi Aviation",
     "location": "YYC",
