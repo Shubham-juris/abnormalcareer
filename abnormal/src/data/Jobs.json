@@ -1,4 +1,108 @@
 [
+   {
+    "id": 1,
+    "title": "Veterinary Assistant",
+    "company": "McGilvray Veterinary Hospital",
+    "location": "North York, ON",
+    "benefits": "",
+    "description": "Seeking a caring, compassionate, and hardworking individual for a full-time role assisting in daily veterinary operations."
+  },
+  {
+    "id": 2,
+    "title": "Store Sales Associate (Regent)",
+    "company": "Running Room",
+    "location": "Winnipeg, MB R2C 5C6",
+    "benefits": "",
+    "description": "Assist with brand awareness, engage customers, support store management, and contribute to a positive customer experience."
+  },
+  {
+    "id": 3,
+    "title": "Data Entry Associate",
+    "company": "TCOM Consultantz",
+    "location": "Toronto, ON",
+    "benefits": "",
+    "description": "Capture invoice services accurately and maintain detailed records, working primarily at client sites."
+  },
+  {
+    "id": 4,
+    "title": "Customer Service Representative",
+    "company": "Circle K - Subway",
+    "location": "Thunder Bay, ON P7B 1K5",
+    "benefits": "",
+    "description": "Accurately ring up sales, handle payments, and provide customer service in a convenience store environment."
+  },
+  {
+    "id": 5,
+    "title": "Grocery Clerk - Part Time",
+    "company": "Metro",
+    "location": "Oakville, ON L6L 1Z8",
+    "benefits": "",
+    "description": "Stock merchandise, create displays, and ensure product quality while working under minimal supervision."
+  },
+  {
+    "id": 6,
+    "title": "Guest Attendant",
+    "company": "Chartwell Retirement Residences",
+    "location": "Greater Sudbury, ON",
+    "benefits": "",
+    "description": "Assist residents with daily living activities in a safe and caring manner."
+  },
+  {
+    "id": 7,
+    "title": "Retail Store Supervisor",
+    "company": "Canadian Tire",
+    "location": "Dryden, ON",
+    "benefits": "Profit sharing, On-site parking",
+    "description": "Manage and lead staff, oversee store operations, and support the management team."
+  },
+  {
+    "id": 8,
+    "title": "Sales Associate - CosmoProf Store #07546",
+    "company": "Cosmoprof",
+    "location": "Ajax, ON",
+    "benefits": "",
+    "description": "Enroll customers in loyalty programs, inform them about promotions, and assist with retail sales."
+  },
+  {
+    "id": 9,
+    "title": "Business Support Coordinator",
+    "company": "Marwood Ltd",
+    "location": "Brookfield, NS",
+    "benefits": "",
+    "description": "Accurately enter production data and facilitate communication between production and sales teams."
+  },
+  {
+    "id": 10,
+    "title": "Ticket Sales Attendant",
+    "company": "Centreville Amusement Park",
+    "location": "Etobicoke, ON",
+    "benefits": "",
+    "description": "Process POS transactions, handle cash counts, and recommend ticket options to guests."
+  },
+  {
+    "id": 11,
+    "title": "Casual Educational Assistant",
+    "company": "Good Spirit School Division #204",
+    "location": "Yorkton, SK S3N 3Z4",
+    "benefits": "",
+    "description": "Support students in creating a positive, friendly, and safe learning environment."
+  },
+  {
+    "id": 12,
+    "title": "Junior Sales",
+    "company": "ZF America",
+    "location": "Burlington, ON",
+    "benefits": "",
+    "description": "Develop and maintain customers in foodservice, retail, and multi-unit restaurants; strong analytical skills required."
+  },
+  {
+    "id": 13,
+    "title": "Childcare (Over 3 Years)",
+    "company": "CareAfter.Me",
+    "location": "Quebec City, QC",
+    "benefits": "",
+    "description": "Pick up children from school, assist with homework, bathing, and meals until parents return."
+  },
   {
     "id": 1,
     "title": "Receptionist",
