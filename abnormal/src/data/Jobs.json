@@ -1,4 +1,125 @@
 [
+  {
+  "id": 1,
+  "title": "Substitute Educational Assistants",
+  "company": "Chinooks Edge School Division",
+  "location": "Innisfail, AB T4G 1W4",
+  "benefits": "",
+  "description": "Applicants must provide a cover letter, resume and three current work-related references."
+},
+{
+  "id": 2,
+  "title": "Continuing Education - Secondary Summer School",
+  "company": "Dufferin-Peel Catholic District School Board",
+  "location": "Mississauga, ON L5R 1C5",
+  "benefits": "",
+  "description": "Summer school program information available on the official website. Offers multiple continuing education options."
+},
+{
+  "id": 3,
+  "title": "Home Share Providers",
+  "company": "Community Connections Support Services",
+  "location": "Boundary, YT",
+  "benefits": "",
+  "description": "Provide support to adults with disabilities by offering space in your home. Flexible career opportunity."
+},
+{
+  "id": 4,
+  "title": "Substitute Caretakers",
+  "company": "Light Of Christ RCSSD #16",
+  "location": "North Battleford, SK S9A 3X5",
+  "benefits": "",
+  "description": "Requires cover letter, resume, criminal record check (last 6 months) and three professional references."
+},
+{
+  "id": 5,
+  "title": "Out of School Care (OSC) Program Staff – Competition #620",
+  "company": "Medicine Hat Catholic Board of Education",
+  "location": "Medicine Hat, AB T1B 3Z2",
+  "benefits": "",
+  "description": "Supervise and implement child care programming based on licensing requirements at St. Patrick's School."
+},
+{
+  "id": 6,
+  "title": "Relief Educational Assistants",
+  "company": "Christ the Redeemer Catholic Schools",
+  "location": "Brooks, AB T1R 0L7",
+  "benefits": "",
+  "description": "Assist student growth and development. Multiple school locations in Brooks."
+},
+{
+  "id": 7,
+  "title": "Aesthetician",
+  "company": "Alco VR",
+  "location": "Laval, QC",
+  "benefits": "",
+  "description": "Wash recreational vehicles, access to large brand inventory, and related duties."
+},
+{
+  "id": 8,
+  "title": "Zipline Guide",
+  "company": "Mineral Mountain Ziplines",
+  "location": "Fairmont Hot Springs, BC",
+  "benefits": "",
+  "description": "Training includes rope setting, knot tying, and assisting guests with proper equipment use."
+},
+{
+  "id": 9,
+  "title": "Kindergarten to Grade 6 Homeroom Teacher",
+  "company": "Christ the Redeemer Catholic Schools",
+  "location": "Oyen, AB",
+  "benefits": "",
+  "description": "Provides teaching support for grades K–6. Additional information available on the division website."
+},
+{
+  "id": 10,
+  "title": "French Immersion Primary Team Member (LTO – 1.00 FTE)",
+  "company": "Halton Catholic District School Board",
+  "location": "Oakville, ON L6M 0B7",
+  "benefits": "",
+  "description": "Equity-focused hiring. Teach in a French Immersion primary program."
+},
+{
+  "id": 11,
+  "title": "Elementary Generalist – Ralph McCall School",
+  "company": "Rocky View Schools",
+  "location": "Airdrie, AB T4B 2L9",
+  "benefits": "",
+  "description": "Applicants must apply for Alberta Teaching Certificate. Elementary generalist teaching position."
+},
+{
+  "id": 12,
+  "title": "Veterinarian",
+  "company": "Sunnyview Animal Care",
+  "location": "Bedford, NS",
+  "benefits": "",
+  "description": "Veterinarian opening. Applicants can send resume to the provided email."
+},
+{
+  "id": 13,
+  "title": "French Core Teacher (LTO – 1.00 FTE)",
+  "company": "Halton Catholic District School Board",
+  "location": "Milton, ON",
+  "benefits": "",
+  "description": "Long-term occasional French Core teaching position."
+},
+{
+  "id": 14,
+  "title": "Elementary TOC (Teacher on Call)",
+  "company": "Meadow Montessori School Society",
+  "location": "Maple Ridge, BC V2X 1V6",
+  "benefits": "",
+  "description": "Provide an inclusive whole-child development program with positive child guidance."
+},
+{
+  "id": 15,
+  "title": "TTOC",
+  "company": "Secpwepemc/St’atl’imc/Nlaka’pamux",
+  "location": "Savona, BC",
+  "benefits": "",
+  "description": "Support students individually and in groups while supporting cultural and traditional values."
+}
+  ,
    {
     "id": 1,
     "title": "Veterinary Assistant",
