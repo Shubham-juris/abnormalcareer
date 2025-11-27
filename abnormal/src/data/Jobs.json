@@ -1,5 +1,125 @@
 [
   {
+    "id": 1,
+    "title": "Dishwasher/Kitchen hand",
+    "company": "Great Taste Chinese Restaurant",
+    "location": "Calgary, AB T2G 0B2",
+    "benefits": "Store discount",
+    "description": "Clean the dishes and mop the floors of the kitchen as well as lend a hand to the chefs when needed. Must be available on weekends and holidays."
+  },
+  {
+    "id": 2,
+    "title": "Home Support Worker",
+    "company": "Ling Xian Dong",
+    "location": "Calgary, AB T2P 0B9",
+    "benefits": "Paid time off",
+    "description": "Prior experience in nursing home, home care, assisted living, or hospice care is highly preferred. Assist residents with daily living activities."
+  },
+  {
+    "id": 3,
+    "title": "Dishwasher/Kitchen Helper",
+    "company": "A Taste Of Saigon",
+    "location": "Calgary, AB T3G 4T2",
+    "benefits": "",
+    "description": "Must be able to work late hours. Applicants must bring their résumé directly between 3-4 pm on any day."
+  },
+  {
+    "id": 4,
+    "title": "Full Time Assistant Store Manager - Cross Iron Mills",
+    "company": "The Body Shop Canada Ltd",
+    "location": "Rocky View, AB",
+    "benefits": "",
+    "description": "Experience in customer-facing roles, people leadership, and team development required. Responsible for building customer loyalty and supporting brand growth."
+  },
+  {
+    "id": 5,
+    "title": "Deli Clerk",
+    "company": "Italian Centre Shop Calgary",
+    "location": "Calgary, AB",
+    "benefits": "On-site parking, Flexible schedule",
+    "description": "Answer deli telephone and take customer orders. High School or GED preferred."
+  },
+  {
+    "id": 6,
+    "title": "Commercial Cleaner",
+    "company": "Calgary Petroleum Club",
+    "location": "Calgary, AB T2P 0L5",
+    "benefits": "Dental care, Life insurance, Employee assistance program, Discounted or free food, Extended health care",
+    "description": "Tasks include dusting, polishing furniture, vacuuming, mopping, sweeping, shampooing carpets, and washing windows."
+  },
+  {
+    "id": 7,
+    "title": "Cashier/Cook (Overnight Only)",
+    "company": "A&W Foothills SE",
+    "location": "Calgary, AB T2C 4X6",
+    "benefits": "",
+    "description": "Must be available for full-time night shifts Monday through Sunday."
+  },
+  {
+    "id": 8,
+    "title": "Residential Cleaner",
+    "company": "LemonFreshCleaning",
+    "location": "Cochrane, AB",
+    "benefits": "Flexible schedule",
+    "description": "Consistent schedule with predictable hours and no late nights."
+  },
+  {
+    "id": 9,
+    "title": "Alert Management Specialist",
+    "company": "Blackline Safety",
+    "location": "Calgary, AB",
+    "benefits": "Tuition reimbursement, Employee stock purchase plan, Dental care, Extended health care, Wellness program",
+    "description": "Work with in-house design, development, sales, marketing, support, and production teams."
+  },
+  {
+    "id": 10,
+    "title": "Stock Coordinator",
+    "company": "ALDO Group",
+    "location": "Rocky View, AB",
+    "benefits": "",
+    "description": "Assist customers with stock inquiries. Ability to operate forklifts safely; certification preferred."
+  },
+  {
+    "id": 11,
+    "title": "Production Worker (Days)",
+    "company": "Vitrum Industries",
+    "location": "Airdrie, AB",
+    "benefits": "",
+    "description": "Perform tasks following SOPs and WIs safely and precisely. Comply with industry regulations and company standards."
+  },
+  {
+    "id": 12,
+    "title": "Community Engagement Coordinator",
+    "company": "Women's Centre of Calgary",
+    "location": "Calgary, AB T2E 3R6",
+    "benefits": "",
+    "description": "Obtain feedback from women accessing the Centre to identify interests for programs supporting social inclusion and skills-building."
+  },
+  {
+    "id": 13,
+    "title": "Communications Advisor",
+    "company": "Rocky View County",
+    "location": "Rocky View County, AB",
+    "benefits": "Paid sick leave",
+    "description": "Develop and manage communication plans across traditional, digital, and social media platforms."
+  },
+  {
+    "id": 14,
+    "title": "Retail Sales Associate",
+    "company": "Wireless World Solutions Ltd.",
+    "location": "Calgary, AB",
+    "benefits": "Dental care, Store discount, On-site parking",
+    "description": "Provide wireless solutions and excellent customer service. Access to amazing technology discounts."
+  },
+  {
+    "id": 15,
+    "title": "Community Access - Community Support Worker",
+    "company": "Columbia Training Centre",
+    "location": "Calgary, AB T2E 7N8",
+    "benefits": "Employee assistance program, Extended health care",
+    "description": "Provide direct support for persons with disabilities with guidance from supervisors."
+  },
+  {
   "id": 1,
   "title": "Substitute Educational Assistants",
   "company": "Chinooks Edge School Division",
