@@ -1,4 +1,84 @@
 [
+{
+  "id": 1,
+  "title": "Gravel Truck Driver",
+  "company": "G-1 TRUCKING LTD",
+  "location": "Rocky View, AB",
+  "benefits": "",
+  "description": "Operate and drive straight or articulated trucks to transport goods and materials. Education: No degree, certificate or diploma. Type of trucking and equipment."
+},
+{
+  "id": 2,
+  "title": "Truck Driver",
+  "company": "EXPEDITOR TRUCKING INC.",
+  "location": "Calgary, AB T3K 4P2",
+  "benefits": "",
+  "description": "Operate and drive straight or articulated trucks to transport goods and materials. Hours: 30 to 40 hours per week. Drive as part of a two-person team or convoy."
+},
+{
+  "id": 3,
+  "title": "Tow Truck Driver - Service Vehicle Operator",
+  "company": "Alberta Motor Association",
+  "location": "Calgary, AB",
+  "benefits": "Paid vacation, Employee-exclusive discounts, Overtime opportunities",
+  "description": "Tow truck operations and service vehicle assistance for AMA members."
+},
+{
+  "id": 4,
+  "title": "Personal Vehicle Driver",
+  "company": "UPS",
+  "location": "Calgary, AB T2E 8Z9",
+  "benefits": "Extended health care",
+  "description": "Pick-up trucks must have a covered and secured bed. Competitive wage and reliable paycheck."
+},
+{
+  "id": 5,
+  "title": "Class 3 Bin Truck Driver",
+  "company": "SRP Projects Ltd.",
+  "location": "Calgary, AB T2C 2R1",
+  "benefits": "Paid time off, Vision care, Dental care, On-site parking",
+  "description": "Experience driving tandem trucks, pups, and tractors. Minimum two years of driving experience. Proficient in English."
+},
+{
+  "id": 6,
+  "title": "DevOps Engineer",
+  "company": "Athennian",
+  "location": "Calgary, AB",
+  "benefits": "Paid time off, Vision care, Dental care, Employee assistance program, Disability insurance",
+  "description": "Responsible for building and maintaining cloud-based infrastructure and collaborating with engineering."
+},
+{
+  "id": 7,
+  "title": "Co-Op, Cloud DevOps",
+  "company": "Nutrien",
+  "location": "Calgary, AB T2J 7C6",
+  "benefits": "",
+  "description": "Build and improve CI/CD pipelines. Work with AWS tools and modern digital technologies."
+},
+{
+  "id": 8,
+  "title": "iOS Engineer, Observability SDK",
+  "company": "Data Theorem",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Improve Data Theorem's iOS SDK for observability and run-time defense."
+},
+{
+  "id": 9,
+  "title": "Office Manager",
+  "company": "AQUALEM BATHROOM CANADA INC.",
+  "location": "Calgary, AB T2E 6S9",
+  "benefits": "",
+  "description": "Experience 3 to 5 years. Review and evaluate administrative procedures. Delegate work to office staff."
+},
+{
+  "id": 10,
+  "title": "Gas Station Manager",
+  "company": "Esso Oakfield Gas station & Carwash",
+  "location": "Calgary, AB T2W 4M2",
+  "benefits": "",
+  "description": "Experience: 1 to 2 years. Manage staff, assign duties, plan and control daily operations."
+},
   {
     "id": 1,
     "title": "Dishwasher/Kitchen hand",
