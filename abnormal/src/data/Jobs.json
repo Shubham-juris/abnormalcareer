@@ -1,4 +1,124 @@
 [
+  {
+  "id": 1,
+  "title": "Client Care Specialist",
+  "company": "Litco Law",
+  "location": "Calgary, AB",
+  "benefits": "Employee assistance program, Paid vacation",
+  "description": "Provide outstanding client care, ensuring regular contact with clients to answer questions and keep them informed."
+},
+{
+  "id": 2,
+  "title": "Receptionist",
+  "company": "Mann International Travel & Tours Ltd.",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Monitor mobile radio or telephone. Assist newcomers/refugees displaced by conflict as part of service duties."
+},
+{
+  "id": 4,
+  "title": "Store Associate (Full-time/Part-time)",
+  "company": "Uniqlo Canada",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Assist customers, maintain fitting rooms, and stay updated with the brand, products, and company standards."
+},
+{
+  "id": 5,
+  "title": "Receptionist (Casual)",
+  "company": "Wing Kei",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Provide front desk support and customer service in a casual/part-time setting."
+},
+{
+  "id": 6,
+  "title": "Cashier/Customer Service (Weekends Only)",
+  "company": "Sunterra Market",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Assist customers during checkout, manage cash register, bag groceries, and follow cleaning and safety procedures."
+},
+{
+  "id": 7,
+  "title": "Client Solutions Receptionist",
+  "company": "Litco Law",
+  "location": "Calgary, AB",
+  "benefits": "Employee assistance program, Paid vacation",
+  "description": "First point of contact for all incoming calls; responsible for answering and routing calls efficiently."
+},
+{
+  "id": 8,
+  "title": "Guest Services",
+  "company": "GRETA YYC",
+  "location": "Calgary, AB T2R 0A4",
+  "benefits": "",
+  "description": "Greet guests, manage coat-check, cash floats, merch counter, and assist in creating guest experiences."
+},
+{
+  "id": 9,
+  "title": "Caregivers",
+  "company": "Norica Care Services",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Provide compassionate care to the elderly with kindness, patience, and respect."
+},
+{
+  "id": 10,
+  "title": "Store Sales Associate (Part-Time)",
+  "company": "The Pittsburgh Paints Canada Company LTD",
+  "location": "Calgary, AB T2K 1J5",
+  "benefits": "",
+  "description": "Greet and assist customers with paint and supply needs in a retail store environment."
+},
+{
+  "id": 11,
+  "title": "Medical Office Assistant",
+  "company": "Signature Medical Centre",
+  "location": "Calgary, AB T3H 4R5",
+  "benefits": "First aid kit coverage",
+  "description": "Work part-time or full-time assisting medical staff in a clinical environment."
+},
+{
+  "id": 12,
+  "title": "Airport Dispatch Coordinator (PT)",
+  "company": "Unifi Aviation Canada, Inc.",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Monitor flights, identify potential issues, and manage solutions with emphasis on baggage handling."
+},
+{
+  "id": 13,
+  "title": "Office Administrative Assistant",
+  "company": "Sunup Drywall Ltd.",
+  "location": "Calgary, AB T3J 2S3",
+  "benefits": "",
+  "description": "Answer calls, relay messages, maintain manual and computerized filing systems."
+},
+{
+  "id": 14,
+  "title": "Alteration Specialist",
+  "company": "Airdrie Alterations and Drycleaning",
+  "location": "Airdrie, AB",
+  "benefits": "",
+  "description": "Make custom garments, design patterns, and perform clothing alterations including suits, shirts, and jackets."
+},
+{
+  "id": 15,
+  "title": "Relief Educational Assistant",
+  "company": "Christ the Redeemer Catholic Schools",
+  "location": "Okotoks, AB T1S 2A3",
+  "benefits": "",
+  "description": "Support students and teachers in classrooms as a relief educational assistant."
+},
+{
+  "id": 16,
+  "title": "Backshop Attendant (Seasonal)",
+  "company": "River Spirit Golf Club",
+  "location": "Calgary, AB T3Z 2W4",
+  "benefits": "",
+  "description": "Operate ball picker, maintain driving range, and assist members and guests at the golf club."
+},
 {
   "id": 1,
   "title": "Gravel Truck Driver",
