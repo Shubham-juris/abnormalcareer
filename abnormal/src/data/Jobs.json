@@ -1,5 +1,125 @@
 [
   {
+    "id": 16,
+    "title": "Client Care Coordinator, Cardiology",
+    "company": "VCA Animal Hospitals",
+    "location": "Calgary, AB T2H 2Y4",
+    "benefits": "Dental care, RRSP match",
+    "description": "Placing outbound calls to pet parents for follow-up and appointment bookings; invoicing and billing; creating estimates and obtaining pet owner confirmation."
+  },
+  {
+    "id": 17,
+    "title": "Veterinary Reception, Client Care (Contract)",
+    "company": "VCA Animal Hospitals",
+    "location": "Calgary, AB T2H 2Y4",
+    "benefits": "Employee assistance program, RRSP match",
+    "description": "Handling outbound calls for bookings; invoicing and billing; creating estimates and obtaining client confirmations."
+  },
+  {
+    "id": 18,
+    "title": "Fan Experience Team Member",
+    "company": "Calgary Sports and Entertainment Corporation",
+    "location": "Calgary, AB T2G 2W1",
+    "benefits": "",
+    "description": "Assist with guest arrival, ticket scanning, and security screening; provide venue support for guests."
+  },
+  {
+    "id": 19,
+    "title": "Seasonal Part-Time Brick Specialist",
+    "company": "LEGO",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off, Disability insurance",
+    "description": "Provide a signature experience for customers, greet guests, operate cash registers, and maintain store environment."
+  },
+  {
+    "id": 20,
+    "title": "Cashier / Customer Service (Weekends Only)",
+    "company": "Sunterra Market",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist customers during checkout, operate cash registers, bag groceries, and follow cleaning procedures."
+  },
+  {
+    "id": 21,
+    "title": "Junior Document Controller / Data Entry Clerk",
+    "company": "Lanmark",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Manage project records, weekly/monthly reports, submittals, RFIs, change documents, and meeting minutes."
+  },
+  {
+    "id": 22,
+    "title": "Administrative Assistant",
+    "company": "Ryan, LLC",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Answer calls, take accurate messages, and manage administrative duties; valid driver's license required."
+  },
+  {
+    "id": 23,
+    "title": "Host",
+    "company": "Red Lobster",
+    "location": "Calgary, AB T2H 0K5",
+    "benefits": "Vision care, Dental care, Life insurance, Disability insurance, Discounted meals",
+    "description": "Greet guests, manage seating, assist customers, and support restaurant operations."
+  },
+  {
+    "id": 24,
+    "title": "Cashier",
+    "company": "LIQUOR BARON",
+    "location": "Cochrane, AB T4C 2G4",
+    "benefits": "",
+    "description": "Process payments, verify customer age for lottery/alcohol sales, and manage transactions."
+  },
+  {
+    "id": 25,
+    "title": "EAL Assistant",
+    "company": "Calgary Board of Education",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist in creating and implementing EAL programs to improve language and academic performance of learners."
+  },
+  {
+    "id": 26,
+    "title": "Administrative Officer",
+    "company": "CROWN CONSTRUCTION YYC LTD.",
+    "location": "Calgary, AB",
+    "benefits": "Mentorship and coaching opportunities for persons with disabilities",
+    "description": "Perform administrative duties and support company operations with focus on accessibility."
+  },
+  {
+    "id": 27,
+    "title": "Home Support Worker",
+    "company": "Aruga Home Care Inc.",
+    "location": "Calgary, AB T2X 1P1",
+    "benefits": "Flexible schedule",
+    "description": "Assist clients with bathing, personal hygiene, meal preparation, laundry, and household care."
+  },
+  {
+    "id": 28,
+    "title": "Host",
+    "company": "Pur and Simple Newport Village",
+    "location": "Calgary, AB T2J 0P5",
+    "benefits": "",
+    "description": "Greet customers, manage seating, and support restaurant service in a breakfast dining environment."
+  },
+  {
+    "id": 29,
+    "title": "Volunteer - Guest Service Desk",
+    "company": "MNP Community & Sport Centre",
+    "location": "Calgary, AB T2G 5B6",
+    "benefits": "",
+    "description": "Assist guests with access, provide a welcoming experience, and support desk operations."
+  },
+  {
+    "id": 30,
+    "title": "Host",
+    "company": "Earls Shepard Flats",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Manage guest flow, greet customers, and ensure smooth restaurant service."
+  },
+  {
     "id": 1,
     "title": "Home Support Worker",
     "company": "Huang's Family",
