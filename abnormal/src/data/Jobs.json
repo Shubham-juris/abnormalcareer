@@ -1,5 +1,117 @@
 [
   {
+    "id": 2,
+    "title": "School Secretary/Office Assist",
+    "company": "Calgary Board of Education",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support administrative secretary with emails, announcements, door oversight, managing inquiries, screening calls and relaying messages."
+  },
+  {
+    "id": 3,
+    "title": "Seasonal Part Time Brick Specialist - Chinook Centre",
+    "company": "LEGO",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off, Disability insurance",
+    "description": "Greet guests, perform cash register functions, ensure signature customer experience."
+  },
+  {
+    "id": 4,
+    "title": "Administrative Assistant",
+    "company": "Lovingly Made Ingredients",
+    "location": "Calgary, AB",
+    "benefits": "Vision care, Dental care, Life insurance, Extended health care",
+    "description": "Plan recruitment strategies, maintain filing systems, set up and manage office information systems."
+  },
+  {
+    "id": 5,
+    "title": "Administrative Assistant",
+    "company": "Calgary Eye Centre",
+    "location": "Calgary, AB T1Y 6H6",
+    "benefits": "Extended health care",
+    "description": "Supervise clerks, manage routine office functions including reception, telephone, and booking."
+  },
+  {
+    "id": 6,
+    "title": "Receptionist",
+    "company": "Wellington-Altus Private Wealth Inc.",
+    "location": "Calgary, AB T2P 0B4",
+    "benefits": "",
+    "description": "Provide general administrative support including filing, data entry, photocopying and document preparation."
+  },
+  {
+    "id": 7,
+    "title": "Receptionist",
+    "company": "EFW Radiology",
+    "location": "Calgary, AB",
+    "benefits": "Dental care, Extended health care, On-site parking",
+    "description": "Provide reception and client support at diagnostic imaging and medical service clinics."
+  },
+  {
+    "id": 8,
+    "title": "Administrative Clerk",
+    "company": "ARCH Mechanical Plumbing & Heating",
+    "location": "Calgary, AB T3K 6B5",
+    "benefits": "",
+    "description": "Type and proofread documents, prepare invoices and bank deposits."
+  },
+  {
+    "id": 9,
+    "title": "Data Entry Clerk (Part-Time, On-Site)",
+    "company": "Headquarters Inc.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Maintain organized digital and paper filing systems; part-time on-site data entry role."
+  },
+  {
+    "id": 10,
+    "title": "Administrative Assistant",
+    "company": "LP Nails Spa Ltd.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Answer telephone calls, arrange and coordinate seminars and conferences."
+  },
+  {
+    "id": 11,
+    "title": "Administrative Assistant",
+    "company": "Bueckert's Core Construction",
+    "location": "Rocky View, AB",
+    "benefits": "",
+    "description": "Answer and relay telephone messages, type and proofread correspondence and forms."
+  },
+  {
+    "id": 12,
+    "title": "Administrative Assistant III – Quarry Park",
+    "company": "Pantheon Inc.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Typing, filing, answering phones, scheduling, record keeping, coordinating meetings and conferences."
+  },
+  {
+    "id": 13,
+    "title": "Administrative Assistant",
+    "company": "Sundine Produce Inc.",
+    "location": "Calgary, AB",
+    "benefits": "Vision care, Dental care, Extended health care",
+    "description": "Answer telephone calls, type and proofread correspondence, maintain filing systems."
+  },
+  {
+    "id": 14,
+    "title": "Administrative Support, Reception",
+    "company": "Kindred Connections Society",
+    "location": "Calgary, AB T2R 0B3",
+    "benefits": "Dental care, Life insurance, Disability insurance, RRSP match",
+    "description": "Answer phones, greet clients, manage administrative and reception tasks."
+  },
+  {
+    "id": 15,
+    "title": "Administrative Assistant",
+    "company": "Verka Landscaping",
+    "location": "Aldersyde, AB",
+    "benefits": "",
+    "description": "Answer calls, relay messages, set up and maintain manual and computerized filing systems."
+  },
+  {
     "id": 16,
     "title": "Client Care Coordinator, Cardiology",
     "company": "VCA Animal Hospitals",
