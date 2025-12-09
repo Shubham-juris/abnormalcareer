@@ -1,5 +1,85 @@
 [
   {
+  "id": 3,
+  "title": "Relief Educational Assistant",
+  "company": "Christ the Redeemer Catholic Schools",
+  "location": "Canmore, AB",
+  "benefits": "",
+  "description": "Applications invited for Relief Educational Assistants at Our Lady of the Snows Catholic Academy."
+},
+{
+  "id": 4,
+  "title": "Fleetwood Lounge Server",
+  "company": "Fleetwood Restaurant",
+  "location": "Calgary, AB T2H 2A6",
+  "benefits": "",
+  "description": "Requires Pro Serve certification, minimum 18 years of age; extensive menu knowledge required."
+},
+{
+  "id": 5,
+  "title": "Online Humanities Teacher",
+  "company": "Christ the Redeemer Catholic Schools",
+  "location": "Okotoks, AB T1S 1J7",
+  "benefits": "",
+  "description": "Full-time interim position teaching Junior and Senior High Humanities from the Okotoks office."
+},
+{
+  "id": 6,
+  "title": "Employment Specialist",
+  "company": "Prospect Human Services",
+  "location": "Calgary, AB T2A 6T2",
+  "benefits": "",
+  "description": "Requires valid driver’s license; experience in employment placement, career development or business fields."
+},
+{
+  "id": 7,
+  "title": "General Store Team Member",
+  "company": "Westview Co-op",
+  "location": "Mountain View County, AB",
+  "benefits": "",
+  "description": "Cleaning vehicle windows, handling cash and liquor sales; weekend availability required."
+},
+{
+  "id": 8,
+  "title": "Appeals Advisor, CPLED (Hybrid/Remote)",
+  "company": "Canadian Centre for Profession",
+  "location": "Calgary, AB T2R 1L9",
+  "benefits": "",
+  "description": "Requires undergraduate degree in policy, public administration, law, social sciences, or business."
+},
+{
+  "id": 9,
+  "title": "Non-Certificated Classroom Supervisor",
+  "company": "Christ the Redeemer Catholic Schools",
+  "location": "Strathmore, AB T1P 1B8",
+  "benefits": "",
+  "description": "Bachelor’s degree or diploma in youth, education, social work, or recreation preferred."
+},
+{
+  "id": 10,
+  "title": "Assistant Market Manager",
+  "company": "Sunterra Market",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Customer engagement, answering questions, onboarding, training, and supporting staff development."
+},
+{
+  "id": 11,
+  "title": "Volunteer Firefighter",
+  "company": "Kneehill County",
+  "location": "Three Hills, AB",
+  "benefits": "",
+  "description": "Volunteer fire services in collaboration with multiple jurisdictions including Acme, Carbon, and Linden."
+},
+{
+  "id": 12,
+  "title": "Claims Advisor - Auto (Calgary)",
+  "company": "Peace Hills Insurance",
+  "location": "Calgary, AB",
+  "benefits": "",
+  "description": "Post-secondary diploma or CIP/FCIP an asset; responsible for calculating entitlements and issuing payments."
+},
+  {
     "id": 2,
     "title": "School Secretary/Office Assist",
     "company": "Calgary Board of Education",
