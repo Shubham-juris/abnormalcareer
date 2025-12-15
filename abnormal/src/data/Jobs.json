@@ -1,6 +1,110 @@
 [
   {
     "id": 1,
+    "title": "Guest Services",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "From greeting guests to managing coat-check, cash floats, and the merch counter, you will play a key role in creating unforgettable guest experiences."
+  },
+  {
+    "id": 2,
+    "title": "Receptionist",
+    "company": "Origin Active Lifestyle Communities",
+    "location": "Canmore, AB",
+    "benefits": "Housing allowance, Vision care, Dental care, Life insurance, Flexible schedule, Extended health care",
+    "description": "Answer telephone calls, relay messages, and perform clerical duties such as filing, sorting, and distributing mail."
+  },
+  {
+    "id": 3,
+    "title": "School Secretary / Office Assist",
+    "company": "Calgary Board of Education",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support the Administrative Secretary with emails, announcements, managing front desk inquiries, screening calls, and relaying messages."
+  },
+  {
+    "id": 4,
+    "title": "Flight Dispatcher (February 2026)",
+    "company": "WestJet",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Responsible for flight dispatch operations while maintaining safety standards and compliance with company policies."
+  },
+  {
+    "id": 5,
+    "title": "Receptionist (Casual)",
+    "company": "Wing Kei",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Provide courteous and efficient telephone, reception, and administrative support services."
+  },
+  {
+    "id": 6,
+    "title": "Seasonal Stock Associate",
+    "company": "Levi Strauss & Co.",
+    "location": "Rocky View, AB",
+    "benefits": "",
+    "description": "Support store operations by managing stock, following store procedures, and handling multiple tasks efficiently."
+  },
+  {
+    "id": 7,
+    "title": "Client Solutions Receptionist",
+    "company": "Litco Law",
+    "location": "Calgary, AB",
+    "benefits": "Employee assistance program, Paid vacation",
+    "description": "Act as the first point of contact for incoming calls and provide reception support for client services."
+  },
+  {
+    "id": 8,
+    "title": "EAL Assistant",
+    "company": "Calgary Board of Education",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist in designing and implementing English as an Additional Language programs to support student learning."
+  },
+  {
+    "id": 9,
+    "title": "Volunteer - Fitness Centre Assistant",
+    "company": "MNP Community & Sport Centre",
+    "location": "Calgary, AB T2G 5B6",
+    "benefits": "",
+    "description": "Greet customers, answer inquiries, hand out equipment, and assist visitors within the fitness centre."
+  },
+  {
+    "id": 10,
+    "title": "Part Time Stock Associate",
+    "company": "Michael Kors",
+    "location": "Rocky View, AB T4A 0G3",
+    "benefits": "",
+    "description": "Maintain stockroom organization, attend training sessions, and support store inventory management."
+  },
+  {
+    "id": 11,
+    "title": "Host",
+    "company": "Olive Garden",
+    "location": "Calgary, AB T2A 7R4",
+    "benefits": "",
+    "description": "Create a welcoming environment for guests by managing seating and providing friendly customer service."
+  },
+  {
+    "id": 12,
+    "title": "Cashier / Customer Service (Weekends Only)",
+    "company": "Sunterra Market",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist customers during checkout, operate cash registers, bag groceries, and maintain store cleanliness."
+  },
+  {
+    "id": 13,
+    "title": "Brand Ambassador",
+    "company": "American Eagle Outfitters (Aerie)",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Promote the brand and loyalty programs while delivering engaging customer experiences in-store."
+  },
+  {
+    "id": 1,
     "title": "Backshop Attendant - Mid Summer to End Of Season",
     "company": "River Spirit Golf Club",
     "location": "Calgary, AB T3Z 2W4",
