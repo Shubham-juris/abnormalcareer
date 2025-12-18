@@ -1,6 +1,126 @@
 [
   {
     "id": 1,
+    "title": "Sales Associate",
+    "company": "Spencer's",
+    "location": "Calgary, AB",
+    "benefits": "Employee assistance program, Store discount",
+    "description": "The minimum age requirement for this position is 17. Qualified applicants with criminal histories will be considered."
+  },
+  {
+    "id": 2,
+    "title": "Seasonal Part Time Brick Specialist",
+    "company": "LEGO",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off, Disability insurance",
+    "description": "Ensure a signature experience for every guest by greeting customers and performing cash register functions."
+  },
+  {
+    "id": 3,
+    "title": "Brand Ambassador",
+    "company": "American Eagle Outfitters (Aerie)",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Introduce the AEO loyalty program and additional brand channels to guests."
+  },
+  {
+    "id": 4,
+    "title": "Librarian",
+    "company": "Prairie Land School Division",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Preference may be given to applicants with a post-secondary certificate or diploma in a related field."
+  },
+  {
+    "id": 5,
+    "title": "Volunteer - Guest Service Desk",
+    "company": "MNP Community & Sport Centre",
+    "location": "Calgary, AB T2G 5B6",
+    "benefits": "",
+    "description": "Assist in ensuring a smooth, safe, and welcoming experience for customers."
+  },
+  {
+    "id": 6,
+    "title": "Educational Assistant",
+    "company": "Prairie Land School Division",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Preference given to candidates with experience working with special needs children."
+  },
+  {
+    "id": 7,
+    "title": "Full Time Brand Ambassador",
+    "company": "Ralph Lauren",
+    "location": "Rocky View, AB",
+    "benefits": "",
+    "description": "Engage in store client initiatives and community outreach."
+  },
+  {
+    "id": 8,
+    "title": "Sports and Leisure Director",
+    "company": "Sunridge Badminton Centre",
+    "location": "Calgary, AB T2A 7R3",
+    "benefits": "",
+    "description": "Organize and administer national and provincial programs."
+  },
+  {
+    "id": 9,
+    "title": "Spa Supervisor",
+    "company": "Advance Passion Beauty Boutique",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Requisition materials, resolve work problems, and provide technical advice."
+  },
+  {
+    "id": 10,
+    "title": "Hotel Front Desk Clerk",
+    "company": "Econolodge Okotoks",
+    "location": "Okotoks, AB T1S 1M3",
+    "benefits": "",
+    "description": "Answer calls, balance cash, and complete reports."
+  },
+  {
+    "id": 11,
+    "title": "Volunteer - Childcare Attendant",
+    "company": "MNP Community & Sport Centre",
+    "location": "Calgary, AB T2G 5B6",
+    "benefits": "",
+    "description": "Care and supervision of children aged 3 months to 4 years."
+  },
+  {
+    "id": 12,
+    "title": "Family Child Care Provider",
+    "company": "Tan's Family",
+    "location": "Calgary, AB T2W 3S7",
+    "benefits": "",
+    "description": "Instruct children in hygiene, social development, and discipline."
+  },
+  {
+    "id": 13,
+    "title": "Concierge - Multifamily",
+    "company": "Hines",
+    "location": "Calgary, AB T2R 0X5",
+    "benefits": "",
+    "description": "Answer calls, assist residents, and manage service requests."
+  },
+  {
+    "id": 14,
+    "title": "Office Manager",
+    "company": "Mann International Travel & Tours & Insurance & Mortgage Group Ltd.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Administer policies and procedures related to records and office operations."
+  },
+  {
+    "id": 15,
+    "title": "Service Assistant",
+    "company": "Red Lobster",
+    "location": "Calgary, AB T2A 6S7",
+    "benefits": "Vision care, Dental care, Life insurance, Disability insurance, Staff meals discount",
+    "description": "Assist service staff and provide support to guests."
+  },
+  {
+    "id": 1,
     "title": "Guest Services",
     "company": "GRETA YYC",
     "location": "Calgary, AB T2R 0A4",
