@@ -1,6 +1,126 @@
 [
   {
     "id": 1,
+    "title": "Food Preparer",
+    "company": "Family Garden Foods Inc.",
+    "location": "Calgary, AB T2A 6C9",
+    "benefits": "",
+    "description": "Receive, unpack and store supplies in refrigerators, freezers, cupboards and other storage areas. Handle and store cleaning products."
+  },
+  {
+    "id": 2,
+    "title": "Early Childhood Practitioner",
+    "company": "Calgary Board of Education",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Develops and facilitates developmentally appropriate programming to support early literacy and numeracy and appropriate verbal and emotional environments."
+  },
+  {
+    "id": 3,
+    "title": "Lifestyle Adjuster – Auto Claims",
+    "company": "Aviva",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Review and manage auto claims while supporting clients. Aviva provides accommodations for persons with disabilities."
+  },
+  {
+    "id": 4,
+    "title": "Home Child Care Provider",
+    "company": "Karen Herba",
+    "location": "Airdrie, AB",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development. Bathe, dress and feed infants and children."
+  },
+  {
+    "id": 5,
+    "title": "Home Child Care Provider",
+    "company": "Bhupinder Singh",
+    "location": "Calgary, AB T3J 5C5",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development. Discipline children according to the methods requested by the parents."
+  },
+  {
+    "id": 6,
+    "title": "Home Child Care Provider",
+    "company": "Bernadette Tesorero and Richard Padilla",
+    "location": "Calgary, AB",
+    "benefits": "Flexible schedule",
+    "description": "Instruct children in personal hygiene and social development. Discipline children according to the methods requested by the parents."
+  },
+  {
+    "id": 7,
+    "title": "Client Service Assistant - Energy",
+    "company": "BFL CANADA",
+    "location": "Calgary, AB T2N 1X7",
+    "benefits": "Dental care, Employee assistance program",
+    "description": "Respond to telephone calls and written inquiries from clients and underwriters in a timely and professional manner."
+  },
+  {
+    "id": 8,
+    "title": "Coach",
+    "company": "Centre Avenue Badminton Inc.",
+    "location": "Calgary, AB T2E 5S8",
+    "benefits": "",
+    "description": "Plan, develop and implement training and practice sessions. Motivate and prepare athletes or teams for competitive events."
+  },
+  {
+    "id": 9,
+    "title": "Family Support Worker",
+    "company": "Highbanks Society",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support families and children. Education in social sciences, child and youth care, social work, psychology or related fields required."
+  },
+  {
+    "id": 10,
+    "title": "Customer Service Representative",
+    "company": "Diverse Workforce (MK Auto Group)",
+    "location": "Calgary, AB T2P 1W4",
+    "benefits": "",
+    "description": "Main point of contact for customers and potential customers. Assist the Manager and handle customer inquiries."
+  },
+  {
+    "id": 11,
+    "title": "Child Care Provider - Private Home",
+    "company": "Gurmeet Singh",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Discipline children according to the methods requested by parents. Bathe, dress and feed infants and children."
+  },
+  {
+    "id": 12,
+    "title": "Food Service Supervisor",
+    "company": "The Chai Bar Inc",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Maintain records of stock, repairs, sales and wastage. Supervise and co-ordinate activities of staff."
+  },
+  {
+    "id": 13,
+    "title": "Food Service Supervisor",
+    "company": "McDonalds Restaurants",
+    "location": "Calgary, AB T2Z 4J2",
+    "benefits": "",
+    "description": "Address customers' complaints or concerns. Maintain records of stock, repairs, sales and wastage."
+  },
+  {
+    "id": 14,
+    "title": "Early Childhood Educator (ECE)",
+    "company": "A2Z KIDZ ED.",
+    "location": "Calgary, AB T2H 0Y2",
+    "benefits": "",
+    "description": "Develop and implement child-care programs that support physical, cognitive, emotional and social development of children."
+  },
+  {
+    "id": 15,
+    "title": "Home Child Care Provider",
+    "company": "Patrick's Family",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development. Discipline children as requested by parents. 40 hours per week."
+  },
+  {
+    "id": 1,
     "title": "Sales Associate",
     "company": "Spencer's",
     "location": "Calgary, AB",
