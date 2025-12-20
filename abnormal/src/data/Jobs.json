@@ -1,5 +1,125 @@
 [
   {
+    "id": 16,
+    "title": "Bartender",
+    "company": "Fleetwood Restaurant",
+    "location": "Calgary, AB T2H 2A6",
+    "benefits": "",
+    "description": "Bartenders required for part-time and full-time positions. Candidates must be flexible and able to work variable shifts including days and evenings."
+  },
+  {
+    "id": 17,
+    "title": "Service Coordinator",
+    "company": "Pure IT",
+    "location": "Calgary, AB T2E 7H7",
+    "benefits": "",
+    "description": "Provide service coordination and technical support while delivering high-level problem-solving and IT expertise to clients."
+  },
+  {
+    "id": 18,
+    "title": "Sales Associate",
+    "company": "Spencer's",
+    "location": "Calgary, AB",
+    "benefits": "Employee assistance program, Store discount",
+    "description": "Assist customers in-store. Hourly rate ranges from $15.25 to $15.50 per hour based on qualifications and experience."
+  },
+  {
+    "id": 19,
+    "title": "Seasonal Sales Associate (UGG)",
+    "company": "Deckers Brands",
+    "location": "Citadel, AB",
+    "benefits": "",
+    "description": "Seasonal retail role focused on delivering excellent customer service and promoting UGG products."
+  },
+  {
+    "id": 20,
+    "title": "Retail Associate - Hourly",
+    "company": "Fossil Group, Inc.",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off",
+    "description": "Support retail sales operations and deliver excellent customer service for watches, jewelry, and leather goods."
+  },
+  {
+    "id": 21,
+    "title": "Assistant Manager - Retail",
+    "company": "LIQUOR PLUS",
+    "location": "Calgary, AB T2A 0T2",
+    "benefits": "Flexible schedule",
+    "description": "Manage staff, assign duties, and support daily retail operations in a liquor store environment."
+  },
+  {
+    "id": 22,
+    "title": "Meat Cutter - Retail or Wholesale",
+    "company": "Columbia Valley Food Services",
+    "location": "Calgary, AB T2E 7A4",
+    "benefits": "",
+    "description": "Prepare and cut meats, clean meats for processing, and prepare special cuts as required."
+  },
+  {
+    "id": 23,
+    "title": "Store Manager - Retail",
+    "company": "A-Mart",
+    "location": "Calgary, AB T2H 0L9",
+    "benefits": "",
+    "description": "Direct and control daily store operations, plan schedules, and manage staff and inventory."
+  },
+  {
+    "id": 24,
+    "title": "Food Service Supervisor",
+    "company": "The Chai Bar Inc",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Supervise staff, manage work schedules, and oversee food service operations. Relocation support may be provided."
+  },
+  {
+    "id": 25,
+    "title": "Home Support Worker",
+    "company": "Mathieu Mireault-Beaulieu",
+    "location": "Airdrie, AB",
+    "benefits": "",
+    "description": "Provide home support services in a non-smoking work environment. Secondary school education or equivalent experience required."
+  },
+  {
+    "id": 26,
+    "title": "Food Service Supervisor",
+    "company": "Calgary Court Restaurant",
+    "location": "Calgary, AB T2G 0B2",
+    "benefits": "",
+    "description": "Establish work schedules, requisition supplies, and supervise kitchen and food service staff."
+  },
+  {
+    "id": 27,
+    "title": "Volunteer Grassroots Soccer Coach",
+    "company": "Summer FC",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Volunteer role to inspire young players and support soccer skill development in a fun learning environment."
+  },
+  {
+    "id": 28,
+    "title": "Client Service Assistant - Energy",
+    "company": "BFL CANADA",
+    "location": "Calgary, AB T2N 1X7",
+    "benefits": "Dental care, Employee assistance program",
+    "description": "Support clients and underwriters while building a long-term career through training and professional development."
+  },
+  {
+    "id": 29,
+    "title": "Nail Salon Manager",
+    "company": "Coco Nails & Spa",
+    "location": "Calgary, AB T2Z 0C2",
+    "benefits": "",
+    "description": "Manage daily salon operations, supervise staff, and ensure quality customer service."
+  },
+  {
+    "id": 30,
+    "title": "Part-Time Supervisor",
+    "company": "Levi Strauss & Co.",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off",
+    "description": "Supervise retail operations on a part-time basis and support store performance and team leadership."
+  },
+  {
     "id": 1,
     "title": "Food Preparer",
     "company": "Family Garden Foods Inc.",
