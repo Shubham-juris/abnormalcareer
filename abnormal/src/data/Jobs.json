@@ -1,4 +1,274 @@
 [
+    {
+    "id": "8",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Handle customer inquiries via phone/email, resolve complaints, process orders.",
+    "location": "Winnipeg, MB",
+    "company": "FedEx Canada",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "9",
+    "title": "Data Analyst",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Collect, process, analyze datasets to support business intelligence.",
+    "location": "Halifax, NS",
+    "company": "Deloitte Canada",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "10",
+    "title": "Sales Executive",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Identify leads, close deals, manage client relationships in B2B sector.",
+    "location": "Edmonton, AB",
+    "company": "Rogers Communications",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "11",
+    "title": "Mechanical Engineer",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Design and evaluate mechanical components for industrial systems and energy projects.",
+    "location": "Calgary, AB",
+    "company": "Westpower Equipment Ltd.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "12",
+    "title": "Teacher – Elementary School",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Deliver classroom instruction, prepare lesson plans, assess student progress.",
+    "location": "Saskatoon, SK",
+    "company": "Saskatoon Public Schools",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_002",
+    "title": "Mechanical Engineer",
+    "type": "Full-time",
+    "posted": "2025-10-11T00:00:00Z",
+    "description": "Design and evaluate mechanical components for industrial systems and energy projects.",
+    "location": "Calgary, AB",
+    "company": "EnerTech Engineering Ltd.",
+    "source": "indeed.ca"
+  },
+   {
+    "id": "jb_001",
+    "title": "Software Engineer",
+    "type": "Full-time",
+    "posted": "2025-10-10T00:00:00Z",
+    "description": "Develop and maintain web-based software systems using modern frameworks.",
+    "location": "Calgary, AB",
+    "company": "TechNova Solutions",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_003",
+    "title": "Financial Analyst",
+    "type": "Full-time",
+    "posted": "2025-10-12T00:00:00Z",
+    "description": "Analyze budgets, forecasts, and financial performance metrics for corporate reporting.",
+    "location": "Calgary, AB",
+    "company": "Alpine Financial Group",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_004",
+    "title": "Marketing Coordinator",
+    "type": "Full-time",
+    "posted": "2025-10-09T00:00:00Z",
+    "description": "Plan and execute social media campaigns and support brand strategy development.",
+    "location": "Calgary, AB",
+    "company": "BrightPath Marketing",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_005",
+    "title": "Human Resources Specialist",
+    "type": "Full-time",
+    "posted": "2025-10-08T00:00:00Z",
+    "description": "Handle employee relations, recruitment, and onboarding for corporate departments.",
+    "location": "Calgary, AB",
+    "company": "Summit HR Consulting",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_006",
+    "title": "Registered Nurse",
+    "type": "Full-time",
+    "posted": "2025-10-13T00:00:00Z",
+    "description": "Provide direct patient care and support health programs in a clinical environment.",
+    "location": "Calgary, AB",
+    "company": "Foothills Medical Centre",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_007",
+    "title": "High School Teacher",
+    "type": "Full-time",
+    "posted": "2025-10-12T00:00:00Z",
+    "description": "Teach mathematics and physics to senior students following Alberta curriculum.",
+    "location": "Calgary, AB",
+    "company": "Calgary Board of Education",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_008",
+    "title": "Construction Project Manager",
+    "type": "Full-time",
+    "posted": "2025-10-14T00:00:00Z",
+    "description": "Oversee commercial construction projects ensuring safety and budget compliance.",
+    "location": "Calgary, AB",
+    "company": "BuildRight Construction Inc.",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_009",
+    "title": "Environmental Scientist",
+    "type": "Full-time",
+    "posted": "2025-10-10T00:00:00Z",
+    "description": "Conduct field studies and prepare environmental impact assessments.",
+    "location": "Calgary, AB",
+    "company": "EcoVision Consulting",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "jb_010",
+    "title": "Warehouse Operations Supervisor",
+    "type": "Full-time",
+    "posted": "2025-10-11T00:00:00Z",
+    "description": "Supervise daily warehouse operations, manage logistics, and ensure quality control.",
+    "location": "Calgary, AB",
+    "company": "WestCan Logistics",
+    "source": "indeed.ca"
+  },
+  {
+    "id": 1,
+    "title": "Beer Vendor",
+    "company": "Calgary Flames Limited Partnership",
+    "location": "Calgary, AB T2G 2W1",
+    "benefits": "",
+    "description": "Serve customers in stands quickly and courteously while maintaining company standards and policies."
+  },
+  {
+    "id": 2,
+    "title": "Nanny",
+    "company": "H Smith",
+    "location": "Calgary, AB T2T 4H5",
+    "benefits": "",
+    "description": "Instruct children in personal hygiene and social development."
+  },
+  {
+    "id": 3,
+    "title": "Child Caregiver - Private Home",
+    "company": "Hardeep Choudhary",
+    "location": "Calgary, AB T3A 4R6",
+    "benefits": "",
+    "description": "Care for children, support hygiene, discipline according to parents’ instructions."
+  },
+  {
+    "id": 4,
+    "title": "Hospitality Coordinator (Full Time)",
+    "company": "Wing Kei",
+    "location": "Calgary, AB",
+    "benefits": "Dental care, Life insurance, Wellness program",
+    "description": "Ensure facility sanitation and coordinate hospitality services."
+  },
+  {
+    "id": 5,
+    "title": "Cafe Manager",
+    "company": "Paris Baguette - Beacon Hill",
+    "location": "Calgary, AB T3R 0A1",
+    "benefits": "",
+    "description": "Manage cafe operations and support community and staff development."
+  },
+  {
+    "id": 6,
+    "title": "Call Center Operator",
+    "company": "Jumbo Interactive",
+    "location": "Calgary, AB T2E 8H9",
+    "benefits": "",
+    "description": "Handle lottery ticket orders, verify data, and process incoming requests."
+  },
+  {
+    "id": 7,
+    "title": "Administrative Professional (Maternity Coverage)",
+    "company": "Baker Tilly Canada",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Act as liaison between clients and partners, manage communications professionally."
+  },
+  {
+    "id": 8,
+    "title": "Beauty Sales Specialist",
+    "company": "Modern Beauty",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Maintain inventory, manage promotions, and assist customers with beauty products."
+  },
+  {
+    "id": 9,
+    "title": "Cashier / Customer Service (Weekends Only)",
+    "company": "Sunterra Market",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Handle checkout, assist customers, and maintain store cleanliness."
+  },
+  {
+    "id": 10,
+    "title": "Garden Assistant (Casual)",
+    "company": "Wing Kei",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support gardening activities including planting, watering, and harvesting."
+  },
+  {
+    "id": 11,
+    "title": "Seasonal Sales Associate",
+    "company": "Groupe Dynamite Inc.",
+    "location": "Rocky View County, AB",
+    "benefits": "",
+    "description": "Support store operations and provide customer service during seasonal sales."
+  },
+  {
+    "id": 12,
+    "title": "Seasonal Sales Associate",
+    "company": "Hugo Boss",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Deliver premium customer service and support store sales activities."
+  },
+  {
+    "id": 13,
+    "title": "Sales Representative - Retail",
+    "company": "Optima Eyewear",
+    "location": "Airdrie, AB",
+    "benefits": "",
+    "description": "Assist customers, process payments, and promote eyewear products."
+  },
+  {
+    "id": 14,
+    "title": "Kindergarten Teacher (Part Time)",
+    "company": "Christ the Redeemer Catholic Schools",
+    "location": "Okotoks, AB T1S 1B3",
+    "benefits": "",
+    "description": "Teach kindergarten students in a part-time temporary position."
+  },
+  {
+    "id": 15,
+    "title": "Custodian",
+    "company": "The Salvation Army",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Perform cleaning, floor maintenance, and light maintenance duties."
+  },
   {
     "id": 16,
     "title": "Bartender",
