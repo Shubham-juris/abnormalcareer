@@ -1,4 +1,134 @@
 [
+  {
+    "id": "9",
+    "title": "Manager",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Lead project operations and manage staff performance.",
+    "location": "Calgary, AB",
+    "company": "Canadian Cattle Identification Agency (CCIA)",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "10",
+    "title": "Housekeeper",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Clean and maintain assigned areas following hotel standards.",
+    "location": "Calgary, AB",
+    "company": "Square One Insurance Services",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "11",
+    "title": "Hotel Cook",
+    "type": "Full-time",
+    "posted": "October 17, 2025",
+    "description": "Assist in menu preparation and maintain kitchen hygiene.",
+    "location": "Calgary, AB",
+    "company": "Ray-Mont Logistics",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "12",
+    "title": "Driver",
+    "type": "Apprenticeship",
+    "posted": "October 17, 2025",
+    "description": "Participate in apprentice driving program, supporting logistics operations.",
+    "location": "Calgary, AB",
+    "company": "Plexxis Software",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "1",
+    "title": "Software Developer",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Develop and maintain web and mobile applications using modern frameworks.",
+    "location": "Toronto, ON",
+    "company": "TechNova Solutions",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "2",
+    "title": "Digital Marketing Specialist",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Plan and execute social media campaigns, manage SEO/SEM, analyze performance.",
+    "location": "Vancouver, BC",
+    "company": "BrandSpark Media",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "3",
+    "title": "Registered Nurse",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Provide patient care, monitor vital signs, collaborate with healthcare teams.",
+    "location": "Calgary, AB",
+    "company": "Alberta Health Services",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "4",
+    "title": "Human Resources Coordinator",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Assist in recruitment, onboarding, payroll, and maintaining employee records.",
+    "location": "Ottawa, ON",
+    "company": "Maple Leaf Foods",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "5",
+    "title": "Project Manager (Construction)",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Manage timelines, contractors, and budgets for commercial construction projects.",
+    "location": "Calgary, AB",
+    "company": "EllisDon Construction",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "6",
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Create digital and print visuals, collaborate with marketing teams.",
+    "location": "Montreal, QC",
+    "company": "PixelWorks Studio",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "7",
+    "title": "Financial Analyst",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Analyze financial data, prepare reports, support budgeting and forecasting.",
+    "location": "Toronto, ON",
+    "company": "RBC Financial Group",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "8",
+    "title": "Customer Service Representative",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Handle customer inquiries via phone/email, resolve complaints, process orders.",
+    "location": "Winnipeg, MB",
+    "company": "FedEx Canada",
+    "source": "indeed.ca"
+  },
+  {
+    "id": "9",
+    "title": "Data Analyst",
+    "type": "Full-time",
+    "posted": "October 16, 2025",
+    "description": "Collect, process, analyze datasets to support business intelligence.",
+    "location": "Halifax, NS",
+    "company": "Deloitte Canada",
+    "source": "indeed.ca"
+  },
    {
     "id": "7",
     "title": "Forklift Operator",
@@ -4157,136 +4287,7 @@
     "location": "Edmonton, AB",
     "company": "Arctic Engineering Works"
   },
-  {
-    "id": "9",
-    "title": "Manager",
-    "type": "Full-time",
-    "posted": "October 17, 2025",
-    "description": "Lead project operations and manage staff performance.",
-    "location": "Calgary, AB",
-    "company": "Canadian Cattle Identification Agency (CCIA)",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "10",
-    "title": "Housekeeper",
-    "type": "Full-time",
-    "posted": "October 17, 2025",
-    "description": "Clean and maintain assigned areas following hotel standards.",
-    "location": "Calgary, AB",
-    "company": "Square One Insurance Services",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "11",
-    "title": "Hotel Cook",
-    "type": "Full-time",
-    "posted": "October 17, 2025",
-    "description": "Assist in menu preparation and maintain kitchen hygiene.",
-    "location": "Calgary, AB",
-    "company": "Ray-Mont Logistics",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "12",
-    "title": "Driver",
-    "type": "Apprenticeship",
-    "posted": "October 17, 2025",
-    "description": "Participate in apprentice driving program, supporting logistics operations.",
-    "location": "Calgary, AB",
-    "company": "Plexxis Software",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "1",
-    "title": "Software Developer",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Develop and maintain web and mobile applications using modern frameworks.",
-    "location": "Toronto, ON",
-    "company": "TechNova Solutions",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "2",
-    "title": "Digital Marketing Specialist",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Plan and execute social media campaigns, manage SEO/SEM, analyze performance.",
-    "location": "Vancouver, BC",
-    "company": "BrandSpark Media",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "3",
-    "title": "Registered Nurse",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Provide patient care, monitor vital signs, collaborate with healthcare teams.",
-    "location": "Calgary, AB",
-    "company": "Alberta Health Services",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "4",
-    "title": "Human Resources Coordinator",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Assist in recruitment, onboarding, payroll, and maintaining employee records.",
-    "location": "Ottawa, ON",
-    "company": "Maple Leaf Foods",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "5",
-    "title": "Project Manager (Construction)",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Manage timelines, contractors, and budgets for commercial construction projects.",
-    "location": "Calgary, AB",
-    "company": "EllisDon Construction",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "6",
-    "title": "Graphic Designer",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Create digital and print visuals, collaborate with marketing teams.",
-    "location": "Montreal, QC",
-    "company": "PixelWorks Studio",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "7",
-    "title": "Financial Analyst",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Analyze financial data, prepare reports, support budgeting and forecasting.",
-    "location": "Toronto, ON",
-    "company": "RBC Financial Group",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "8",
-    "title": "Customer Service Representative",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Handle customer inquiries via phone/email, resolve complaints, process orders.",
-    "location": "Winnipeg, MB",
-    "company": "FedEx Canada",
-    "source": "indeed.ca"
-  },
-  {
-    "id": "9",
-    "title": "Data Analyst",
-    "type": "Full-time",
-    "posted": "October 16, 2025",
-    "description": "Collect, process, analyze datasets to support business intelligence.",
-    "location": "Halifax, NS",
-    "company": "Deloitte Canada",
-    "source": "indeed.ca"
-  },
+  
   {
     "id": "10",
     "title": "Sales Executive",
