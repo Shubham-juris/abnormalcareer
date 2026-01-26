@@ -1,5 +1,113 @@
 [
-  { "id": "customer_002", "title": "Entry-Level Customer Support Specialist", "type": "Full Time", "posted": "2025-10-15T00:00:00Z", "description": "Handle customer inquiries, resolve issues, and ensure customer satisfaction in various industries.", "location": "Calgary, AB", "company": "ServicePoint", "source": "indeed.ca" }, { "id": "warehouse_001", "title": "Picker/Packer", "type": "Full Time", "posted": "2025-10-15T00:00:00Z", "description": "Accurately pick and pack items for shipment, ensuring timely delivery in a warehouse environment.", "location": "Calgary, AB", "company": "LogiStore", "source": "indeed.ca" }, { "id": "warehouse_002", "title": "Warehouse Associate", "type": "Full Time", "posted": "2025-10-15T00:00:00Z", "description": "Manage inventory, organize stock, and assist in loading/unloading goods in a warehouse setting.", "location": "Calgary, AB", "company": "CargoWorks", "source": "indeed.ca" }, { "id": "landscape_technician_calgary_3002", "title": "Landscape Technician", "type": "Full Time", "posted": "2025-10-11T09:30:00Z", "description": "Perform planting, maintenance, irrigation, and general groundskeeping duties.", "location": "Calgary, AB", "company": "Pro Property Services Inc.", "source": "indeed.ca" }, { "id": "it_support_technician_calgary_3003", "title": "IT Support Technician II", "type": "Full Time", "posted": "2025-10-11T10:45:00Z", "description": "Handle network troubleshooting, DNS, VPN, and user support tasks.", "location": "Calgary, AB", "company": "RedArx Cyber Group", "source": "indeed.ca" }, { "id": "senior_tech_risk_consultant_calgary_3004", "title": "Senior Consultant – Technology Risk & Assurance", "type": "Full Time", "posted": "2025-10-11T11:30:00Z", "description": "Provide independent advice on internal controls, risk assessments and IT systems.", "location": "Calgary, AB", "company": "EY", "source": "indeed.ca" }, { "id": "network_systems_administrator_calgary_3005", "title": "Network Systems Administrator", "type": "Full Time", "posted": "2025-10-11T12:15:00Z", "description": "Manage SAN, switches, routers; ensure uptime and performance of network systems.", "location": "Calgary, AB", "company": "Executive Flight Centre Group Ltd.", "source": "indeed.ca" }, { "id": "cybersecurity_analyst_calgary_3006", "title": "Cybersecurity Analyst", "type": "Full Time", "posted": "2025-10-11T13:00:00Z", "description": "Support security assessments, incident response, policy enforcement.", "location": "Calgary, AB", "company": "Canadian Centre of Recovery Excellence", "source": "indeed.ca" }, { "id": "account_executive_vendor_calgary_3007", "title": "Account Executive - Vendor Programs", "type": "Full Time", "posted": "2025-10-11T14:00:00Z", "description": "Manage vendor programs, new business opportunities, client relationships.", "location": "Calgary, AB", "company": "WD Co-Auto", "source": "indeed.ca" }, { "id": "landscaping_field_technician_calgary_3008", "title": "Landscaping Field Technician", "type": "Full Time", "posted": "2025-10-11T14:45:00Z", "description": "Softscaping, hardscaping, site maintenance tasks on various properties.", "location": "Calgary, AB", "company": "Pro Property Services Inc.", "source": "indeed.ca" }, { "id": "hvac_technician_calgary_3009", "title": "HVAC Technician", "type": "Full Time", "posted": "2025-10-11T15:30:00Z", "description": "Install, maintain, repair heating, ventilation, and air conditioning systems.", "location": "Calgary, AB", "company": "Confidential HVAC Company", "source": "indeed.ca" },
+   {
+    "id": "6",
+    "title": "Receptionist",
+    "type": "Full-time",
+    "posted": "2025-11-01",
+    "description": "Greet visitors, answer phone calls, and manage daily office communication. Must have good communication and computer skills.",
+    "location": "Slave Lake, AB",
+    "company": "Amtech Industries"
+  },
+ 
+  {
+    "id": "8",
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "posted": "2025-10-21",
+    "description": "Design marketing materials, digital creatives, and brand assets for print and web in coordination with marketing teams.",
+    "location": "Montreal, QC",
+    "company": "CreativePixel Studio"
+  },
+  {
+    "id": "9",
+    "title": "Project Coordinator",
+    "type": "Full-time",
+    "posted": "2025-10-20",
+    "description": "Coordinate project activities, monitor timelines, and communicate with stakeholders to ensure successful project delivery.",
+    "location": "Calgary, AB",
+    "company": "NorthBuild Contractors"
+  },
+  {
+    "id": "10",
+    "title": "Sales Associate",
+    "type": "Full-time",
+    "posted": "2025-10-20",
+    "description": "Assist customers in-store, manage sales transactions, and maintain visual merchandising standards.",
+    "location": "Saskatoon, SK",
+    "company": "Urban Trends Retail"
+  },
+  {
+    "id": "11",
+    "title": "Data Analyst",
+    "type": "Full-time",
+    "posted": "2025-10-19",
+    "description": "Collect, clean, and analyze datasets to provide actionable insights that support business decision-making.",
+    "location": "Toronto, ON",
+    "company": "Insight Analytics"
+  },
+  {
+    "id": "12",
+    "title": "Plumber",
+    "type": "Full-time",
+    "posted": "2025-10-18",
+    "description": "Install and repair piping systems, fixtures, and other plumbing used for water distribution and waste disposal.",
+    "location": "Regina, SK",
+    "company": "AquaFlow Services"
+  },
+  {
+    "id": "1",
+    "title": "Front Desk Receptionist",
+    "type": "Full-time",
+    "posted": "2025-10-27",
+    "description": "Looking for an experienced receptionist to manage guest check-ins, reservations, and customer service at a busy downtown hotel.",
+    "location": "Toronto, ON",
+    "company": "Maple Leaf Hotel"
+  },
+  {
+    "id": "2",
+    "title": "Housekeeping Supervisor",
+    "type": "Full-time",
+    "posted": "2025-10-26",
+    "description": "Supervise cleaning staff, inspect guest rooms, and maintain cleanliness standards in all hotel areas.",
+    "location": "Vancouver, BC",
+    "company": "BlueSky Resorts"
+  },
+  {
+    "id": "3",
+    "title": "IT Support Technician",
+    "type": "Full-time",
+    "posted": "2025-10-25",
+    "description": "Provide IT support for hotel systems including Wi-Fi, POS, and guest service software troubleshooting.",
+    "location": "Calgary, AB",
+    "company": "Hospitality Tech Group"
+  },
+  {
+    "id": "4",
+    "title": "Delivery Driver - Logistics",
+    "type": "Full-time",
+    "posted": "2025-10-24",
+    "description": "Deliver hotel supplies and logistics materials across GTA. Must have a valid G-class driver’s license and clean driving record.",
+    "location": "Mississauga, ON",
+    "company": "NorthWay Logistics"
+  },
+  {
+    "id": "5",
+    "title": "Chef de Partie",
+    "type": "Full-time",
+    "posted": "2025-10-23",
+    "description": "Prepare and plate dishes in accordance with restaurant menu; ensure food quality and hygiene standards.",
+    "location": "Ottawa, ON",
+    "company": "The Grand Bistro"
+  },
+  {
+    "id": "6",
+    "title": "Software Developer - Hotel Systems",
+    "type": "Hybrid",
+    "posted": "2025-10-23",
+    "description": "Develop and maintain internal booking, POS, and CRM systems for hospitality clients.",
+    "location": "Montreal, QC",
+    "company": "InnovaSoft Technologies"
+  },
   {
     "id": "9",
     "title": "Manager",
@@ -3936,116 +4044,7 @@
     "location": "Calgary, AB",
     "company": "Aboriginal Career Services"
   },
-  {
-    "id": "6",
-    "title": "Receptionist",
-    "type": "Full-time",
-    "posted": "2025-11-01",
-    "description": "Greet visitors, answer phone calls, and manage daily office communication. Must have good communication and computer skills.",
-    "location": "Slave Lake, AB",
-    "company": "Amtech Industries"
-  },
- 
-  {
-    "id": "8",
-    "title": "Graphic Designer",
-    "type": "Full-time",
-    "posted": "2025-10-21",
-    "description": "Design marketing materials, digital creatives, and brand assets for print and web in coordination with marketing teams.",
-    "location": "Montreal, QC",
-    "company": "CreativePixel Studio"
-  },
-  {
-    "id": "9",
-    "title": "Project Coordinator",
-    "type": "Full-time",
-    "posted": "2025-10-20",
-    "description": "Coordinate project activities, monitor timelines, and communicate with stakeholders to ensure successful project delivery.",
-    "location": "Calgary, AB",
-    "company": "NorthBuild Contractors"
-  },
-  {
-    "id": "10",
-    "title": "Sales Associate",
-    "type": "Full-time",
-    "posted": "2025-10-20",
-    "description": "Assist customers in-store, manage sales transactions, and maintain visual merchandising standards.",
-    "location": "Saskatoon, SK",
-    "company": "Urban Trends Retail"
-  },
-  {
-    "id": "11",
-    "title": "Data Analyst",
-    "type": "Full-time",
-    "posted": "2025-10-19",
-    "description": "Collect, clean, and analyze datasets to provide actionable insights that support business decision-making.",
-    "location": "Toronto, ON",
-    "company": "Insight Analytics"
-  },
-  {
-    "id": "12",
-    "title": "Plumber",
-    "type": "Full-time",
-    "posted": "2025-10-18",
-    "description": "Install and repair piping systems, fixtures, and other plumbing used for water distribution and waste disposal.",
-    "location": "Regina, SK",
-    "company": "AquaFlow Services"
-  },
-  {
-    "id": "1",
-    "title": "Front Desk Receptionist",
-    "type": "Full-time",
-    "posted": "2025-10-27",
-    "description": "Looking for an experienced receptionist to manage guest check-ins, reservations, and customer service at a busy downtown hotel.",
-    "location": "Toronto, ON",
-    "company": "Maple Leaf Hotel"
-  },
-  {
-    "id": "2",
-    "title": "Housekeeping Supervisor",
-    "type": "Full-time",
-    "posted": "2025-10-26",
-    "description": "Supervise cleaning staff, inspect guest rooms, and maintain cleanliness standards in all hotel areas.",
-    "location": "Vancouver, BC",
-    "company": "BlueSky Resorts"
-  },
-  {
-    "id": "3",
-    "title": "IT Support Technician",
-    "type": "Full-time",
-    "posted": "2025-10-25",
-    "description": "Provide IT support for hotel systems including Wi-Fi, POS, and guest service software troubleshooting.",
-    "location": "Calgary, AB",
-    "company": "Hospitality Tech Group"
-  },
-  {
-    "id": "4",
-    "title": "Delivery Driver - Logistics",
-    "type": "Full-time",
-    "posted": "2025-10-24",
-    "description": "Deliver hotel supplies and logistics materials across GTA. Must have a valid G-class driver’s license and clean driving record.",
-    "location": "Mississauga, ON",
-    "company": "NorthWay Logistics"
-  },
-  {
-    "id": "5",
-    "title": "Chef de Partie",
-    "type": "Full-time",
-    "posted": "2025-10-23",
-    "description": "Prepare and plate dishes in accordance with restaurant menu; ensure food quality and hygiene standards.",
-    "location": "Ottawa, ON",
-    "company": "The Grand Bistro"
-  },
-  {
-    "id": "6",
-    "title": "Software Developer - Hotel Systems",
-    "type": "Hybrid",
-    "posted": "2025-10-23",
-    "description": "Develop and maintain internal booking, POS, and CRM systems for hospitality clients.",
-    "location": "Montreal, QC",
-    "company": "InnovaSoft Technologies"
-  },
-  {
+ {
     "id": "7",
     "title": "Logistics Coordinator",
     "type": "Full-time",
