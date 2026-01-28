@@ -1,4 +1,124 @@
 [
+  {
+    "id": 1,
+    "title": "Fan Experience Team Member",
+    "company": "Calgary Sports and Entertainment Corporation",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist with guest arrival, ticket taking, and security screening. Provide excellent customer service and venue assistance."
+  },
+  {
+    "id": 2,
+    "title": "Service Coordinator",
+    "company": "Pure IT",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist with triaging calls and email service requests. Coordinate processing of IT service tickets. Technical diploma or degree preferred."
+  },
+  {
+    "id": 3,
+    "title": "Medical Office Assistant (Part Time)",
+    "company": "Group23 Sports Medicine Inc",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Create a welcoming office environment, greet patients, handle phone calls and emails, and support clinic operations."
+  },
+  {
+    "id": 4,
+    "title": "Recreational Coach",
+    "company": "Altadore Gymnastic Club",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Coach recreational gymnastics programs and support athletes in a safe and positive environment."
+  },
+  {
+    "id": 5,
+    "title": "Recreational Assistant (ADP)",
+    "company": "Wing Kei",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist Licensed Practical Nurse in implementing recreation programs and encouraging resident participation."
+  },
+  {
+    "id": 6,
+    "title": "Meat Cutter & Department Associate",
+    "company": "Sunterra Market",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Prepare meat and seafood cuts, maintain displays, fulfill custom orders, and ensure department cleanliness."
+  },
+  {
+    "id": 7,
+    "title": "Receptionist and Learning Commons Facilitator",
+    "company": "Rocky View Schools",
+    "location": "Airdrie, AB",
+    "benefits": "",
+    "description": "Support students, manage reception duties, and assist in learning commons operations. Library or related diploma considered an asset."
+  },
+  {
+    "id": 8,
+    "title": "Assistant Selling Manager",
+    "company": "Grand Touring Automobiles",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Engage customers, present vehicles, conduct test drives, negotiate pricing, and support sales targets."
+  },
+  {
+    "id": 9,
+    "title": "Dental Lab Technician",
+    "company": "South Calgary Denture and Implant Clinic",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Process, trim, polish, and finish dentures including implant and partial dentures."
+  },
+  {
+    "id": 10,
+    "title": "Respirologist",
+    "company": "Canadian Sleep Consultants",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist with patient care, appointments, insurance processing, and clinic operations."
+  },
+  {
+    "id": 11,
+    "title": "Medical Aesthetics Injector",
+    "company": "Hedkandi Salons",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Provide safe and professional cosmetic injection treatments while ensuring excellent client experience."
+  },
+  {
+    "id": 12,
+    "title": "Executive Coach (TEC Chair)",
+    "company": "TEC Canada",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Provide executive coaching, facilitate peer advisory groups, and support leadership development."
+  },
+  {
+    "id": 13,
+    "title": "Consultant en levée de fonds",
+    "company": "Conseil Scolaire du Sud de L'Alberta",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Provide fundraising expertise and support nonprofit organizations."
+  },
+  {
+    "id": 14,
+    "title": "Seasonal Stock Associate",
+    "company": "Levi Strauss & Co.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support inventory management, follow store procedures, and assist with stock organization."
+  },
+  {
+    "id": 15,
+    "title": "Crew Member",
+    "company": "Wendy's",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Prepare food, assist customers, maintain cleanliness, and support daily restaurant operations."
+  },
    {
     "id": 7,
     "title": "Claims Advisor - Auto",
