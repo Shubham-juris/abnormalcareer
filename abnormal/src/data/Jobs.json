@@ -1,5 +1,117 @@
 [
   {
+    "id": 30,
+    "title": "Administrative Assistant (Cleaning Company & Virtual Assistant Company)",
+    "company": "CrewBloom",
+    "location": "Calgary, AB (Work from home)",
+    "benefits": "Work from home",
+    "description": "Provide administrative support remotely. Requires prior admin experience and strong internet connectivity."
+  },
+  {
+    "id": 31,
+    "title": "Social Media Coordinator",
+    "company": "Digital Shift",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Create engaging social media content and help shape campaigns for businesses and communities."
+  },
+  {
+    "id": 32,
+    "title": "Business Development Representative (Remote)",
+    "company": "The Sales Factory",
+    "location": "Calgary, AB",
+    "benefits": "Vision care, Dental care",
+    "description": "Support early-stage sales engagement through research, qualification, and outreach."
+  },
+  {
+    "id": 33,
+    "title": "Digital Marketing Associate",
+    "company": "Digital Shift",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support digital marketing initiatives and communicate campaign progress to clients."
+  },
+  {
+    "id": 34,
+    "title": "IT Project Manager",
+    "company": "RELQ Technologies LLC",
+    "location": "Calgary, AB T2C 1K9",
+    "benefits": "",
+    "description": "Plan and manage project timelines, budgets, and resources while defining scope and deliverables."
+  },
+  {
+    "id": 35,
+    "title": "SEO Client Success Manager",
+    "company": "Digital Shift",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Act as a trusted partner to clients by managing and guiding ongoing SEO initiatives."
+  },
+  {
+    "id": 36,
+    "title": "Pricing Director",
+    "company": "Alimentiv",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Ensure pricing strategies align with financial goals in collaboration with senior leadership."
+  },
+  {
+    "id": 37,
+    "title": "Sr. Technical Project Manager – Client Service Delivery",
+    "company": "DataVisor",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off",
+    "description": "Lead technical projects with focus on fraud prevention and service delivery performance."
+  },
+  {
+    "id": 38,
+    "title": "DLM Associate – SAP Basis Administration",
+    "company": "SAP Fioneer",
+    "location": "Calgary, AB (Remote Canada)",
+    "benefits": "Life insurance, Employee assistance program, Company car",
+    "description": "Provide SAP Basis administration support with flexibility to work remotely across Canada."
+  },
+  {
+    "id": 39,
+    "title": "Product Manager – SAAS Application (Remote Canada)",
+    "company": "RELQ Technologies LLC",
+    "location": "Calgary, AB T2C 1K2",
+    "benefits": "",
+    "description": "Lead cross-functional agile teams and manage SAAS product development lifecycle."
+  },
+  {
+    "id": 40,
+    "title": "Product Owner / Product Manager",
+    "company": "RELQ Technologies LLC",
+    "location": "Calgary, AB T2C 1K2",
+    "benefits": "",
+    "description": "Collaborate with stakeholders and technical teams to deliver high-quality product releases."
+  },
+  {
+    "id": 41,
+    "title": ".NET Developer – Remote Canada",
+    "company": "RELQ Technologies LLC",
+    "location": "Calgary, AB T2C 1K2",
+    "benefits": "",
+    "description": "Develop scalable and secure applications for HRMS platforms using .NET technologies."
+  },
+  {
+    "id": 42,
+    "title": "Staff Software Engineer",
+    "company": "Wagepoint",
+    "location": "Calgary, AB (Work from home)",
+    "benefits": "Work from home",
+    "description": "Ensure clean code standards, CI/CD pipelines, and service performance aligned with SLAs."
+  },
+  {
+    "id": 43,
+    "title": "Geospatial Project Lead",
+    "company": "CORE Geomatics",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Lead geospatial projects while coordinating with field crews, drafters, and surveyors."
+  },
+  {
     "id": 16,
     "title": "Office Clerk",
     "company": "Asurtec Solutions Inc.",
@@ -5588,231 +5700,6 @@
     "description": "Utilize service information to print documents, check for recalls, and handle customer inquiries.",
     "location": "Drumheller, AB",
     "company": "Glover International Trucks Ltd"
-  },
-  {
-    "id": "cashier",
-    "title": "Cashier",
-    "type": "Full Time",
-    "posted": "2025-10-02T05:00:00Z",
-    "description": "Responsible for processing customer transactions and maintaining a clean checkout area."
-  },
-  {
-    "id": "warehouse-supervisor",
-    "title": "Warehouse Supervisor (12013)",
-    "type": "Full Time",
-    "posted": "2025-10-01T21:00:00Z",
-    "description": "Oversee daily warehouse operations, manage inventory, and supervise staff."
-  },
-  {
-    "id": "office-admin",
-    "title": "Office Administrative Assistant (13110)",
-    "type": "Full Time",
-    "posted": "2025-10-01T18:00:00Z",
-    "description": "Provide administrative support, manage schedules, and handle office correspondence."
-  },
-  {
-    "id": "delivery-driver",
-    "title": "Delivery Truck Driver (NOC 75201)",
-    "type": "Full Time",
-    "posted": "2025-09-30T22:00:00Z",
-    "description": "Transport goods to various locations while ensuring timely and safe deliveries."
-  },
-  {
-    "id": "sales-supervisor",
-    "title": "Sales Supervisor - Retail (NOC 62010)",
-    "type": "Full Time",
-    "posted": "2025-09-30T15:00:00Z",
-    "description": "Lead sales team, manage inventory, and ensure excellent customer service."
-  },
-  {
-    "id": "construction-labourer",
-    "title": "Construction Labourer - CLP Services Ltd.",
-    "type": "Full Time",
-    "posted": "2025-09-29T08:00:00Z",
-    "description": "Assist in various construction tasks, including site preparation and material handling."
-  },
-  {
-    "id": "inside-sales-representative",
-    "title": "Inside Sales Representative",
-    "type": "Full Time",
-    "posted": "2025-09-28T10:00:00Z",
-    "description": "Manage customer accounts, process orders, and provide product information."
-  },
-  {
-    "id": "manufacturing-coordinator",
-    "title": "Manufacturing Coordinator/Operations Manager",
-    "type": "Full Time",
-    "posted": "2025-09-27T14:00:00Z",
-    "description": "Develop and implement production plans, ensuring alignment with company objectives."
-  },
-  {
-    "id": "crown-prosecutor",
-    "title": "Crown Prosecutor",
-    "type": "Full Time",
-    "posted": "2025-09-26T16:00:00Z",
-    "description": "Handle criminal cases, represent the Crown in court, and provide legal advice."
-  },
-  {
-    "id": "shippers-receiver",
-    "title": "Shipper and Receiver",
-    "type": "Full Time",
-    "posted": "2025-09-25T12:00:00Z",
-    "description": "Manage inbound and outbound shipments, ensuring accurate and timely processing."
-  },
-  {
-    "id": "financial-advisor",
-    "title": "Financial Advisor - Member Contact Centre",
-    "type": "Full Time",
-    "posted": "2025-09-24T09:00:00Z",
-    "description": "Provide financial advice, assist with account management, and promote financial products."
-  },
-  {
-    "id": "resident-programs-aide",
-    "title": "Resident Programs Aide (Part Time) -- Extendicare Viking",
-    "type": "Part Time",
-    "posted": "2025-09-23T11:00:00Z",
-    "description": "Assist in planning and implementing recreational programs for residents."
-  },
-  {
-    "id": "member-experience-advisor",
-    "title": "Member Experience Advisor- Fort McMurray",
-    "type": "Full Time",
-    "posted": "2025-09-22T13:00:00Z",
-    "description": "Provide exceptional service to members, handle inquiries, and promote products."
-  },
-  {
-    "id": "class-3-propane-driver",
-    "title": "Class 3 Propane Driver",
-    "type": "Full Time",
-    "posted": "2025-09-21T15:00:00Z",
-    "description": "Transport propane to various locations, ensuring safety and compliance."
-  },
-  {
-    "id": "train-conductor",
-    "title": "Train Conductor",
-    "type": "Full Time",
-    "posted": "2025-09-20T17:00:00Z",
-    "description": "Operate trains, ensure safety protocols, and manage train schedules."
-  },
-  {
-    "id": "customer-service-representative",
-    "title": "Customer Service Representative",
-    "type": "Full Time",
-    "posted": "2025-09-19T18:00:00Z",
-    "description": "Handle customer inquiries, resolve issues, and provide product information."
-  },
-  {
-    "id": "proofreader-ai-trainer",
-    "title": "Proofreader- AI Trainer",
-    "type": "Contract",
-    "posted": "2025-09-18T19:00:00Z",
-    "description": "Review and edit AI-generated content, ensuring accuracy and quality."
-  },
-  {
-    "id": "bc-travel-nurse",
-    "title": "BC Travel Nurse",
-    "type": "Full Time",
-    "posted": "2025-09-17T20:00:00Z",
-    "description": "Provide nursing services across various locations in British Columbia."
-  },
-  {
-    "id": "plumber-apprentice",
-    "title": "Plumber — 1st Year Apprentice to Journeyman (Calgary)",
-    "type": "Full Time",
-    "posted": "2025-09-16T21:00:00Z",
-    "description": "Assist in plumbing installations and repairs under the guidance of experienced plumbers."
-  },
-  {
-    "id": "recruitment-clerk",
-    "title": "Recruitment Clerk",
-    "type": "Full Time",
-    "posted": "2025-09-15T22:00:00Z",
-    "description": "Assist in recruitment processes, maintain candidate records, and schedule interviews."
-  },
-  {
-    "id": "seasonal-retail-associate",
-    "title": "Seasonal Retail Associate",
-    "type": "Part Time",
-    "posted": "2025-09-14T23:00:00Z",
-    "description": "Provide customer service, manage inventory, and assist with sales during peak seasons."
-  },
-  {
-    "id": "service-support-assistant",
-    "title": "Service Support Assistant",
-    "type": "Full Time",
-    "posted": "2025-09-13T10:00:00Z",
-    "description": "Support service operations, manage service requests, and coordinate with technicians."
-  },
-  {
-    "id": "service-technician",
-    "title": "Service Technician",
-    "type": "Full Time",
-    "posted": "2025-09-12T11:00:00Z",
-    "description": "Perform maintenance and repairs on equipment, ensuring optimal performance."
-  },
-  {
-    "id": "sheet-metal-worker",
-    "title": "Sheet Metal Worker Journeyman - Commercial Installs",
-    "type": "Full Time",
-    "posted": "2025-09-11T12:00:00Z",
-    "description": "Install and repair sheet metal systems for commercial buildings."
-  },
-  {
-    "id": "class-1-grain-driver",
-    "title": "Class 1 Grain Driver Needed",
-    "type": "Full Time",
-    "posted": "2025-09-10T13:00:00Z",
-    "description": "Transport grain to various locations, ensuring timely deliveries."
-  },
-  {
-    "id": "heavy-duty-truck-mechanic",
-    "title": "Heavy Duty Truck Mechanic (Journey Men or Red Seal)",
-    "type": "Full Time",
-    "posted": "2025-09-09T14:00:00Z",
-    "description": "Perform maintenance and repairs on heavy-duty trucks, ensuring safety and compliance."
-  },
-  {
-    "id": "nurse-practitioner",
-    "title": "Nurse Practitioner",
-    "type": "Full Time",
-    "posted": "2025-09-08T15:00:00Z",
-    "description": "Provide primary healthcare services, diagnose conditions, and prescribe treatments."
-  },
-  {
-    "id": "maintenance-coordinator",
-    "title": "Maintenance Coordinator",
-    "type": "Full Time",
-    "posted": "2025-09-07T16:00:00Z",
-    "description": "Coordinate maintenance activities, manage schedules, and ensure equipment reliability."
-  },
-  {
-    "id": "saisonnier-a-lacceuil",
-    "title": "Saisonnier à l'accueil, Peter Pond Mall",
-    "type": "Part Time",
-    "posted": "2025-09-06T17:00:00Z",
-    "description": "Provide customer service at the mall entrance, assist with directions, and manage inquiries."
-  },
-  {
-    "id": "maintenance-technician",
-    "title": "Maintenance Technician Level 2",
-    "type": "Full Time",
-    "posted": "2025-09-05T18:00:00Z",
-    "description": "Perform maintenance tasks on equipment and facilities, ensuring operational efficiency."
-  },
-  {
-    "id": "relief-night-auditor",
-    "title": "Relief Night Auditor",
-    "type": "Part Time",
-    "posted": "2025-09-04T19:00:00Z",
-    "description": "Audit financial transactions during night shifts, ensuring accuracy and compliance."
-
-  },
-  {
-  "id": "software-developer",
-  "title": "Software Developer",
-  "type": "Full Time",
-  "posted": "2025-10-02T00:00:00Z",
-  "description": "Develop and maintain software applications, write clean and efficient code, troubleshoot and debug software issues, and collaborate with cross-functional teams to deliver high-quality software solutions."
-}
+  }
 ]
  
