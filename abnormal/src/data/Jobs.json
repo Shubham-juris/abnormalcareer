@@ -1,5 +1,117 @@
 [
   {
+    "id": 16,
+    "title": "Office Clerk",
+    "company": "Asurtec Solutions Inc.",
+    "location": "Calgary, AB T2P 4J8",
+    "benefits": "Paid time off, Dental care, RRSP match, Extended health care, Flexible schedule",
+    "description": "Support daily administrative and clerical operations in the Calgary office. High school diploma or equivalent required."
+  },
+  {
+    "id": 17,
+    "title": "Travel Agent",
+    "company": "Roxaco Asia Hospitality Group Inc.",
+    "location": "Calgary, AB T2P 4J8",
+    "benefits": "Paid time off, Dental care, RRSP match, Extended health care, Flexible schedule",
+    "description": "Assist clients in planning leisure and business travel while delivering excellent customer service."
+  },
+  {
+    "id": 18,
+    "title": "Guest Service Agent / Front Desk Agent",
+    "company": "Holiday Inn & Suites Calgary Airport North",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off, Vision care, Dental care, Extended health care, Flexible schedule",
+    "description": "Greet and register guests, provide courteous service, and manage guest accounts to meet brand standards."
+  },
+  {
+    "id": 19,
+    "title": "Receptionist / Administrator",
+    "company": "Shine Orthodontics",
+    "location": "Calgary, AB T3K 5A5",
+    "benefits": "Dental care, Wellness program",
+    "description": "Check-in and check-out patients, provide administrative support. Previous experience preferred but training provided."
+  },
+  {
+    "id": 20,
+    "title": "Administrative Assistant",
+    "company": "FPG",
+    "location": "Calgary, AB T2R 0R5",
+    "benefits": "",
+    "description": "Provide administrative support in a computer-based environment. Ideal for highly organized individuals."
+  },
+  {
+    "id": 21,
+    "title": "Wish Coordinator (18-Month Contract)",
+    "company": "Make-A-Wish Canada",
+    "location": "Calgary, AB",
+    "benefits": "Dental care, Wellness program, Fully covered group health and dental premiums",
+    "description": "Coordinate and manage wish experiences while supporting foundation operations."
+  },
+  {
+    "id": 22,
+    "title": "Receptionist / Admin Assistant",
+    "company": "Exchanger Industries Limited",
+    "location": "Calgary, AB T2C 4Y5",
+    "benefits": "",
+    "description": "Provide reception and administrative support for a globally recognized manufacturing organization."
+  },
+  {
+    "id": 23,
+    "title": "Manager, Guest Services (12-Month Contract)",
+    "company": "Landmark Cinemas",
+    "location": "Calgary, AB T2W 4X9",
+    "benefits": "Employee assistance program",
+    "description": "Develop collaborative relationships with guests and staff while leading guest service operations."
+  },
+  {
+    "id": 24,
+    "title": "Data Entry Clerk",
+    "company": "Legal Leaf Immigration Consulting Ltd.",
+    "location": "Calgary, AB T2E 7C8",
+    "benefits": "",
+    "description": "Receive, register, and enter documents according to specified data formats. High school certificate required."
+  },
+  {
+    "id": 25,
+    "title": "Administrative Support IV",
+    "company": "Primary Care Alberta",
+    "location": "Calgary, AB T3M 1M4",
+    "benefits": "",
+    "description": "Perform clinic and clerical duties with a strong commitment to accuracy and patient support."
+  },
+  {
+    "id": 26,
+    "title": "Graduate Program Administrator",
+    "company": "University of Calgary",
+    "location": "Calgary, AB T2N 1N4",
+    "benefits": "",
+    "description": "Provide administrative support to the Faculty of Science Graduate Program on a temporary full-time basis."
+  },
+  {
+    "id": 27,
+    "title": "Administrative Assistant",
+    "company": "HOREB Financial Services",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Answer calls, relay messages, greet visitors, and provide general administrative support."
+  },
+  {
+    "id": 28,
+    "title": "Competition & Events Coordinator (Temporary)",
+    "company": "MNP Community & Sport Centre",
+    "location": "Calgary, AB T2G 5B6",
+    "benefits": "",
+    "description": "Lead planning and execution of competitions and events while ensuring high-quality delivery."
+  },
+  {
+    "id": 29,
+    "title": "Retail Administrator",
+    "company": "Bondars Furniture",
+    "location": "Calgary, AB T2H 2S1",
+    "benefits": "",
+    "description": "Support daily showroom operations including customer orders, stock coordination, and admin tasks."
+  },
+  {
     "id": 1,
     "title": "Bartender",
     "company": "Red Lobster",
