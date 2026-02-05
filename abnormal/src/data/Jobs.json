@@ -1,5 +1,125 @@
 [
   {
+    "id": 44,
+    "title": "Bookkeeper",
+    "company": "Structure Bookkeeping",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Maintain accurate financial records, support month-end close tasks, and apply strong accounting principles. Requires 2+ years of bookkeeping experience."
+  },
+  {
+    "id": 45,
+    "title": "Administrative Assistant",
+    "company": "Enerva",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Ensure tasks progress smoothly, manage backlogs, roadmaps, and sprint-related documentation."
+  },
+  {
+    "id": 46,
+    "title": "Customer Service Representative – Real Estate Measurements and Media",
+    "company": "ListSimple",
+    "location": "Calgary, AB (Work from home)",
+    "benefits": "Work from home",
+    "description": "Provide customer support, manage CRM administrative work, coordinate with field technicians, and schedule appointments accurately."
+  },
+  {
+    "id": 47,
+    "title": "Client Care Coordinator / Healthcare Administrator",
+    "company": "In Good Nutrition",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off, Dental care, Flexible schedule, Work from home",
+    "description": "Support client service and practitioners while remaining calm, organized, and solution-focused in a fast-paced clinic environment."
+  },
+  {
+    "id": 48,
+    "title": "Customer Service Representative",
+    "company": "Jobber",
+    "location": "Calgary, AB",
+    "benefits": "Stock options, RRSP match, Extended health care",
+    "description": "Respond to customer inquiries via chat, phone, and email across the Jobber ecosystem."
+  },
+  {
+    "id": 49,
+    "title": "Scheduler – Remote Operations Centre (Control Room)",
+    "company": "Petronas Canada",
+    "location": "Calgary, AB",
+    "benefits": "Competitive compensation and bonus programs",
+    "description": "Manage daily scheduling activities within corporate policies and a safety-first framework."
+  },
+  {
+    "id": 50,
+    "title": "Condo Manager (Work From Home)",
+    "company": "Key Condo Management Ltd",
+    "location": "Calgary, AB T2G 3A7",
+    "benefits": "Mileage reimbursement, Paid time off, Work from home, Flexible schedule, Casual dress",
+    "description": "Manage condominium operations remotely with regular site visits using a reliable vehicle."
+  },
+  {
+    "id": 51,
+    "title": "Inbound Call Centre Sales Representative (Remote)",
+    "company": "NTT DATA",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Handle inbound sales calls, review competitor activities, and identify market trends."
+  },
+  {
+    "id": 52,
+    "title": "Board Administrator (Remote)",
+    "company": "CWB Group – Industry Services",
+    "location": "Calgary, AB",
+    "benefits": "Flexible schedule, RRSP",
+    "description": "Provide administrative and governance support to the board. Requires relevant education or equivalent experience."
+  },
+  {
+    "id": 53,
+    "title": "Social Media Coordinator",
+    "company": "Digital Shift",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Create engaging social media content, stories, and updates for real businesses and communities."
+  },
+  {
+    "id": 54,
+    "title": "Business Development Representative (Remote)",
+    "company": "The Sales Factory",
+    "location": "Calgary, AB",
+    "benefits": "Vision care, Dental care",
+    "description": "Support sales funnel activities through research, qualification, and early-stage engagement."
+  },
+  {
+    "id": 55,
+    "title": "Digital Marketing Associate",
+    "company": "Digital Shift",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Support digital marketing initiatives and clearly communicate campaign progress to clients."
+  },
+  {
+    "id": 56,
+    "title": "SEO Client Success Manager",
+    "company": "Digital Shift",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Guide clients through ongoing SEO initiatives as a trusted strategic partner."
+  },
+  {
+    "id": 57,
+    "title": "Sr. Technical Project Manager – Client Service Delivery",
+    "company": "DataVisor",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off",
+    "description": "Lead technical project delivery with focus on performance, security, and fraud prevention."
+  },
+  {
+    "id": 58,
+    "title": "DLM Associate – SAP Basis Administration",
+    "company": "SAP Fioneer",
+    "location": "Calgary, AB (Remote Canada)",
+    "benefits": "Life insurance, Employee assistance program, Company car",
+    "description": "Provide SAP Basis administration support with flexibility to work remotely across Canada."
+  },
+  {
     "id": 30,
     "title": "Administrative Assistant (Cleaning Company & Virtual Assistant Company)",
     "company": "CrewBloom",
