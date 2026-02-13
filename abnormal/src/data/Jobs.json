@@ -1,6 +1,102 @@
 [
   {
     "id": 44,
+    "title": "Scheduler, Remote Operations Centre (Control Room)",
+    "company": "Petronas Canada",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Capable of working effectively in an open space work environment with multiple stakeholders. This position is based in Calgary with a work schedule of 7 days on rotation."
+  },
+  {
+    "id": 45,
+    "title": "Work From Home: Condo Manager",
+    "company": "Key Condo Management Ltd",
+    "location": "Calgary, AB T2G 3A7",
+    "benefits": "Mileage reimbursement, Paid time off, Flexible schedule, Casual dress, Work from home",
+    "description": "Enjoy a flexible 40-hour workweek (including board meetings) from home, allowing work-life balance."
+  },
+  {
+    "id": 46,
+    "title": "DLM Associate - SAP Basis Administration",
+    "company": "SAP Fioneer",
+    "location": "Calgary, AB",
+    "benefits": "Life insurance, Employee assistance program, Company car",
+    "description": "Remote work anywhere in Canada with occasional travel to the Toronto office to meet the team."
+  },
+  {
+    "id": 47,
+    "title": "Product Manager - SAAS Application (Remote)",
+    "company": "RELQ TECHNOLOGIES LLC",
+    "location": "Calgary, AB T2C 1K2",
+    "benefits": "",
+    "description": "Proven ability to work effectively in remote, distributed teams. Product-based company specializing in SaaS HRMS solutions."
+  },
+  {
+    "id": 48,
+    "title": "Sr. Technical Project Manager - Client Service Delivery",
+    "company": "DataVisor",
+    "location": "Calgary, AB",
+    "benefits": "Paid time off",
+    "description": "Work with advanced machine learning, device intelligence, and decision engine tools to deliver client solutions."
+  },
+  {
+    "id": 49,
+    "title": "Sales Executive",
+    "company": "Open Source Integrators",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Full-time permanent role requiring strong work ethic, punctuality, and preparation for meetings. Master’s degree is a plus."
+  },
+  {
+    "id": 50,
+    "title": "Product Owner / Product Manager",
+    "company": "RELQ TECHNOLOGIES LLC",
+    "location": "Calgary, AB T2C 1K2",
+    "benefits": "",
+    "description": "Remote product role in a SaaS-based HRMS environment, working with distributed teams."
+  },
+  {
+    "id": 51,
+    "title": "Dot Net Developer - Remote Canada",
+    "company": "RELQ TECHNOLOGIES LLC",
+    "location": "Calgary, AB T2C 1K2",
+    "benefits": "",
+    "description": "Strong communication skills required with the ability to work independently in a remote team environment."
+  },
+  {
+    "id": 52,
+    "title": "Estimator (Civil Earthwork)",
+    "company": "Quanta Canada Renewables",
+    "location": "Calgary, AB T2P 2X6",
+    "benefits": "",
+    "description": "Responsible for planning and estimating civil earthwork projects with strong knowledge of construction methods and equipment."
+  },
+  {
+    "id": 53,
+    "title": "Senior & Intermediate Developers (Remote)",
+    "company": "Sparrow Connected",
+    "location": "Calgary, AB T2P 3H9",
+    "benefits": "Stock options",
+    "description": "Design and develop high-quality features using test-driven development to ensure reliable and maintainable code."
+  },
+  {
+    "id": 54,
+    "title": "Azure DevOps Specialist (Remote)",
+    "company": "Sparrow Connected",
+    "location": "Calgary, AB T2P 3H9",
+    "benefits": "Stock options",
+    "description": "Must be a Canadian citizen or permanent resident. Responsible for cloud infrastructure and DevOps processes."
+  },
+  {
+    "id": 55,
+    "title": "Senior Software Engineer - Canada",
+    "company": "DataVisor",
+    "location": "Calgary, AB",
+    "benefits": "Vision care, Dental care, Life insurance, Paid vacation, Extended health care",
+    "description": "Work on advanced unsupervised machine learning, device intelligence, and fraud prevention platforms."
+  },
+  {
+    "id": 44,
     "title": "Bookkeeper",
     "company": "Structure Bookkeeping",
     "location": "Calgary, AB",
