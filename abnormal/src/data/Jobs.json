@@ -1,5 +1,68 @@
 [
   {
+    "id": "fleet_mechanic_009",
+    "title": "Fleet Mechanic",
+    "type": "Full Time",
+    "posted": "2025-10-06T08:45:00Z",
+    "description": "Maintain and repair fleet trucks, perform diagnostics, ensure vehicles compliance and readiness, report issues.",
+    "location": "Medicine Hat, AB",
+    "company": "Highway Motors"
+  },
+  {
+    "id": "supply_chain_coordinator_010",
+    "title": "Supply Chain Coordinator",
+    "type": "Full Time",
+    "posted": "2025-10-06T15:20:00Z",
+    "description": "Coordinate supply chain processes end-to-end, liaise with vendors/customers, track shipments and performance.",
+    "location": "St. Albert, AB",
+    "company": "ProLogi Canada"
+  },
+  {
+    "id": "operations_supervisor_011",
+    "title": "Operations Supervisor",
+    "type": "Full Time",
+    "posted": "2025-10-06T07:55:00Z",
+    "description": "Supervise operations team, monitor KPIs, ensure service levels, implement process improvements.",
+    "location": "Sherwood Park, AB",
+    "company": "LogiServe Inc."
+  },
+  {
+    "id": "customer_service_manager_012",
+    "title": "Customer Service Manager",
+    "type": "Full Time",
+    "posted": "2025-10-06T11:10:00Z",
+    "description": "Manage customer service team, handle escalations, monitor service quality, liaise with operations & sales.",
+    "location": "Red Deer, AB",
+    "company": "ClientFirst Logistics"
+  },
+  {
+    "id": "journeyman_parts_technician",
+    "title": "Journeyman Parts Technician - Heavy Duty",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Prepare and maintain sales orders, customer lists, and purchase orders with receipts. Provide estimates to internal and external customers.",
+    "location": "Lloydminster, AB",
+    "company": "Truck Zone"
+  },
+  {
+    "id": "service_writer",
+    "title": "Service Writer",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Utilize service information to print documents, check for recalls, and handle customer inquiries.",
+    "location": "Drumheller, AB",
+    "company": "Glover International Trucks Ltd"
+  },
+  {
+    "id": "mobile_app_developer",
+    "title": "Mobile App Developer - AI Trainer",
+    "type": "Full Time",
+    "posted": "2025-10-02T05:00:00Z",
+    "description": "Train AI models by annotating data and providing feedback on app performance.",
+    "location": "Calgary, AB",
+    "company": "DataAnnotation"
+  },
+  {
     "id": "conseiller_bancaire",
     "title": "Conseiller bancaire",
     "type": "Full Time",
@@ -5952,70 +6015,6 @@
     "description": "Analyze inventory levels, forecast demand, coordinate restocking and reporting, reduce stock-outs and excess.",
     "location": "Grande Prairie, AB",
     "company": "SupplyMax"
-  },
-  {
-    "id": "fleet_mechanic_009",
-    "title": "Fleet Mechanic",
-    "type": "Full Time",
-    "posted": "2025-10-06T08:45:00Z",
-    "description": "Maintain and repair fleet trucks, perform diagnostics, ensure vehicles compliance and readiness, report issues.",
-    "location": "Medicine Hat, AB",
-    "company": "Highway Motors"
-  },
-  {
-    "id": "supply_chain_coordinator_010",
-    "title": "Supply Chain Coordinator",
-    "type": "Full Time",
-    "posted": "2025-10-06T15:20:00Z",
-    "description": "Coordinate supply chain processes end-to-end, liaise with vendors/customers, track shipments and performance.",
-    "location": "St. Albert, AB",
-    "company": "ProLogi Canada"
-  },
-  {
-    "id": "operations_supervisor_011",
-    "title": "Operations Supervisor",
-    "type": "Full Time",
-    "posted": "2025-10-06T07:55:00Z",
-    "description": "Supervise operations team, monitor KPIs, ensure service levels, implement process improvements.",
-    "location": "Sherwood Park, AB",
-    "company": "LogiServe Inc."
-  },
-  {
-    "id": "customer_service_manager_012",
-    "title": "Customer Service Manager",
-    "type": "Full Time",
-    "posted": "2025-10-06T11:10:00Z",
-    "description": "Manage customer service team, handle escalations, monitor service quality, liaise with operations & sales.",
-    "location": "Red Deer, AB",
-    "company": "ClientFirst Logistics"
-  },
-  {
-    "id": "journeyman_parts_technician",
-    "title": "Journeyman Parts Technician - Heavy Duty",
-    "type": "Full Time",
-    "posted": "2025-10-02T05:00:00Z",
-    "description": "Prepare and maintain sales orders, customer lists, and purchase orders with receipts. Provide estimates to internal and external customers.",
-    "location": "Lloydminster, AB",
-    "company": "Truck Zone"
-  },
-  {
-    "id": "service_writer",
-    "title": "Service Writer",
-    "type": "Full Time",
-    "posted": "2025-10-02T05:00:00Z",
-    "description": "Utilize service information to print documents, check for recalls, and handle customer inquiries.",
-    "location": "Drumheller, AB",
-    "company": "Glover International Trucks Ltd"
-  },
-  {
-    "id": "mobile_app_developer",
-    "title": "Mobile App Developer - AI Trainer",
-    "type": "Full Time",
-    "posted": "2025-10-02T05:00:00Z",
-    "description": "Train AI models by annotating data and providing feedback on app performance.",
-    "location": "Calgary, AB",
-    "company": "DataAnnotation"
   }
-  
 ]
  
