@@ -1,5 +1,68 @@
 [
   {
+    "id": "warehouse_supervisor_002",
+    "title": "Warehouse Supervisor",
+    "type": "Full Time",
+    "posted": "2025-10-06T08:30:00Z",
+    "description": "Oversee daily warehouse operations, manage staff, ensure timely dispatch and receiving, maintain safety and inventory controls.",
+    "location": "Edmonton, AB",
+    "company": "Northern Logistics"
+  },
+  {
+    "id": "transport_coordinator_003",
+    "title": "Transportation Coordinator",
+    "type": "Full Time",
+    "posted": "2025-10-05T11:00:00Z",
+    "description": "Coordinate transportation schedules, manage carriers, ensure delivery compliance and tracking, liaise with clients.",
+    "location": "Calgary, AB",
+    "company": "Western Freight"
+  },
+  {
+    "id": "customs_broker_004",
+    "title": "Customs Broker",
+    "type": "Full Time",
+    "posted": "2025-10-04T14:20:00Z",
+    "description": "Prepare and submit customs declarations, ensure regulatory compliance, liaise with customs authorities and clients.",
+    "location": "Edmonton, AB",
+    "company": "Border Solutions Inc."
+  },
+  {
+    "id": "distribution_manager_005",
+    "title": "Distribution Manager",
+    "type": "Full Time",
+    "posted": "2025-10-06T13:50:00Z",
+    "description": "Manage distribution networks, optimize routes, supervise staff, ensure timely deliveries and cost control.",
+    "location": "Red Deer, AB",
+    "company": "Alberta Distributions"
+  },
+  {
+    "id": "forklift_operator_006",
+    "title": "Forklift Operator",
+    "type": "Full Time",
+    "posted": "2025-10-06T09:15:00Z",
+    "description": "Operate forklift to load/unload goods, maintain safety standards, assist with inventory and material handling.",
+    "location": "Lethbridge, AB",
+    "company": "AgriLogistics"
+  },
+  {
+    "id": "logistics_planner_007",
+    "title": "Logistics Planner",
+    "type": "Full Time",
+    "posted": "2025-10-06T12:40:00Z",
+    "description": "Plan and optimize logistics plans, coordinate shipments and warehousing, analyze performance metrics.",
+    "location": "Fort McMurray, AB",
+    "company": "Northern Movers"
+  },
+  {
+    "id": "inventory_analyst_008",
+    "title": "Inventory Analyst",
+    "type": "Full Time",
+    "posted": "2025-10-06T10:30:00Z",
+    "description": "Analyze inventory levels, forecast demand, coordinate restocking and reporting, reduce stock-outs and excess.",
+    "location": "Grande Prairie, AB",
+    "company": "SupplyMax"
+  },
+  {
     "id": "fleet_mechanic_009",
     "title": "Fleet Mechanic",
     "type": "Full Time",
@@ -5952,69 +6015,7 @@
     "description": "Manage pipeline integrity programs, inspections, data analysis, compliance.",
     "location": "Calgary, AB",
     "company": "TC Energy"
-  },
-  {
-    "id": "warehouse_supervisor_002",
-    "title": "Warehouse Supervisor",
-    "type": "Full Time",
-    "posted": "2025-10-06T08:30:00Z",
-    "description": "Oversee daily warehouse operations, manage staff, ensure timely dispatch and receiving, maintain safety and inventory controls.",
-    "location": "Edmonton, AB",
-    "company": "Northern Logistics"
-  },
-  {
-    "id": "transport_coordinator_003",
-    "title": "Transportation Coordinator",
-    "type": "Full Time",
-    "posted": "2025-10-05T11:00:00Z",
-    "description": "Coordinate transportation schedules, manage carriers, ensure delivery compliance and tracking, liaise with clients.",
-    "location": "Calgary, AB",
-    "company": "Western Freight"
-  },
-  {
-    "id": "customs_broker_004",
-    "title": "Customs Broker",
-    "type": "Full Time",
-    "posted": "2025-10-04T14:20:00Z",
-    "description": "Prepare and submit customs declarations, ensure regulatory compliance, liaise with customs authorities and clients.",
-    "location": "Edmonton, AB",
-    "company": "Border Solutions Inc."
-  },
-  {
-    "id": "distribution_manager_005",
-    "title": "Distribution Manager",
-    "type": "Full Time",
-    "posted": "2025-10-06T13:50:00Z",
-    "description": "Manage distribution networks, optimize routes, supervise staff, ensure timely deliveries and cost control.",
-    "location": "Red Deer, AB",
-    "company": "Alberta Distributions"
-  },
-  {
-    "id": "forklift_operator_006",
-    "title": "Forklift Operator",
-    "type": "Full Time",
-    "posted": "2025-10-06T09:15:00Z",
-    "description": "Operate forklift to load/unload goods, maintain safety standards, assist with inventory and material handling.",
-    "location": "Lethbridge, AB",
-    "company": "AgriLogistics"
-  },
-  {
-    "id": "logistics_planner_007",
-    "title": "Logistics Planner",
-    "type": "Full Time",
-    "posted": "2025-10-06T12:40:00Z",
-    "description": "Plan and optimize logistics plans, coordinate shipments and warehousing, analyze performance metrics.",
-    "location": "Fort McMurray, AB",
-    "company": "Northern Movers"
-  },
-  {
-    "id": "inventory_analyst_008",
-    "title": "Inventory Analyst",
-    "type": "Full Time",
-    "posted": "2025-10-06T10:30:00Z",
-    "description": "Analyze inventory levels, forecast demand, coordinate restocking and reporting, reduce stock-outs and excess.",
-    "location": "Grande Prairie, AB",
-    "company": "SupplyMax"
   }
+  
 ]
  
