@@ -1,5 +1,125 @@
 [
   {
+    "id": 16,
+    "title": "Part Time Cast Member- Cineplex Odeon Westhills Cinemas",
+    "company": "Cineplex",
+    "location": "Calgary, AB",
+    "benefits": "Tuition reimbursement, Flexible schedule",
+    "description": "Successful candidates will enjoy free movies, competitive wages, flexible hours, tuition assistance and cash incentive programs."
+  },
+  {
+    "id": 17,
+    "title": "Data Entry Clerk, Surveys (Calgary)",
+    "company": "CMHC",
+    "location": "Calgary, AB T2P 5L5",
+    "benefits": "",
+    "description": "Demonstrated strong numerical aptitude with a high degree of accuracy and attention to detail. Strong organizational skills and ability to manage data efficiently."
+  },
+  {
+    "id": 18,
+    "title": "Receptionist- Casual",
+    "company": "Cogir Senior Living Canada",
+    "location": "Calgary, AB T3L 1Y6",
+    "benefits": "",
+    "description": "Reporting to on site Management, the Receptionist will respond to incoming calls, greet and direct visitors, and answer inquiries in a professional and positive manner."
+  },
+  {
+    "id": 19,
+    "title": "Administrative Assistant",
+    "company": "Kidz Planet childcare center",
+    "location": "Calgary, AB T2C 0R3",
+    "benefits": "",
+    "description": "Answer telephone and relay calls and messages. Type and proofread correspondence, forms and documents. Experience required: 2 years to less than 3 years."
+  },
+  {
+    "id": 20,
+    "title": "Cashier",
+    "company": "Save-On-Foods",
+    "location": "Calgary, AB",
+    "benefits": "Tuition reimbursement, Wellness program",
+    "description": "Provide excellent customer service, handle transactions, share product knowledge and assist customers with inquiries."
+  },
+  {
+    "id": 21,
+    "title": "Bartender's Assistant",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "Assist bartenders in keeping the bar running smoothly. A valid Serve it Right certification is required."
+  },
+  {
+    "id": 22,
+    "title": "Airport Dispatch Coordinator - YYC (PT)",
+    "company": "Unifi Aviation Canada, Inc.",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Monitor future flights, identify potential issues and coordinate solutions, especially related to delayed inbound and outbound baggage."
+  },
+  {
+    "id": 23,
+    "title": "Proshop Attendants",
+    "company": "River Spirit Golf Club",
+    "location": "Calgary, AB T3Z 2W4",
+    "benefits": "",
+    "description": "Process payments for green fees, merchandise and rentals. Greet members and guests with a friendly and professional attitude."
+  },
+  {
+    "id": 24,
+    "title": "Door Host",
+    "company": "GRETA YYC",
+    "location": "Calgary, AB T2R 0A4",
+    "benefits": "",
+    "description": "Observe guests and maintain safety. Verify identification for individuals who appear to be underage."
+  },
+  {
+    "id": 25,
+    "title": "Office Assistant",
+    "company": "Di Leone Group",
+    "location": "Calgary, AB",
+    "benefits": "",
+    "description": "Assist with office administration and human resources related tasks. Looking for candidates with professional skills and legal or HR knowledge."
+  },
+  {
+    "id": 26,
+    "title": "Client Experience Coordinator",
+    "company": "Nose Creek Sport Physiotherapy",
+    "location": "Calgary, AB",
+    "benefits": "Dental care",
+    "description": "Coordinate client experience and assist with clinic operations. Salary starting at $16/hour probationary, then $17/hour."
+  },
+  {
+    "id": 27,
+    "title": "Back Shop Attendant",
+    "company": "River Spirit Golf Club",
+    "location": "Calgary, AB T3Z 2W4",
+    "benefits": "",
+    "description": "Operate ball picker and maintain driving range. Assist members and guests when they arrive and depart."
+  },
+  {
+    "id": 28,
+    "title": "Soccer Coach - Learn to Play",
+    "company": "Summer FC",
+    "location": "Calgary, AB",
+    "benefits": "Flexible schedule",
+    "description": "Teach soccer fundamentals to young players. Valid driver's license and reliable transportation required."
+  },
+  {
+    "id": 29,
+    "title": "Bartender",
+    "company": "Red Lobster",
+    "location": "Calgary, AB T2A 6S7",
+    "benefits": "Vision care, Dental care, Life insurance",
+    "description": "Take food and drink orders, manage POS entries and ensure guests have a great dining experience."
+  },
+  {
+    "id": 30,
+    "title": "Host",
+    "company": "Red Lobster",
+    "location": "Calgary, AB T2H 0K5",
+    "benefits": "Vision care, Dental care, Life insurance",
+    "description": "Welcome guests, manage seating and provide excellent first impression of the restaurant."
+  },
+  {
     "id": "warehouse_supervisor_002",
     "title": "Warehouse Supervisor",
     "type": "Full Time",
