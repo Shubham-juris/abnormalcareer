@@ -1,5 +1,77 @@
 [
   {
+"id": 16,
+"title": "Fan Experience Team Member",
+"company": "Calgary Sports and Entertainment Corporation",
+"location": "Calgary, AB T2G 2W1",
+"benefits": "",
+"description": "Assist with guest arrival while ticket taking and assisting guests through security screening. Create a personal understanding of venues to best assist visitors."
+},
+{
+"id": 17,
+"title": "Visitor Services Attendants and Visitor Services Crew Leads",
+"company": "Government of Alberta",
+"location": "Calgary, AB",
+"benefits": "Employee assistance program",
+"description": "Process card and cash payments for admissions and retail merchandise items using approved Government of Alberta procedures and POS systems."
+},
+{
+"id": 18,
+"title": "Administrative Assistant",
+"company": "Calgary Eye Centre",
+"location": "Calgary, AB T1Y 6H6",
+"benefits": "Extended health care",
+"description": "Supervise personnel clerks performing filing, typing and record-keeping duties. Manage routine office functions including reception, telephone handling and booking."
+},
+{
+"id": 19,
+"title": "Admissions Officer - Secondary Educational Institution",
+"company": "Access Academy",
+"location": "Calgary, AB T3E 7K1",
+"benefits": "",
+"description": "Review and evaluate new administrative procedures and carry out administrative activities of the educational institution."
+},
+{
+"id": 20,
+"title": "Patient Care Aide",
+"company": "Golden Home Caregivers Corporation",
+"location": "Calgary, AB T2A 6K4",
+"benefits": "",
+"description": "Provide patient assistance and administer first aid in emergency situations. Requires a college or diploma program of 1 to 2 years."
+},
+{
+"id": 21,
+"title": "Receptionist-Secretary",
+"company": "Legacy Chiropractic Wellness",
+"location": "Calgary, AB",
+"benefits": "Flexible schedule",
+"description": "Answer telephone calls and relay messages. Perform clerical duties such as filing, sorting and distributing documents."
+},
+{
+"id": 22,
+"title": "(CAN) Self Checkout Attendant - Part Time Temp",
+"company": "Walmart Canada",
+"location": "Calgary, AB",
+"benefits": "",
+"description": "Provide exceptional customer service and assist customers with transactions through self-checkout systems."
+},
+{
+"id": 23,
+"title": "Test Administrator",
+"company": "Pearson",
+"location": "Calgary, AB T2R 1R7",
+"benefits": "Paid sick leave",
+"description": "Part-time role (10-20 hours per week). Responsible for administering tests and assisting during peak testing periods."
+},
+{
+"id": 24,
+"title": "Registry Agent",
+"company": "Alberta Motor Association",
+"location": "Calgary, AB",
+"benefits": "Paid time off, AMA discounts, 50% off memberships and driver education programs",
+"description": "Provide registry services and assist customers with documentation and registration processes while delivering friendly customer service."
+},
+  {
     "id": 16,
     "title": "Part Time Cast Member- Cineplex Odeon Westhills Cinemas",
     "company": "Cineplex",
